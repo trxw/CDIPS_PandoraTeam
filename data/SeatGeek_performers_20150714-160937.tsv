@@ -1,0 +1,4 @@
+id	name	slug	score	short_name	event_count	has_upcoming	genres	type	events	url
+25192	Jose Gonzalez	jose-gonzalez	0.51454	Jose Gonzalez	18	True	singer-songwriter	band	2287152,2498900,2468649,2451870,2486333,2451869,2528831,2396635,2377713,2396636	https://seatgeek.com/jose-gonzalez-tickets
+1239	MGMT	mgmt	0.56974	MGMT	0	False	electronic	band		https://seatgeek.com/mgmt-tickets
+1739	The Tallest Man On Earth	the-tallest-man-on-earth	0.54912	The Tallest Man On Earth	46	True	folk	band	2381018,2381019,2381015,2610473,2617863,2468649,2451870,2611547,2610543,2611576	https://seatgeek.com/the-tallest-man-on-earth-tickets
