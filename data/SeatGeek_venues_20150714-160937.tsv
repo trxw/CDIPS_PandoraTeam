@@ -1,0 +1,12 @@
+id	name	country	city	state	extended_address	url	display_location	score	postal_code	address	timezone	slug	event_count	lat	lon
+35741	Henham Park	UK	Beccles	Sfk	Beccles, UK	https://seatgeek.com/venues/henham-park/tickets/	Beccles, UK	0.53649	NR34 8AN	Beccles	Europe/London	henham-park	4	52.3499	1.58697
+10265	Marlay Park	Ireland	Dublin	D	Dublin, Ireland	https://seatgeek.com/venues/marlay-park/tickets/	Dublin, Ireland	0.5426	14	Rathfarnham	Europe/Dublin	marlay-park	5	53.2733	-6.26886
+2293	Fort Adams State Park	US	Newport	RI	Newport, RI 02840	https://seatgeek.com/venues/fort-adams-state-park/tickets/	Newport, RI	0.68814	02840	84 Fort Adams Dr	America/New_York	fort-adams-state-park	11	41.4767	-71.3354
+41945	Green Park - St. Polten	Austria	St. Polten		St. Polten, Austria	https://seatgeek.com/venues/green-park-st-polten/tickets/	St. Polten, Austria	0.0	3109	9 Kelsengasse	Europe/Vienna	green-park-st-polten	1	48.18	15.6234
+3850	Zilker Park	US	Austin	TX	Austin, TX 78746	https://seatgeek.com/venues/zilker-park/tickets/	Austin, TX	0.83187	78746	2100 Barton Springs Road	America/Chicago	zilker-park	12	30.2656	-97.7661
+8489	Louisville Waterfront Park	US	Louisville	KY	Louisville, KY 40202	https://seatgeek.com/venues/louisville-waterfront-park-1/tickets/	Louisville, KY	0.63448	40202	300 East River Road	America/Kentucky/Louisville	louisville-waterfront-park-1	4	38.2599	-85.7429
+204	Royal Oak Music Theatre	US	Royal Oak	MI	Royal Oak, MI 48067	https://seatgeek.com/venues/royal-oak-music-theatre/tickets/	Royal Oak, MI	0.55709	48067	318 W. 4th St.	America/New_York	royal-oak-music-theatre	25	42.4874	-83.1474
+2730	Babeville	US	Buffalo	NY	Buffalo, NY 14202	https://seatgeek.com/venues/babeville/tickets/	Buffalo, NY	0.53747	14202	341 Delaware Avenue	America/New_York	babeville	2	42.8938	-78.8758
+357	The National	US	Richmond	VA	Richmond, VA 23219	https://seatgeek.com/venues/the-national/tickets/	Richmond, VA	0.5334	23219	708 East Broad Street	America/New_York	the-national	29	37.5419	-77.4352
+1180	Carnegie Library Music Hall	US	Munhall	PA	Munhall, PA 15120	https://seatgeek.com/venues/carnegie-library-music-hall/tickets/	Munhall, PA	0.49916	15120	510 East 10th Avenue	America/New_York	carnegie-library-music-hall	12	40.407	-79.9029
+440	The Pageant	US	Saint Louis	MO	Saint Louis, MO 63112	https://seatgeek.com/venues/the-pageant/tickets/	Saint Louis, MO	0.57397	63112	6161 Delmar Blvd	America/Chicago	the-pageant	28	38.6556	-90.2979
