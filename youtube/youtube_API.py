@@ -2,19 +2,29 @@
 # extracts basic stats from youtube videos: capped at 50 hits
 # output dataframe variable: 'df'
 
-# User required inputs: 
+# User required inputs:
 #INPUT your search name here or use the --q argument
 search_term = 'Taylor Swift'
 #INPUT your DEVELOPER Key: (get one here https://console.developers.google.com/project)
-DEVELOPER_KEY = "insert_your_key_here" 
+DEVELOPER_KEY = "AIzaSyD7egN3og74-rRTMGI2Vn_Bf_MBbhl9bFQ"
 
 #import modules
 from apiclient.discovery import build #pip install google-api-python-client
-from apiclient.errors import HttpError 
+from apiclient.errors import HttpError
 from oauth2client.tools import argparser #pip install oauth2client
 import matplotlib as plt
 import pandas as pd
 import argparse
+
+import re
+def cleanName(name):
+    """
+    Use regular expressions to change an artist name string into
+    a valid seatgeek slug.
+    """
+    r = re.compile(r"\s+")
+    s = r.sub("_", name) # "a\nb\nc
+    return s.lower()
 
 #specify API
 #YOUTUBE_API_SERVICE_NAME = "youtubeAnalytics"
@@ -65,3 +75,9 @@ for i in videos_list_response['items']:
 
 results = pd.DataFrame.from_dict(res)
 print results
+
+# output a .csv file
+results['search_term'] = args.q
+results.to_csv('youtube_'+cleanName(args.q)+'.csv',index_label='id',\
+               encoding="utf-8")
+
