@@ -221,7 +221,7 @@ for iservice in range(1,len(json_obj)):
     #loop through metrics
     for i in range(0,len(mets)): #loop through each metric
         try:  dates = sorted([int(day)*86400 for day in json_obj[iservice]['Metric'][mets[i]].keys()])
-        except: break
+        except: continue
         formattedDate = []
         for date in dates:
             formattedDate.append(dt.datetime.fromtimestamp(date).strftime('%Y%m%d'))
