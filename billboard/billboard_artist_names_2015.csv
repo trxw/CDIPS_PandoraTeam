@@ -1,111 +1,111 @@
-,artist_name
-0,Milky Chance
-1,Fall Out Boy
-2,Nick Jonas
-3,Meghan Trainor
-4,Florida Georgia Line
-5,Alesso
-6,Tim McGraw
-7,Ed Sheeran
-8,Kid Ink
-9,"Weeknd, The"
-10,Lee Brice
-11,Calvin Harris
-12,Flo Rida
-13,Eric Church
-14,Iggy Azalea
-15,Taylor Swift
-16,Ella Henderson
-17,Kenny Chesney
-18,Shawn Mendes
-19,Brett Eldredge
-20,Darius Rucker
-21,WALK THE MOON
-22,Mark Ronson
-23,Thomas Rhett
-24,Ne-Yo
-25,Nicki Minaj
-26,O.T. Genasis
-27,Usher
-28,Ariana Grande
-29,OneRepublic
-30,Luke Bryan
-31,Fifth Harmony
-32,Pitbull
-33,Mariah Carey
-34,Lillywood
-35,Sheppard
-36,Randy Houser
-37,Charli XCX
-38,Matt McAndrew
-39,Craig Wayne Boyd
-40,Chris Jamison
-41,Jessie J
-42,Damien
-43,J. Cole
-44,Chris Young
-45,Prince Royce
-46,French Montana
-47,Becky G
-48,Kanye West
-49,Rae Sremmurd
-50,Sam Hunt
-51,Jake Owen
-52,Tyler Farr
-53,Chase Bryant
-54,Cole Swindell
-55,G-Eazy
-56,Sia
-57,Chris Brown
-58,Ellie Goulding
-59,Sophia Grace
-60,I Prevail
-61,B.o.B
-62,Omarion
-63,Hoodie Allen
-64,Maroon 5
-65,Kelly Clarkson
-66,Zac Brown Band
-67,Common
-68,Dierks Bentley
-69,Wale
-70,Rihanna
-71,Fetty Wap
-72,Natalie La Rose
-73,Trey Songz
-74,Vance Joy
-75,Blake Shelton
-76,Imagine Dragons
-77,George Ezra
-78,Tove Lo
-79,Ciara
-80,Jason Aldean
-81,Missy Elliott
-82,Big Sean
-83,Sam Smith
-84,A-Trak + Milo & Otis
-85,Little Big Town
-86,Drake
-87,Miranda Lambert
-88,Andy Grammer
-89,Annie Lennox
-90,Empire Cast
-91,Florence + The Machine
-92,Wiz Khalifa
-93,Zedd
-94,Kid Rock
-95,Tori Kelly
-96,A Thousand Horses
-97,Keith Urban
-98,Silento
-99,Carly Rae Jepsen
-100,Billy Currington
-101,Cashmere Cat
-102,Eric Paslay
-103,Meek Mill
-104,Skrillex
-105,Mumford & Sons
-106,Jason DeRulo
-107,LunchMoney Lewis
-108,Echosmith
-109,Carrie Underwood
+artist_name,artist_name_clean,artist_name_underscore,artist_name_query,artist_name_dash
+Milky Chance,Milky Chance,milky_chance,milky+chance,milky-chance
+Fall Out Boy,Fall Out Boy,fall_out_boy,fall+out+boy,fall-out-boy
+Nick Jonas,Nick Jonas,nick_jonas,nick+jonas,nick-jonas
+Meghan Trainor,Meghan Trainor,meghan_trainor,meghan+trainor,meghan-trainor
+Florida Georgia Line,Florida Georgia Line,florida_georgia_line,florida+georgia+line,florida-georgia-line
+Alesso,Alesso,alesso,alesso,alesso
+Tim McGraw,Tim McGraw,tim_mcgraw,tim+mcgraw,tim-mcgraw
+Ed Sheeran,Ed Sheeran,ed_sheeran,ed+sheeran,ed-sheeran
+Kid Ink,Kid Ink,kid_ink,kid+ink,kid-ink
+"Weeknd, The",The Weeknd,the_weeknd,the+weeknd,the-weeknd
+Lee Brice,Lee Brice,lee_brice,lee+brice,lee-brice
+Calvin Harris,Calvin Harris,calvin_harris,calvin+harris,calvin-harris
+Flo Rida,Flo Rida,flo_rida,flo+rida,flo-rida
+Eric Church,Eric Church,eric_church,eric+church,eric-church
+Iggy Azalea,Iggy Azalea,iggy_azalea,iggy+azalea,iggy-azalea
+Taylor Swift,Taylor Swift,taylor_swift,taylor+swift,taylor-swift
+Ella Henderson,Ella Henderson,ella_henderson,ella+henderson,ella-henderson
+Kenny Chesney,Kenny Chesney,kenny_chesney,kenny+chesney,kenny-chesney
+Shawn Mendes,Shawn Mendes,shawn_mendes,shawn+mendes,shawn-mendes
+Brett Eldredge,Brett Eldredge,brett_eldredge,brett+eldredge,brett-eldredge
+Darius Rucker,Darius Rucker,darius_rucker,darius+rucker,darius-rucker
+WALK THE MOON,WALK THE MOON,walk_the_moon,walk+the+moon,walk-the-moon
+Mark Ronson,Mark Ronson,mark_ronson,mark+ronson,mark-ronson
+Thomas Rhett,Thomas Rhett,thomas_rhett,thomas+rhett,thomas-rhett
+Ne-Yo,Ne-Yo,ne-yo,ne-yo,ne-yo
+Nicki Minaj,Nicki Minaj,nicki_minaj,nicki+minaj,nicki-minaj
+O.T. Genasis,O.T. Genasis,o.t._genasis,o.t.+genasis,o.t.-genasis
+Usher,Usher,usher,usher,usher
+Ariana Grande,Ariana Grande,ariana_grande,ariana+grande,ariana-grande
+OneRepublic,OneRepublic,onerepublic,onerepublic,onerepublic
+Luke Bryan,Luke Bryan,luke_bryan,luke+bryan,luke-bryan
+Fifth Harmony,Fifth Harmony,fifth_harmony,fifth+harmony,fifth-harmony
+Pitbull,Pitbull,pitbull,pitbull,pitbull
+Mariah Carey,Mariah Carey,mariah_carey,mariah+carey,mariah-carey
+Lillywood,Lillywood,lillywood,lillywood,lillywood
+Sheppard,Sheppard,sheppard,sheppard,sheppard
+Randy Houser,Randy Houser,randy_houser,randy+houser,randy-houser
+Charli XCX,Charli XCX,charli_xcx,charli+xcx,charli-xcx
+Matt McAndrew,Matt McAndrew,matt_mcandrew,matt+mcandrew,matt-mcandrew
+Craig Wayne Boyd,Craig Wayne Boyd,craig_wayne_boyd,craig+wayne+boyd,craig-wayne-boyd
+Chris Jamison,Chris Jamison,chris_jamison,chris+jamison,chris-jamison
+Jessie J,Jessie J,jessie_j,jessie+j,jessie-j
+Damien,Damien,damien,damien,damien
+J. Cole,J. Cole,j._cole,j.+cole,j.-cole
+Chris Young,Chris Young,chris_young,chris+young,chris-young
+Prince Royce,Prince Royce,prince_royce,prince+royce,prince-royce
+French Montana,French Montana,french_montana,french+montana,french-montana
+Becky G,Becky G,becky_g,becky+g,becky-g
+Kanye West,Kanye West,kanye_west,kanye+west,kanye-west
+Rae Sremmurd,Rae Sremmurd,rae_sremmurd,rae+sremmurd,rae-sremmurd
+Sam Hunt,Sam Hunt,sam_hunt,sam+hunt,sam-hunt
+Jake Owen,Jake Owen,jake_owen,jake+owen,jake-owen
+Tyler Farr,Tyler Farr,tyler_farr,tyler+farr,tyler-farr
+Chase Bryant,Chase Bryant,chase_bryant,chase+bryant,chase-bryant
+Cole Swindell,Cole Swindell,cole_swindell,cole+swindell,cole-swindell
+G-Eazy,G-Eazy,g-eazy,g-eazy,g-eazy
+Sia,Sia,sia,sia,sia
+Chris Brown,Chris Brown,chris_brown,chris+brown,chris-brown
+Ellie Goulding,Ellie Goulding,ellie_goulding,ellie+goulding,ellie-goulding
+Sophia Grace,Sophia Grace,sophia_grace,sophia+grace,sophia-grace
+I Prevail,I Prevail,i_prevail,i+prevail,i-prevail
+B.o.B,B.o.B,b.o.b,b.o.b,b.o.b
+Omarion,Omarion,omarion,omarion,omarion
+Hoodie Allen,Hoodie Allen,hoodie_allen,hoodie+allen,hoodie-allen
+Maroon 5,Maroon 5,maroon_5,maroon+5,maroon-5
+Kelly Clarkson,Kelly Clarkson,kelly_clarkson,kelly+clarkson,kelly-clarkson
+Zac Brown Band,Zac Brown Band,zac_brown_band,zac+brown+band,zac-brown-band
+Common,Common,common,common,common
+Dierks Bentley,Dierks Bentley,dierks_bentley,dierks+bentley,dierks-bentley
+Wale,Wale,wale,wale,wale
+Rihanna,Rihanna,rihanna,rihanna,rihanna
+Fetty Wap,Fetty Wap,fetty_wap,fetty+wap,fetty-wap
+Natalie La Rose,Natalie La Rose,natalie_la_rose,natalie+la+rose,natalie-la-rose
+Trey Songz,Trey Songz,trey_songz,trey+songz,trey-songz
+Vance Joy,Vance Joy,vance_joy,vance+joy,vance-joy
+Blake Shelton,Blake Shelton,blake_shelton,blake+shelton,blake-shelton
+Imagine Dragons,Imagine Dragons,imagine_dragons,imagine+dragons,imagine-dragons
+George Ezra,George Ezra,george_ezra,george+ezra,george-ezra
+Tove Lo,Tove Lo,tove_lo,tove+lo,tove-lo
+Ciara,Ciara,ciara,ciara,ciara
+Jason Aldean,Jason Aldean,jason_aldean,jason+aldean,jason-aldean
+Missy Elliott,Missy Elliott,missy_elliott,missy+elliott,missy-elliott
+Big Sean,Big Sean,big_sean,big+sean,big-sean
+Sam Smith,Sam Smith,sam_smith,sam+smith,sam-smith
+A-Trak + Milo & Otis,A-Trak + Milo & Otis,a-trak_+_milo_&_otis,a-trak+++milo+&+otis,a-trak-+-milo-&-otis
+Little Big Town,Little Big Town,little_big_town,little+big+town,little-big-town
+Drake,Drake,drake,drake,drake
+Miranda Lambert,Miranda Lambert,miranda_lambert,miranda+lambert,miranda-lambert
+Andy Grammer,Andy Grammer,andy_grammer,andy+grammer,andy-grammer
+Annie Lennox,Annie Lennox,annie_lennox,annie+lennox,annie-lennox
+Empire Cast,Empire Cast,empire_cast,empire+cast,empire-cast
+Florence + The Machine,Florence + The Machine,florence_+_the_machine,florence+++the+machine,florence-+-the-machine
+Wiz Khalifa,Wiz Khalifa,wiz_khalifa,wiz+khalifa,wiz-khalifa
+Zedd,Zedd,zedd,zedd,zedd
+Kid Rock,Kid Rock,kid_rock,kid+rock,kid-rock
+Tori Kelly,Tori Kelly,tori_kelly,tori+kelly,tori-kelly
+A Thousand Horses,A Thousand Horses,a_thousand_horses,a+thousand+horses,a-thousand-horses
+Keith Urban,Keith Urban,keith_urban,keith+urban,keith-urban
+Silento,Silento,silento,silento,silento
+Carly Rae Jepsen,Carly Rae Jepsen,carly_rae_jepsen,carly+rae+jepsen,carly-rae-jepsen
+Billy Currington,Billy Currington,billy_currington,billy+currington,billy-currington
+Cashmere Cat,Cashmere Cat,cashmere_cat,cashmere+cat,cashmere-cat
+Eric Paslay,Eric Paslay,eric_paslay,eric+paslay,eric-paslay
+Meek Mill,Meek Mill,meek_mill,meek+mill,meek-mill
+Skrillex,Skrillex,skrillex,skrillex,skrillex
+Mumford & Sons,Mumford & Sons,mumford_&_sons,mumford+&+sons,mumford-&-sons
+Jason DeRulo,Jason DeRulo,jason_derulo,jason+derulo,jason-derulo
+LunchMoney Lewis,LunchMoney Lewis,lunchmoney_lewis,lunchmoney+lewis,lunchmoney-lewis
+Echosmith,Echosmith,echosmith,echosmith,echosmith
+Carrie Underwood,Carrie Underwood,carrie_underwood,carrie+underwood,carrie-underwood

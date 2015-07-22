@@ -1,0 +1,6 @@
+id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
+942,Maroon 5,0ab49580-c84f-44d4-875f-d83760ea2cfe,Maroon 5,United States,US,Los Angeles,2002-01-01 00:00:00,Group,,Techno,,,,
+1162,The Ready Set,3979bb32-59b4-442e-aafa-de4ae2439400,The Ready Set,United States,US,Fort Wayne,1989-11-14 00:00:00,Person,,Techno,Electronica,Pop,,
+1698,Daft Punk,056e4f3e-d505-4dad-8ec1-d04f521cbb56,Daft Punk,France,FR,Paris,1992-01-01 00:00:00,Group,0000000123531208,Techno,Electronica,,,
+287963,Swedish House Mafia,99075985-0d80-4692-a15e-b16f78831792,Swedish House Mafia,Sweden,SE,Stockholm,2008-01-01 00:00:00,Group,0000000121510091,Techno,,,,
+33325,Armin van Buuren,477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df,Armin van Buuren,Netherlands,NL,Leiden,1976-12-25 00:00:00,Person,,Techno,,,,
