@@ -1,0 +1,680 @@
+id,name,slug,score,short_name,event_count,has_upcoming,genres,type,events,url
+4169,Kesha,kesha,0.60019,Kesha,0,False,pop,band,,https://seatgeek.com/kesha-tickets
+2361,Eminem,eminem,0.78238,Eminem,0,False,rap,band,,https://seatgeek.com/eminem-tickets
+1031,Katy Perry,katy-perry,0.76374,Katy Perry,4,True,pop,band,"2599027,2590287,2658683,2599362",https://seatgeek.com/katy-perry-tickets
+2586,Rihanna,rihanna,0.71411,Rihanna,0,False,pop,band,,https://seatgeek.com/rihanna-tickets
+6148,Bruno Mars,bruno-mars,0.75766,Bruno Mars,0,False,pop,band,,https://seatgeek.com/bruno-mars-tickets
+1969,Usher,usher,0.67141,Usher,1,True,rnb,band,2367207,https://seatgeek.com/usher-tickets
+6332,Far East Movement,far-east-movement,0.54392,Far East Movement,2,True,hip-hop,band,"2698514,2688883",https://seatgeek.com/far-east-movement-tickets
+2272,B.o.B,b-o-b,0.53025,B.o.B,0,False,hip-hop,band,,https://seatgeek.com/b-o-b-tickets
+296963,B.O.B.,b-o-b-6,0.40548,B.O.B.,0,False,,band,,https://seatgeek.com/b-o-b-6-tickets
+289118,B.o.B.,b-o-b-4,0.0,B.o.B.,0,False,,band,,https://seatgeek.com/b-o-b-4-tickets
+279175,B.O.B. Live In Liverpool,b-o-b-live-in-liverpool,0.0,B.O.B. Live In Liverpool,0,False,,band,,https://seatgeek.com/b-o-b-live-in-liverpool-tickets
+295518,B.o.B.,b-o-b-5,0.0,B.o.B.,0,False,,band,,https://seatgeek.com/b-o-b-5-tickets
+288972,B.o.B,b-o-b-3,0.0,B.o.B,0,False,,band,,https://seatgeek.com/b-o-b-3-tickets
+85,Black Eyed Peas,black-eyed-peas,0.66989,Black Eyed Peas,0,False,hip-hop,band,,https://seatgeek.com/black-eyed-peas-tickets
+35479,Taboo of The Black Eyed Peas,taboo-of-the-black-eyed-peas,0.0,Taboo of The Black Eyed Peas,0,False,,band,,https://seatgeek.com/taboo-of-the-black-eyed-peas-tickets
+270471,Taboo (Black Eyed Peas),taboo-black-eyed-peas,0.0,Taboo (Black Eyed Peas),0,False,eurodance,band,,https://seatgeek.com/taboo-black-eyed-peas-tickets
+6096,Taio Cruz,taio-cruz,0.50161,Taio Cruz,0,False,rnb,band,,https://seatgeek.com/taio-cruz-tickets
+1441,Pink,pink,0.75656,Pink,0,False,pop,band,,https://seatgeek.com/pink-tickets
+1082,Lady Antebellum,lady-antebellum,0.62904,Lady Antebellum,33,True,country,band,"2449355,2581995,2589202,2547410,2499842,2469451,2576515,2468699,2468584,2468706",https://seatgeek.com/lady-antebellum-tickets
+150392,Yaz,yaz,0.0,Yaz,0,False,rnb,band,,https://seatgeek.com/yaz-tickets
+246469,Young Money,young-money,0.0,Young Money,0,False,hip-hop,band,,https://seatgeek.com/young-money-tickets
+237796,Artists For Haiti,artists-for-haiti,0.0,Artists For Haiti,0,False,pop,band,,https://seatgeek.com/artists-for-haiti-tickets
+35,Taylor Swift,taylor-swift,0.78808,Taylor Swift,51,True,country,band,"2393548,2393547,2393359,2393521,2393519,2393564,2454000,2392967,2393513,2393515",https://seatgeek.com/taylor-swift-tickets
+2703,Train,train,0.61909,Train,7,True,rock,band,"2480749,2480840,2480711,2480852,2624903,2690115,2687292",https://seatgeek.com/train-tickets
+6348,Nelly,nelly,0.56184,Nelly,0,False,hip-hop,band,,https://seatgeek.com/nelly-tickets
+1083,Lady Gaga,lady-gaga,0.74804,Lady Gaga,7,True,pop,band,"2503394,2480744,2513186,2549421,2547259,2547261,2198718",https://seatgeek.com/lady-gaga-tickets
+5448,Enrique Iglesias,enrique-iglesias,0.6754,Enrique Iglesias,3,True,pop,band,"2542716,2661630,2661628",https://seatgeek.com/enrique-iglesias-tickets
+7774,Travie McCoy,travie-mccoy,0.50374,Travie McCoy,0,False,hip-hop,band,,https://seatgeek.com/travie-mccoy-tickets
+4114,David Guetta,david-guetta,0.56383,David Guetta,16,True,house,band,"2575008,2452348,2552247,2649431,2604089,2688335,2604084,2688334,2604083,2460971",https://seatgeek.com/david-guetta-tickets
+4358,Jason Derulo,jason-derulo,0.53452,Jason Derulo,15,True,rnb,band,"2637492,2591266,2685735,2584590,2641785,2641498,2651937,2641307,2641783,2641786",https://seatgeek.com/jason-derulo-tickets
+2351,Drake,drake,0.69891,Drake,14,True,hip-hop,band,"2555942,2555939,2555940,2507741,2519446,2568139,2683488,2661525,2661527,2603517",https://seatgeek.com/drake-tickets
+2446,Justin Bieber,justin-bieber,0.75678,Justin Bieber,4,True,pop,band,"2685733,2685735,2626210,2564900",https://seatgeek.com/justin-bieber-tickets
+4187,Mike Posner,mike-posner,0.45864,Mike Posner,4,True,hip-hop,band,"2689944,2679126,2678808,2679121",https://seatgeek.com/mike-posner-tickets
+1944,Trey Songz,trey-songz,0.57723,Trey Songz,4,True,rnb,band,"2612179,2687254,2651907,2549439",https://seatgeek.com/trey-songz-tickets
+1159,Ludacris,ludacris,0.4836,Ludacris,2,True,rap,band,"2617835,2445261",https://seatgeek.com/ludacris-tickets
+1109,Lil Wayne,lil-wayne,0.66439,Lil Wayne,3,True,rap,band,"2685733,2685735,2683291",https://seatgeek.com/lil-wayne-tickets
+2467,La Roux,la-roux,0.54782,La Roux,0,False,electronic,band,,https://seatgeek.com/la-roux-tickets
+2514,Miley Cyrus,miley-cyrus,0.74217,Miley Cyrus,0,False,pop,band,,https://seatgeek.com/miley-cyrus-tickets
+246604,Glee Cast,glee-cast,0.0,Glee Cast,0,False,pop,band,,https://seatgeek.com/glee-cast-tickets
+739,Flo Rida,flo-rida,0.54472,Flo Rida,2,True,hip-hop,band,"2614370,2652584",https://seatgeek.com/flo-rida-tickets
+120,3OH!3,3oh-3,0.38204,3OH!3,0,False,electronic,band,,https://seatgeek.com/3oh-3-tickets
+2236,Adam Lambert,adam-lambert,0.62281,Adam Lambert,2,True,pop,band,"2668460,2658688",https://seatgeek.com/adam-lambert-tickets
+9060,Jay Sean,jay-sean,0.43352,Jay Sean,0,False,rnb,band,,https://seatgeek.com/jay-sean-tickets
+927,Jay-Z,jay-z,0.76737,Jay-Z,0,False,hip-hop,band,,https://seatgeek.com/jay-z-tickets
+2696,Timbaland,timbaland,0.59794,Timbaland,0,False,hip-hop,band,,https://seatgeek.com/timbaland-tickets
+40821,Willow,willow,0.0,Willow,0,False,,band,,https://seatgeek.com/willow-tickets
+1860,The Script,the-script,0.58625,The Script,7,True,rock,band,"2528831,2447171,2537357,2608423,2639663,2544634,2669713",https://seatgeek.com/the-script-tickets
+1023,Kanye West,kanye-west,0.69318,Kanye West,3,True,hip-hop,band,"2688444,2557406,2557381",https://seatgeek.com/kanye-west-tickets
+2616,Shontelle,shontelle,0.22484,Shontelle,0,False,rnb,band,,https://seatgeek.com/shontelle-tickets
+6692,Neon Trees,neon-trees,0.62269,Neon Trees,3,True,indie,band,"2578118,2562222,2578133",https://seatgeek.com/neon-trees-tickets
+1019,Justin Timberlake,justin-timberlake,0.80228,Justin Timberlake,0,False,pop,band,,https://seatgeek.com/justin-timberlake-tickets
+2533,Nicki Minaj,nicki-minaj,0.63341,Nicki Minaj,20,True,hip-hop,band,"2555954,2556039,2555737,2555941,2556047,2554817,2554957,2556024,2556030,2556023",https://seatgeek.com/nicki-minaj-tickets
+454,Chris Brown,chris-brown,0.63394,Chris Brown,28,True,rnb,band,"2642854,2644021,2642851,2642850,2642771,2642721,2642862,2642859,2644035,2642867",https://seatgeek.com/chris-brown-tickets
+2499,Maroon 5,maroon-5,0.72076,Maroon 5,14,True,rock,band,"2661700,2656779,2593338,2659624,2604049,2657175,2602464,2523747,2575257,2521867",https://seatgeek.com/maroon-5-tickets
+2608,Sean Kingston,sean-kingston,0.53716,Sean Kingston,0,False,rnb,band,,https://seatgeek.com/sean-kingston-tickets
+30798,Orianthi,orianthi,0.38037,Orianthi,0,False,rock,band,,https://seatgeek.com/orianthi-tickets
+105,Sugarland,sugarland,0.61914,Sugarland,0,False,country,band,,https://seatgeek.com/sugarland-tickets
+1370,OneRepublic,onerepublic,0.65168,OneRepublic,3,True,rock,band,"2601919,2693120,2672098",https://seatgeek.com/onerepublic-tickets
+2457,Kris Allen,kris-allen,0.42733,Kris Allen,0,False,pop,band,,https://seatgeek.com/kris-allen-tickets
+358,Boys Like Girls,boys-like-girls,0.43338,Boys Like Girls,0,False,pop-punk,band,,https://seatgeek.com/boys-like-girls-tickets
+87,Kenny Chesney,kenny-chesney,0.74913,Kenny Chesney,16,True,country,band,"2478601,2478670,2576477,2386947,2478640,2478625,2386891,2478666,2386981,2478605",https://seatgeek.com/kenny-chesney-tickets
+1733,T.I.,t-i,0.55612,T.I.,0,False,hip-hop,band,,https://seatgeek.com/t-i-tickets
+267842,T.I. Plus Miguel and Trey Songz,t-i-plus-miguel-and-trey-songz,0.0,T.I. Plus Miguel and Trey Songz,0,False,,band,,https://seatgeek.com/t-i-plus-miguel-and-trey-songz-tickets
+280925,T.i,t-i-1,0.0,T.i,0,False,,band,,https://seatgeek.com/t-i-1-tickets
+288346,T.I,t-i-3,0.0,T.I,0,False,,band,,https://seatgeek.com/t-i-3-tickets
+296970,T.I.,t-i-4,0.0,T.I.,0,False,,band,,https://seatgeek.com/t-i-4-tickets
+6287,The Band Perry,the-band-perry,0.58036,The Band Perry,19,True,country,band,"2599634,2523594,2478650,2440724,2659977,2689928,2659604,2579048,2352239,2587570",https://seatgeek.com/the-band-perry-tickets
+2414,Jack Johnson,jack-johnson,0.67237,Jack Johnson,0,False,singer-songwriter,band,,https://seatgeek.com/jack-johnson-tickets
+2240,Alicia Keys,alicia-keys,0.67458,Alicia Keys,0,False,soul,band,,https://seatgeek.com/alicia-keys-tickets
+2378,Florence and the Machine,florence-and-the-machine,0.6587,Florence and the Machine,44,True,indie,band,"2661677,2641415,2452328,2563446,2290498,2290499,2579212,2453043,2314686,2642683",https://seatgeek.com/florence-and-the-machine-tickets
+1052,Kevin Rudolf,kevin-rudolf,0.46573,Kevin Rudolf,0,False,hip-hop,band,,https://seatgeek.com/kevin-rudolf-tickets
+2531,New Boyz,new-boyz,0.48205,New Boyz,0,False,hip-hop,band,,https://seatgeek.com/new-boyz-tickets
+2452,Kid Cudi,kid-cudi,0.60447,Kid Cudi,6,True,hip-hop,band,"2547107,2290498,2671687,2547106,2290500,2670298",https://seatgeek.com/kid-cudi-tickets
+412,Carrie Underwood,carrie-underwood,0.66466,Carrie Underwood,11,True,country,band,"2307410,2644820,2307419,2644821,2528598,2452325,2573177,2451654,2418065,2698689",https://seatgeek.com/carrie-underwood-tickets
+2310,Christina Aguilera,christina-aguilera,0.59978,Christina Aguilera,0,False,pop,band,,https://seatgeek.com/christina-aguilera-tickets
+99,Paramore,paramore,0.60469,Paramore,0,False,rock,band,,https://seatgeek.com/paramore-tickets
+1241,Michael Buble,michael-buble,0.6783,Michael Buble,0,False,jazz,band,,https://seatgeek.com/michael-buble-tickets
+32525,DJ Khaled,dj-khaled,0.0,DJ Khaled,0,False,hip-hop,band,,https://seatgeek.com/dj-khaled-tickets
+271133,Atomic Bomb: The Music of William Onyeabor,atomic-bomb-the-music-of-william-onyeabor,0.55488,Atomic Bomb: The Music of William Onyeabor,0,False,,band,,https://seatgeek.com/atomic-bomb-the-music-of-william-onyeabor-tickets
+8196,William S. Paley Television Festival,william-s-paley-television-festival,0.53606,William S. Paley Television Festival,0,False,,theater,,https://seatgeek.com/william-s-paley-television-festival-tickets
+251687,Will.I.Am,will-i-am-1,0.52841,Will.I.Am,0,False,,band,,https://seatgeek.com/will-i-am-1-tickets
+24314,will.i.am,will-i-am,0.51467,will.i.am,1,True,hip-hop,band,2656972,https://seatgeek.com/will-i-am-tickets
+271637,Tribute to William Onyeabor,tribute-to-william-onyeabor,0.43477,Tribute to William Onyeabor,0,False,,band,,https://seatgeek.com/tribute-to-william-onyeabor-tickets
+11187,William Shatner,william-shatner,0.41608,William Shatner,3,True,comedy,theater,"2682629,2684458,2687670",https://seatgeek.com/william-shatner-tickets
+26949,William Control,william-control,0.41545,William Control,0,False,electronic,band,,https://seatgeek.com/william-control-tickets
+229787,William Onyeabor,william-onyeabor,0.41193,William Onyeabor,0,False,funk,band,,https://seatgeek.com/william-onyeabor-tickets
+10771,William Topley,william-topley,0.38378,William Topley,1,True,alternative,band,2660940,https://seatgeek.com/william-topley-tickets
+253204,William Hill Grand Slam of Darts,william-hill-grand-slam-of-darts,0.37566,William Hill Grand Slam of Darts,0,False,,sports,,https://seatgeek.com/william-hill-grand-slam-of-darts-tickets
+2611,Selena Gomez,selena-gomez,0.64881,Selena Gomez,0,False,,band,,https://seatgeek.com/selena-gomez-tickets
+5014,Lee DeWyze,lee-dewyze,0.53901,Lee DeWyze,9,True,alternative,band,"2659342,2601864,2603458,2600493,2688201,2598999,2694996,2652003,2690225",https://seatgeek.com/lee-dewyze-tickets
+32,Coldplay,coldplay,0.77793,Coldplay,1,True,rock,band,2652048,https://seatgeek.com/coldplay-tickets
+1904,Tim McGraw,tim-mcgraw,0.64747,Tim McGraw,29,True,country,band,"2499807,2369039,2546735,2499857,2492283,2492399,2517669,2492388,2517748,2499867",https://seatgeek.com/tim-mcgraw-tickets
+7100,The Ready Set,the-ready-set,0.36366,The Ready Set,0,False,electronic,band,,https://seatgeek.com/the-ready-set-tickets
+247415,Diddy,diddy,0.67804,Diddy,0,False,hip-hop,band,,https://seatgeek.com/diddy-tickets
+2477,Linkin Park,linkin-park,0.6732,Linkin Park,7,True,rock,band,"2528831,2649295,2666043,2575051,2640377,2661511,2640330",https://seatgeek.com/linkin-park-tickets
+1268,Miranda Lambert,miranda-lambert,0.64255,Miranda Lambert,8,True,country,band,"2294783,2419501,2601886,2603373,2601866,2601887,2601882,2601898",https://seatgeek.com/miranda-lambert-tickets
+246989,Cali Swag District,cali-swag-district,0.0,Cali Swag District,0,False,hip-hop,band,,https://seatgeek.com/cali-swag-district-tickets
+8662,Jamie Foxx,jamie-foxx,0.51024,Jamie Foxx,0,False,rnb,theater_comedy,,https://seatgeek.com/jamie-foxx-tickets
+6198,Jerrod Niemann,jerrod-niemann,0.5588,Jerrod Niemann,11,True,country,band,"2274754,2449354,2570715,2665904,2695951,2650025,2646138,2598612,2593801,2620928",https://seatgeek.com/jerrod-niemann-tickets
+109824,Yolanda Be Cool,yolanda-be-cool,0.63429,Yolanda Be Cool,1,True,,band,2687240,https://seatgeek.com/yolanda-be-cool-tickets
+4310,Uncle Kracker,uncle-kracker,0.59398,Uncle Kracker,16,True,rock,band,"2562350,2591525,2590464,2659068,2563099,2562262,2562299,2562258,2596609,2574667",https://seatgeek.com/uncle-kracker-tickets
+1585,Sara Bareilles,sara-bareilles,0.5762,Sara Bareilles,0,False,pop,band,,https://seatgeek.com/sara-bareilles-tickets
+2047,Zac Brown Band,zac-brown-band,0.68915,Zac Brown Band,31,True,country,band,"2544180,2544186,2544184,2558800,2544052,2544183,2661697,2543934,2598619,2543683",https://seatgeek.com/zac-brown-band-tickets
+4677,Shakira,shakira,0.67067,Shakira,0,False,pop,band,,https://seatgeek.com/shakira-tickets
+4161,Joe Nichols,joe-nichols,0.51404,Joe Nichols,18,True,country,band,"2640127,2679773,2652450,2527722,2528598,2583505,2637112,2528719,2674695,2595081",https://seatgeek.com/joe-nichols-tickets
+6919,Jaron and the Long Road to Love,jaron-and-the-long-road-to-love,0.0,Jaron and the Long Road to Love,0,False,country,band,,https://seatgeek.com/jaron-and-the-long-road-to-love-tickets
+978,John Mayer,john-mayer,0.66968,John Mayer,0,False,singer-songwriter,band,,https://seatgeek.com/john-mayer-tickets
+1342,Nickelback,nickelback,0.63464,Nickelback,34,True,rock,band,"2670727,2516661,2546156,2442999,2422912,2464191,2424680,2425770,2447569,2452773",https://seatgeek.com/nickelback-tickets
+13635,Dr. Dre,dr-dre,0.0,Dr. Dre,0,False,rap,band,,https://seatgeek.com/dr-dre-tickets
+1003,Josh Turner,josh-turner,0.4572,Josh Turner,21,True,country,band,"2572041,2584617,2672870,2587552,2572149,2584593,2617794,2665794,2637510,2586359",https://seatgeek.com/josh-turner-tickets
+2744,Young Jeezy,young-jeezy,0.51463,Young Jeezy,1,True,rap,band,2642698,https://seatgeek.com/young-jeezy-tickets
+544,Daughtry,daughtry,0.53476,Daughtry,3,True,rock,band,"2599607,2620587,2528553",https://seatgeek.com/daughtry-tickets
+1164,Luke Bryan,luke-bryan,0.72506,Luke Bryan,45,True,country,band,"2621304,2636631,2274754,2453612,2450147,2490148,2450145,2490149,2450146,2490137",https://seatgeek.com/luke-bryan-tickets
+541,Darius Rucker,darius-rucker,0.58679,Darius Rucker,14,True,country,band,"2480851,2590754,2495266,2501461,2601419,2524656,2562104,2492280,2499858,2495378",https://seatgeek.com/darius-rucker-tickets
+318,Blake Shelton,blake-shelton,0.65892,Blake Shelton,8,True,country,band,"2274754,2453612,2449356,2450147,2450145,2450146,2294783,2693452",https://seatgeek.com/blake-shelton-tickets
+17717,Spose,spose,0.22182,Spose,0,False,hip-hop,band,,https://seatgeek.com/spose-tickets
+44,Kings of Leon,kings-of-leon,0.65918,Kings of Leon,6,True,rock,band,"2669774,2351507,2614980,2668875,2670298,2281102",https://seatgeek.com/kings-of-leon-tickets
+918,Jason Aldean,jason-aldean,0.71284,Jason Aldean,36,True,country,band,"2417792,2386947,2386891,2386981,2499855,2458384,2496949,2386873,2492394,2499864",https://seatgeek.com/jason-aldean-tickets
+302,Billy Currington,billy-currington,0.59861,Billy Currington,29,True,country,band,"2499807,2546735,2499857,2492283,2492399,2517669,2492388,2517748,2499867,2648967",https://seatgeek.com/billy-currington-tickets
+80,Snoop Dogg,snoop-dogg,0.55716,Snoop Dogg,10,True,hip-hop,band,"2440219,2529591,2601419,2596439,2680126,2417829,2508023,2544337,2608969,2670298",https://seatgeek.com/snoop-dogg-tickets
+361,Brad Paisley,brad-paisley,0.62181,Brad Paisley,30,True,country,band,"2590760,2505262,2590753,2492345,2495137,2590759,2431707,2391775,2505249,2668413",https://seatgeek.com/brad-paisley-tickets
+2312,Ciara,ciara,0.48929,Ciara,0,False,rnb,band,,https://seatgeek.com/ciara-tickets
+4882,Easton Corbin,easton-corbin,0.58568,Easton Corbin,12,True,country,band,"2591529,2639277,2627048,2528598,2591610,2546110,2608247,2643828,2598937,2556077",https://seatgeek.com/easton-corbin-tickets
+1443,Pitbull,pitbull,0.62812,Pitbull,11,True,hip-hop,band,"2590559,2688444,2670611,2670609,2670608,2604690,2674956,2670607,2670610,2674957",https://seatgeek.com/pitbull-tickets
+8064,Melanie Fiona,melanie-fiona,0.40226,Melanie Fiona,1,True,soul,band,2671982,https://seatgeek.com/melanie-fiona-tickets
+6766,Monica,monica,0.42938,Monica,0,False,rnb,band,,https://seatgeek.com/monica-tickets
+6068,Lee Brice,lee-brice,0.64782,Lee Brice,23,True,,band,"2526258,2617551,2527722,2427314,2641003,2584306,2458384,2590733,2495138,2610494",https://seatgeek.com/lee-brice-tickets
+6808,Roscoe Dash,roscoe-dash,0.28292,Roscoe Dash,0,False,hip-hop,band,,https://seatgeek.com/roscoe-dash-tickets
+1553,Rodney Atkins,rodney-atkins,0.48705,Rodney Atkins,5,True,country,band,"2590531,2570715,2650234,2669580,2683569",https://seatgeek.com/rodney-atkins-tickets
+76,Sheryl Crow,sheryl-crow,0.60936,Sheryl Crow,11,True,rock,band,"2596549,2587697,2587671,2511176,2511189,2646644,2508023,2544337,2611460,2611459",https://seatgeek.com/sheryl-crow-tickets
+1498,Rascal Flatts,rascal-flatts,0.62707,Rascal Flatts,31,True,country,band,"2514595,2492407,2492309,2495412,2495361,2495345,2294783,2549522,2587543,2352239",https://seatgeek.com/rascal-flatts-tickets
+486,Colbie Caillat,colbie-caillat,0.48771,Colbie Caillat,29,True,pop,band,"2584501,2617953,2656282,2584309,2584412,2584456,2584421,2593577,2673441,2594990",https://seatgeek.com/colbie-caillat-tickets
+4281,Chris Young,chris-young,0.56892,Chris Young,16,True,country,band,"2528598,2588182,2624702,2352239,2630726,2651953,2548376,2601308,2595081,2674695",https://seatgeek.com/chris-young-tickets
+4710,Lloyd Banks,lloyd-banks,0.49767,Lloyd Banks,2,True,rap,band,"2694589,2695791",https://seatgeek.com/lloyd-banks-tickets
+1108,Lifehouse,lifehouse,0.50536,Lifehouse,13,True,rock,band,"2516661,2614946,2621071,2622147,2621097,2623095,2620588,2627183,2621096,2623130",https://seatgeek.com/lifehouse-tickets
+21335,Auburn,auburn,0.0,Auburn,0,False,rnb,band,,https://seatgeek.com/auburn-tickets
+240,Avenged Sevenfold,avenged-sevenfold,0.5346,Avenged Sevenfold,0,False,metalcore,band,,https://seatgeek.com/avenged-sevenfold-tickets
+6675,Sade,sade,0.667,Sade,0,False,soul,band,,https://seatgeek.com/sade-tickets
+476,Clay Walker,clay-walker,0.39507,Clay Walker,3,True,country,band,"2274754,2552224,2688828",https://seatgeek.com/clay-walker-tickets
+1514,Reba McEntire,reba-mcentire,0.5882,Reba McEntire,13,True,country,band,"2558810,2601419,2538003,2513840,2573140,2604416,2643969,2425679,2425683,2425686",https://seatgeek.com/reba-mcentire-tickets
+823,Gucci Mane,gucci-mane,0.4005,Gucci Mane,0,False,rap,band,,https://seatgeek.com/gucci-mane-tickets
+1322,Ne-Yo,ne-yo,0.56906,Ne-Yo,0,False,rnb,band,,https://seatgeek.com/ne-yo-tickets
+1547,Robin Thicke,robin-thicke,0.58549,Robin Thicke,0,False,soul,band,,https://seatgeek.com/robin-thicke-tickets
+6970,Miranda Cosgrove,miranda-cosgrove,0.49462,Miranda Cosgrove,0,False,pop,band,,https://seatgeek.com/miranda-cosgrove-tickets
+944,Jesse McCartney,jesse-mccartney,0.55501,Jesse McCartney,0,False,pop,band,,https://seatgeek.com/jesse-mccartney-tickets
+83,Snow Patrol,snow-patrol,0.5657,Snow Patrol,0,False,indie,band,,https://seatgeek.com/snow-patrol-tickets
+1202,Mary J. Blige,mary-j-blige,0.56857,Mary J. Blige,0,False,rnb,band,,https://seatgeek.com/mary-j-blige-tickets
+152,Akon,akon,0.62301,Akon,4,True,hip-hop,band,"2626931,2698148,2692310,2693451",https://seatgeek.com/akon-tickets
+19518,Charice,charice,0.41818,Charice,0,False,pop,band,,https://seatgeek.com/charice-tickets
+33,Dave Matthews Band,dave-matthews-band,0.71408,Dave Matthews Band,34,True,rock,band,"2477301,2477587,2477221,2477222,2477484,2477220,2477218,2477323,2477322,2477565",https://seatgeek.com/dave-matthews-band-tickets
+5024,Crystal Bowersox,crystal-bowersox,0.52272,Crystal Bowersox,10,True,singer-songwriter,band,"2644670,2641802,2659341,2586258,2648217,2644671,2650122,2644720,2641792,2617414",https://seatgeek.com/crystal-bowersox-tickets
+86,Keith Urban,keith-urban,0.65151,Keith Urban,15,True,country,band,"2396499,2590512,2415399,2410708,2590558,2527722,2427314,2310166,2579365,2680002",https://seatgeek.com/keith-urban-tickets
+10524,Miguel,miguel,0.63713,Miguel,38,True,rnb,band,"2649346,2649387,2649370,2649264,2649548,2649462,2649507,2649472,2649540,2649138",https://seatgeek.com/miguel-tickets
+1544,Rob Thomas,rob-thomas,0.59718,Rob Thomas,33,True,pop,band,"2549422,2578017,2580385,2578150,2578070,2578138,2578010,2578008,2562136,2577833",https://seatgeek.com/rob-thomas-tickets
+1119,Little Big Town,little-big-town,0.57625,Little Big Town,39,True,country,band,"2558761,2517719,2627231,2391775,2485682,2583649,2219850,2555867,2543613,2604612",https://seatgeek.com/little-big-town-tickets
+1536,Rick Ross,rick-ross,0.53967,Rick Ross,0,False,hip-hop,band,,https://seatgeek.com/rick-ross-tickets
+929,Jazmine Sullivan,jazmine-sullivan,0.51217,Jazmine Sullivan,2,True,rnb,band,"2526754,2590342",https://seatgeek.com/jazmine-sullivan-tickets
+1020,k.d. lang,k-d-lang,0.45033,k.d. lang,0,False,singer-songwriter,band,,https://seatgeek.com/k-d-lang-tickets
+161070,Roy Orbison & k.d. Lang,roy-orbison-k-d-lang,0.0,Roy Orbison & k.d. Lang,0,False,,band,,https://seatgeek.com/roy-orbison-k-d-lang-tickets
+164959,k.d. lang and the Siss Boom Bang,k-d-lang-and-the-siss-boom-bang,0.0,k.d. lang and the Siss Boom Bang,0,False,,band,,https://seatgeek.com/k-d-lang-and-the-siss-boom-bang-tickets
+224863,k.d. lang and The Reclines,k-d-lang-and-the-reclines,0.0,k.d. lang and The Reclines,0,False,country,band,,https://seatgeek.com/k-d-lang-and-the-reclines-tickets
+7551,Waka Flocka Flame,waka-flocka-flame,0.50785,Waka Flocka Flame,11,True,hip-hop,band,"2611610,2610468,2617827,2624557,2648021,2663901,2668222,2637531,2644018,2637500",https://seatgeek.com/waka-flocka-flame-tickets
+12552,Lil Jon,lil-jon,0.5187,Lil Jon,11,True,rap,band,"2613133,2672795,2683364,2586874,2586836,2513154,2586873,2586871,2688333,2615170",https://seatgeek.com/lil-jon-tickets
+780,George Strait,george-strait,0.80154,George Strait,0,False,country,band,,https://seatgeek.com/george-strait-tickets
+100344,Lloyd,lloyd,0.0,Lloyd,0,False,rnb,band,,https://seatgeek.com/lloyd-tickets
+6044,Hannah Montana,hannah-montana,0.53391,Hannah Montana,0,False,pop,band,,https://seatgeek.com/hannah-montana-tickets
+695,Eric Church,eric-church,0.65598,Eric Church,11,True,,band,"2415626,2449354,2617964,2627206,2391775,2400608,2485846,2617164,2548858,2590537",https://seatgeek.com/eric-church-tickets
+7571,YG,yg,0.55004,YG,27,True,,band,"2526543,2526752,2526651,2526738,2526742,2526737,2526749,2555942,2555939,2526753",https://seatgeek.com/yg-tickets
+6998,Steel Magnolia,steel-magnolia,0.25809,Steel Magnolia,0,False,country,band,,https://seatgeek.com/steel-magnolia-tickets
+1131,LMFAO,lmfao,0.59466,LMFAO,0,False,electronic,band,,https://seatgeek.com/lmfao-tickets
+4164,Justin Moore,justin-moore,0.56402,Justin Moore,35,True,country,band,"2590760,2505262,2590753,2492345,2495137,2590759,2431707,2391775,2505249,2546110",https://seatgeek.com/justin-moore-tickets
+4683,Avril Lavigne,avril-lavigne,0.57859,Avril Lavigne,0,False,pop,band,,https://seatgeek.com/avril-lavigne-tickets
+1381,Owl City,owl-city,0.64348,Owl City,15,True,electronic,band,"2685902,2685887,2685897,2685881,2685831,2685880,2685840,2685860,2685798,2685841",https://seatgeek.com/owl-city-tickets
+2691,Three Days Grace,three-days-grace,0.5018,Three Days Grace,43,True,alternative-rock,band,"2599845,2599949,2599866,2612177,2610584,2653037,2593897,2636530,2612104,2615247",https://seatgeek.com/three-days-grace-tickets
+1912,Toby Keith,toby-keith,0.61428,Toby Keith,21,True,country,band,"2415292,2499840,2499860,2505328,2501403,2501223,2492416,2499798,2492279,2458384",https://seatgeek.com/toby-keith-tickets
+1200,Martina McBride,martina-mcbride,0.66001,Martina McBride,15,True,country,band,"2680293,2651950,2597683,2610588,2652503,2653016,2624594,2419501,2596690,2683609",https://seatgeek.com/martina-mcbride-tickets
+2370,Fantasia,fantasia,0.46339,Fantasia,8,True,rnb,band,"2626905,2580304,2689002,2608353,2650955,2650233,2686471,2669151",https://seatgeek.com/fantasia-tickets
+799,Godsmack,godsmack,0.48672,Godsmack,24,True,hard-rock,band,"2602667,2650080,2603951,2669540,2686631,2686571,2686622,2686638,2686527,2686543",https://seatgeek.com/godsmack-tickets
+7820,Ricky Martin,ricky-martin,0.5597,Ricky Martin,27,True,latin,band,"2511252,2646674,2511306,2511302,2511297,2579019,2510983,2575870,2511122,2511160",https://seatgeek.com/ricky-martin-tickets
+1732,T-Pain,t-pain,0.52598,T-Pain,3,True,rnb,band,"2683170,2695931,2590592",https://seatgeek.com/t-pain-tickets
+5998,Bobby Brackins,bobby-brackins,0.0,Bobby Brackins,0,False,,band,,https://seatgeek.com/bobby-brackins-tickets
+2000,We The Kings,we-the-kings,0.37603,We The Kings,0,False,pop-punk,band,,https://seatgeek.com/we-the-kings-tickets
+115107,Gyptian,gyptian,0.0,Gyptian,1,True,reggae,band,2670345,https://seatgeek.com/gyptian-tickets
+6721,My Chemical Romance,my-chemical-romance,0.58045,My Chemical Romance,0,False,rock,band,,https://seatgeek.com/my-chemical-romance-tickets
+20216,Muse,muse,0.66903,Muse,8,True,alternative-rock,band,"2659099,2657125,2668359,2635638,2635645,2600151,2600152,2604928",https://seatgeek.com/muse-tickets
+1416,Pearl Jam,pearl-jam,0.75126,Pearl Jam,9,True,rock,band,"2652048,2658681,2668776,2557081,2552112,2552028,2552038,2552027,2561851",https://seatgeek.com/pearl-jam-tickets
+5423,Three 6 Mafia,three-6-mafia,0.3893,Three 6 Mafia,0,False,rap,band,,https://seatgeek.com/three-6-mafia-tickets
+46,The Killers,the-killers,0.66352,The Killers,3,True,indie,band,"2508023,2544337,2670298",https://seatgeek.com/the-killers-tickets
+227,Asher Roth,asher-roth,0.30256,Asher Roth,0,False,hip-hop,band,,https://seatgeek.com/asher-roth-tickets
+14596,Yo Gotti,yo-gotti,0.51498,Yo Gotti,0,False,rap,band,,https://seatgeek.com/yo-gotti-tickets
+618,Disturbed,disturbed,0.53168,Disturbed,1,True,hard-rock,band,2689982,https://seatgeek.com/disturbed-tickets
+22988,Will Young,will-young,0.0,Will Young,24,True,pop,band,"2652971,2641216,2641876,2641899,2642894,2644049,2641878,2640996,2641868,2641046",https://seatgeek.com/will-young-tickets
+4357,K'NAAN,k-naan,0.36138,K'NAAN,0,False,hip-hop,band,,https://seatgeek.com/k-naan-tickets
+4297,Danny Gokey,danny-gokey,0.48201,Danny Gokey,1,True,pop,band,2565679,https://seatgeek.com/danny-gokey-tickets
+2324,Craig Morgan,craig-morgan,0.45697,Craig Morgan,7,True,country,band,"2452339,2427814,2427810,2672087,2564326,2652028,2670246",https://seatgeek.com/craig-morgan-tickets
+1438,Phoenix,phoenix,0.59013,Phoenix,0,False,indie,band,,https://seatgeek.com/phoenix-tickets
+6202,Josh Thompson,josh-thompson,0.46447,Josh Thompson,1,True,country,band,2648880,https://seatgeek.com/josh-thompson-tickets
+1208,Matisyahu,matisyahu,0.42903,Matisyahu,10,True,reggae,band,"2646213,2595640,2671686,2582808,2663354,2617259,2632052,2637675,2688911,2640206",https://seatgeek.com/matisyahu-tickets
+80795,New Hollow,new-hollow,0.42998,New Hollow,0,False,,band,,https://seatgeek.com/new-hollow-tickets
+1931,Trace Adkins,trace-adkins,0.49819,Trace Adkins,12,True,country,band,"2639493,2510996,2644524,2648879,2621369,2698538,2651990,2659573,2688965,2540936",https://seatgeek.com/trace-adkins-tickets
+7639,Marsha Ambrosius,marsha-ambrosius,0.51397,Marsha Ambrosius,0,False,soul,band,,https://seatgeek.com/marsha-ambrosius-tickets
+14682,My Darkest Days,my-darkest-days,0.56187,My Darkest Days,0,False,alternative-rock,band,,https://seatgeek.com/my-darkest-days-tickets
+7231,Chiddy Bang,chiddy-bang,0.49671,Chiddy Bang,1,True,hip-hop,band,2670298,https://seatgeek.com/chiddy-bang-tickets
+32238,Sammy Adams,sammy-adams,0.48478,Sammy Adams,8,True,hip-hop,band,"2626904,2657393,2630719,2641859,2661557,2638655,2630764,2641777",https://seatgeek.com/sammy-adams-tickets
+1320,Natasha Bedingfield,natasha-bedingfield,0.36306,Natasha Bedingfield,0,False,pop,band,,https://seatgeek.com/natasha-bedingfield-tickets
+4938,A Rocket To The Moon,a-rocket-to-the-moon,0.35398,A Rocket To The Moon,0,False,electronic,band,,https://seatgeek.com/a-rocket-to-the-moon-tickets
+2655,The Dream,the-dream,0.58627,The Dream,0,False,,band,,https://seatgeek.com/the-dream-tickets
+10372,Nick Jonas,nick-jonas,0.5857,Nick Jonas,33,True,pop,band,"2661700,2656779,2616978,2663256,2615263,2617821,2615259,2610518,2615282,2615223",https://seatgeek.com/nick-jonas-tickets
+669,Eddie Vedder,eddie-vedder,0.6525,Eddie Vedder,0,False,singer-songwriter,band,,https://seatgeek.com/eddie-vedder-tickets
+4368,Dirty Heads,dirty-heads,0.46111,Dirty Heads,38,True,reggae,band,"2612207,2550589,2550577,2550585,2550598,2607370,2610693,2607506,2550485,2575317",https://seatgeek.com/dirty-heads-tickets
+148754,The Dirty Heads Battle Of The Bands,the-dirty-heads-battle-of-the-bands,0.0,The Dirty Heads Battle Of The Bands,0,False,,band,,https://seatgeek.com/the-dirty-heads-battle-of-the-bands-tickets
+17033,Jaheim,jaheim,0.49924,Jaheim,0,False,rnb,band,,https://seatgeek.com/jaheim-tickets
+8858,Big Time Rush,big-time-rush,0.62776,Big Time Rush,0,False,pop,band,,https://seatgeek.com/big-time-rush-tickets
+4901,J. Cole,j-cole,0.60546,J. Cole,32,True,hip-hop,band,"2526543,2526752,2526651,2526738,2526742,2526737,2526749,2555942,2555939,2526753",https://seatgeek.com/j-cole-tickets
+1216,Maxwell,maxwell,0.55773,Maxwell,2,True,soul,band,"2519517,2513241",https://seatgeek.com/maxwell-tickets
+701,Erykah Badu,erykah-badu,0.51667,Erykah Badu,6,True,soul,band,"2572168,2670480,2660300,2614359,2679927,2511184",https://seatgeek.com/erykah-badu-tickets
+9936,Mario,mario,0.49825,Mario,0,False,rnb,band,,https://seatgeek.com/mario-tickets
+1042,Kelly Clarkson,kelly-clarkson,0.64511,Kelly Clarkson,41,True,pop,band,"2539700,2539708,2539575,2539583,2539690,2539689,2539676,2539704,2539718,2539722",https://seatgeek.com/kelly-clarkson-tickets
+4223,Soundgarden,soundgarden,0.6216,Soundgarden,0,False,rock,band,,https://seatgeek.com/soundgarden-tickets
+4274,Breaking Benjamin,breaking-benjamin,0.52041,Breaking Benjamin,31,True,alternative-rock,band,"2612194,2610535,2646728,2691465,2610320,2688244,2674584,2672992,2661322,2660231",https://seatgeek.com/breaking-benjamin-tickets
+88,Kellie Pickler,kellie-pickler,0.55392,Kellie Pickler,7,True,country,band,"2590510,2644476,2678868,2419501,2695482,2680154,2652851",https://seatgeek.com/kellie-pickler-tickets
+1619,Shiny Toy Guns,shiny-toy-guns,0.47043,Shiny Toy Guns,0,False,electronic,band,,https://seatgeek.com/shiny-toy-guns-tickets
+1617,Shinedown,shinedown,0.49205,Shinedown,27,True,rock,band,"2589225,2589199,2589181,2691465,2647262,2589242,2589251,2589179,2589319,2593897",https://seatgeek.com/shinedown-tickets
+936,Jennifer Hudson,jennifer-hudson,0.47227,Jennifer Hudson,2,True,rnb,band,"2519517,2513241",https://seatgeek.com/jennifer-hudson-tickets
+1890,Theory Of A Deadman,theory-of-a-deadman,0.42412,Theory Of A Deadman,11,True,rock,band,"2581352,2617561,2616800,2649492,2660406,2679596,2652589,2679712,2678979,2563483",https://seatgeek.com/theory-of-a-deadman-tickets
+921,Jason Michael Carroll,jason-michael-carroll,0.48672,Jason Michael Carroll,1,True,country,band,2693533,https://seatgeek.com/jason-michael-carroll-tickets
+606,Dierks Bentley,dierks-bentley,0.58521,Dierks Bentley,26,True,country,band,"2274754,2596590,2617550,2528598,2427314,2294783,2471293,2536100,2492216,2498862",https://seatgeek.com/dierks-bentley-tickets
+7109,Alpha Rev,alpha-rev,0.34073,Alpha Rev,18,True,indie,band,"2634773,2697786,2659880,2664039,2635260,2630653,2641629,2639506,2630662,2627030",https://seatgeek.com/alpha-rev-tickets
+2494,Mariah Carey,mariah-carey,0.64797,Mariah Carey,12,True,pop,band,"2479818,2479832,2479831,2617729,2617728,2617727,2617734,2617732,2617733,2617731",https://seatgeek.com/mariah-carey-tickets
+141,Adele,adele,0.70298,Adele,0,False,soul,band,,https://seatgeek.com/adele-tickets
+4311,Wiz Khalifa,wiz-khalifa,0.58932,Wiz Khalifa,27,True,hip-hop,band,"2479749,2479760,2584492,2479196,2478876,2479437,2479735,2601932,2608962,2479530",https://seatgeek.com/wiz-khalifa-tickets
+376,Britney Spears,britney-spears,0.68469,Britney Spears,39,True,pop,band,"2396454,2396457,2396456,2396459,2396453,2396449,2396458,2396448,2396444,2396452",https://seatgeek.com/britney-spears-tickets
+6326,Cee Lo Green,cee-lo-green,0.57804,Cee Lo Green,0,False,,band,,https://seatgeek.com/cee-lo-green-tickets
+7723,Foster The People,foster-the-people,0.59001,Foster The People,6,True,indie,band,"2595703,2596460,2508023,2544337,2554239,2670298",https://seatgeek.com/foster-the-people-tickets
+10885,Jennifer Lopez,jennifer-lopez,0.61071,Jennifer Lopez,20,True,pop,band,"2611580,2611579,2611592,2611594,2611587,2611586,2611589,2611595,2611581,2611582",https://seatgeek.com/jennifer-lopez-tickets
+827,Gym Class Heroes,gym-class-heroes,0.46883,Gym Class Heroes,0,False,hip-hop,band,,https://seatgeek.com/gym-class-heroes-tickets
+114621,Bad Meets Evil,bad-meets-evil,0.0,Bad Meets Evil,0,False,hip-hop,band,,https://seatgeek.com/bad-meets-evil-tickets
+2425,Jeremih,jeremih,0.58655,Jeremih,27,True,rnb,band,"2526543,2526752,2526651,2526738,2526742,2526737,2526749,2555939,2526753,2526745",https://seatgeek.com/jeremih-tickets
+483,Cobra Starship,cobra-starship,0.4837,Cobra Starship,2,True,pop-punk,band,"2617277,2480737",https://seatgeek.com/cobra-starship-tickets
+10577,Hot Chelle Rae,hot-chelle-rae,0.49816,Hot Chelle Rae,0,False,rock,band,,https://seatgeek.com/hot-chelle-rae-tickets
+1165,Lupe Fiasco,lupe-fiasco,0.47061,Lupe Fiasco,0,False,hip-hop,band,,https://seatgeek.com/lupe-fiasco-tickets
+586,Demi Lovato,demi-lovato,0.63252,Demi Lovato,2,True,pop,band,"2651907,2659410",https://seatgeek.com/demi-lovato-tickets
+11525,Dev,dev,0.55511,Dev,2,True,electronic,band,"2683439,2695635",https://seatgeek.com/dev-tickets
+10439,Scotty McCreery,scotty-mccreery,0.51985,Scotty McCreery,30,True,country,band,"2514595,2492407,2492309,2495412,2495361,2495345,2549522,2579048,2352239,2626890",https://seatgeek.com/scotty-mccreery-tickets
+8910,Tinie Tempah,tinie-tempah,0.47646,Tinie Tempah,3,True,hip-hop,band,"2626115,2507133,2507132",https://seatgeek.com/tinie-tempah-tickets
+8910,Tinie Tempah,tinie-tempah,0.47646,Tinie Tempah,3,True,hip-hop,band,"2626115,2507133,2507132",https://seatgeek.com/tinie-tempah-tickets
+37,Beyonce,beyonce,0.78903,Beyonce,3,True,rnb,band,"2616978,2663256,2652048",https://seatgeek.com/beyonce-tickets
+10324,Kelly Rowland,kelly-rowland,0.50407,Kelly Rowland,0,False,rnb,band,,https://seatgeek.com/kelly-rowland-tickets
+10152,Christina Perri,christina-perri,0.54623,Christina Perri,42,True,pop,band,"2584501,2617953,2656282,2584309,2584412,2584456,2584421,2593577,2594990,2584293",https://seatgeek.com/christina-perri-tickets
+11837,Javier Colon,javier-colon,0.36351,Javier Colon,0,False,pop,band,,https://seatgeek.com/javier-colon-tickets
+10440,Lauren Alaina,lauren-alaina,0.5326,Lauren Alaina,0,False,country,band,,https://seatgeek.com/lauren-alaina-tickets
+12084,Dia Frampton,dia-frampton,0.5288,Dia Frampton,0,False,pop,band,,https://seatgeek.com/dia-frampton-tickets
+4153,Jake Owen,jake-owen,0.61732,Jake Owen,18,True,,band,"2478670,2679773,2478625,2557326,2294783,2589247,2652382,2518489,2604669,2583383",https://seatgeek.com/jake-owen-tickets
+107981,Alexandra Stan,alexandra-stan,0.0,Alexandra Stan,0,False,pop,band,,https://seatgeek.com/alexandra-stan-tickets
+19539,Jessie J,jessie-j,0.5487,Jessie J,0,False,pop,band,,https://seatgeek.com/jessie-j-tickets
+2451,Keri Hilson,keri-hilson,0.50556,Keri Hilson,0,False,rnb,band,,https://seatgeek.com/keri-hilson-tickets
+2451,Keri Hilson,keri-hilson,0.50556,Keri Hilson,0,False,rnb,band,,https://seatgeek.com/keri-hilson-tickets
+4127,Eli Young Band,eli-young-band,0.58751,Eli Young Band,27,True,country,band,"2592867,2528810,2501403,2598207,2294783,2492279,2685913,2644729,2669780,2492405",https://seatgeek.com/eli-young-band-tickets
+7250,Big Sean,big-sean,0.54443,Big Sean,34,True,hip-hop,band,"2526543,2526752,2526738,2526742,2526737,2526749,2555942,2555939,2526753,2526745",https://seatgeek.com/big-sean-tickets
+147885,The Lonely Island,the-lonely-island,0.51185,The Lonely Island,0,False,comedy,band,,https://seatgeek.com/the-lonely-island-tickets
+10526,Thompson Square,thompson-square,0.64071,Thompson Square,13,True,country,band,"2690987,2695883,2698592,2695479,2652889,2604338,2562133,2692319,2685736,2661713",https://seatgeek.com/thompson-square-tickets
+1586,Sara Evans,sara-evans,0.53579,Sara Evans,11,True,country,band,"2592580,2669025,2644650,2649961,2637297,2695478,2695477,2617291,2646584,2646697",https://seatgeek.com/sara-evans-tickets
+147926,Steven Tyler,steven-tyler,0.46948,Steven Tyler,0,False,rock,band,,https://seatgeek.com/steven-tyler-tickets
+1446,Plain White T's,plain-white-t-s,0.49992,Plain White T's,12,True,indie,band,"2562136,2577833,2578177,2578019,2578240,2617257,2610646,2669471,2688389,2688294",https://seatgeek.com/plain-white-t-s-tickets
+259508,Plain White T's and Parachute,plain-white-t-s-and-parachute,0.0,Plain White T's and Parachute,0,False,,band,,https://seatgeek.com/plain-white-t-s-and-parachute-tickets
+4680,Wale,wale,0.51403,Wale,5,True,hip-hop,band,"2624838,2589278,2600159,2617395,2603517",https://seatgeek.com/wale-tickets
+9052,Red Hot Chili Peppers,red-hot-chili-peppers,0.73249,Red Hot Chili Peppers,0,False,rock,band,,https://seatgeek.com/red-hot-chili-peppers-tickets
+12838,Nicole Scherzinger,nicole-scherzinger,0.32545,Nicole Scherzinger,0,False,pop,band,,https://seatgeek.com/nicole-scherzinger-tickets
+13951,Michael Jackson,michael-jackson,0.24263,Michael Jackson,0,False,pop,band,,https://seatgeek.com/michael-jackson-tickets
+7985,Afrojack,afrojack,0.56847,Afrojack,7,True,house,band,"2581500,2645829,2594778,2645825,2621234,2552247,2460971",https://seatgeek.com/afrojack-tickets
+162535,YC,yc,0.0,YC,0,False,,band,,https://seatgeek.com/yc-tickets
+102344,Adam Levine,adam-levine,0.52597,Adam Levine,0,False,pop,band,,https://seatgeek.com/adam-levine-tickets
+12444,Martin Solveig,martin-solveig,0.63079,Martin Solveig,7,True,house,band,"2663449,2692275,2632085,2596442,2492162,2596381,2596440",https://seatgeek.com/martin-solveig-tickets
+355,Bow Wow,bow-wow,0.47076,Bow Wow,0,False,hip-hop,band,,https://seatgeek.com/bow-wow-tickets
+4887,Brantley Gilbert,brantley-gilbert,0.6032,Brantley Gilbert,23,True,,band,"2547313,2386947,2417793,2386891,2616970,2386873,2495138,2400608,2563402,2387032",https://seatgeek.com/brantley-gilbert-tickets
+238816,Victorious Cast,victorious-cast,0.0,Victorious Cast,0,False,pop,band,,https://seatgeek.com/victorious-cast-tickets
+4115,David Nail,david-nail,0.51268,David Nail,14,True,,band,"2452338,2517719,2583649,2427810,2580226,2543613,2604612,2528552,2501369,2477107",https://seatgeek.com/david-nail-tickets
+16340,Bridgit Mendler,bridgit-mendler,0.51569,Bridgit Mendler,2,True,,band,"2652611,2679988",https://seatgeek.com/bridgit-mendler-tickets
+12516,Andy Grammer,andy-grammer,0.46584,Andy Grammer,15,True,pop,band,"2694138,2609821,2675293,2610311,2611342,2608938,2611470,2610609,2609908,2611609",https://seatgeek.com/andy-grammer-tickets
+1212,Matt Nathanson,matt-nathanson,0.52087,Matt Nathanson,4,True,singer-songwriter,band,"2480749,2480840,2480711,2480852",https://seatgeek.com/matt-nathanson-tickets
+12350,Pistol Annies,pistol-annies,0.48512,Pistol Annies,0,False,,band,,https://seatgeek.com/pistol-annies-tickets
+6831,Mac Miller,mac-miller,0.55114,Mac Miller,4,True,hip-hop,band,"2547107,2547106,2687526,2698666",https://seatgeek.com/mac-miller-tickets
+1624,Sick Puppies,sick-puppies,0.43805,Sick Puppies,0,False,alternative-rock,band,,https://seatgeek.com/sick-puppies-tickets
+10636,Kreayshawn,kreayshawn,0.44889,Kreayshawn,0,False,hip-hop,band,,https://seatgeek.com/kreayshawn-tickets
+87444,Rebecca Black,rebecca-black,0.2697,Rebecca Black,0,False,pop,band,,https://seatgeek.com/rebecca-black-tickets
+14486,Hugh Laurie,hugh-laurie,0.46715,Hugh Laurie,0,False,blues,band,,https://seatgeek.com/hugh-laurie-tickets
+11297,Ace Hood,ace-hood,0.49216,Ace Hood,0,False,rap,band,,https://seatgeek.com/ace-hood-tickets
+9905,The JaneDear Girls,the-janedear-girls,0.33896,The JaneDear Girls,0,False,,band,,https://seatgeek.com/the-janedear-girls-tickets
+18118,Mann,mann,0.0,Mann,0,False,rap,band,,https://seatgeek.com/mann-tickets
+8701,Ronnie Dunn,ronnie-dunn,0.66123,Ronnie Dunn,6,True,country,band,"2425679,2425683,2425686,2425687,2425678,2425685",https://seatgeek.com/ronnie-dunn-tickets
+1808,The Game,the-game,0.51843,The Game,0,False,rap,band,,https://seatgeek.com/the-game-tickets
+718,Fabolous,fabolous,0.51107,Fabolous,1,True,hip-hop,band,2663256,https://seatgeek.com/fabolous-tickets
+1774,The Black Keys,the-black-keys,0.64984,The Black Keys,6,True,blues,band,"2452328,2563446,2452330,2526239,2551345,2526238",https://seatgeek.com/the-black-keys-tickets
+23101,Birdman,birdman,0.37109,Birdman,0,False,rap,band,,https://seatgeek.com/birdman-tickets
+41,Blink 182,blink-182,0.6145,Blink 182,0,False,,band,,https://seatgeek.com/blink-182-tickets
+8741,Young The Giant,young-the-giant,0.54802,Young The Giant,24,True,indie-rock,band,"2452328,2563446,2452329,2617835,2445261,2508023,2544337,2552347,2490131,2490017",https://seatgeek.com/young-the-giant-tickets
+10462,Shania Twain,shania-twain,0.62323,Shania Twain,47,True,country,band,"2541186,2541188,2541194,2541163,2541212,2541128,2541155,2541169,2540945,2541207",https://seatgeek.com/shania-twain-tickets
+744,Foo Fighters,foo-fighters,0.71186,Foo Fighters,44,True,rock,band,"2409740,2409599,2424594,2409571,2409724,2409715,2409742,2409569,2409709,2409711",https://seatgeek.com/foo-fighters-tickets
+10495,Evanescence,evanescence,0.49411,Evanescence,3,True,rock,band,"2698564,2698634,2698709",https://seatgeek.com/evanescence-tickets
+16790,Vicci Martinez,vicci-martinez,0.50279,Vicci Martinez,0,False,,band,,https://seatgeek.com/vicci-martinez-tickets
+8987,Grouplove,grouplove,0.5519,Grouplove,0,False,indie,band,,https://seatgeek.com/grouplove-tickets
+237881,Sara Ramirez,sara-ramirez,0.0,Sara Ramirez,0,False,pop,band,,https://seatgeek.com/sara-ramirez-tickets
+1953,Twista,twista,0.43943,Twista,3,True,rap,band,"2695157,2622087,2678826",https://seatgeek.com/twista-tickets
+16118,Sunny Sweeney,sunny-sweeney,0.5516,Sunny Sweeney,3,True,country,band,"2692008,2692005,2692002",https://seatgeek.com/sunny-sweeney-tickets
+1604,Seether,seether,0.50047,Seether,18,True,rock,band,"2608907,2613232,2608879,2608796,2608892,2608956,2639581,2608811,2641029,2652264",https://seatgeek.com/seether-tickets
+10809,Mindless Behavior,mindless-behavior,0.51434,Mindless Behavior,0,False,rnb,band,,https://seatgeek.com/mindless-behavior-tickets
+151149,Reeve Carney,reeve-carney,0.0,Reeve Carney,0,False,jazz,band,,https://seatgeek.com/reeve-carney-tickets
+14699,Travis Porter,travis-porter,0.4617,Travis Porter,1,True,hip-hop,band,2685745,https://seatgeek.com/travis-porter-tickets
+16173,Jana Kramer,jana-kramer,0.58121,Jana Kramer,7,True,,band,"2528598,2648556,2689928,2608217,2648086,2650065,2595127",https://seatgeek.com/jana-kramer-tickets
+180116,Troop 41,troop-41,0.0,Troop 41,0,False,,band,,https://seatgeek.com/troop-41-tickets
+733,Five Finger Death Punch,five-finger-death-punch,0.49038,Five Finger Death Punch,43,True,metalcore,band,"2692340,2617786,2617754,2643889,2617676,2617627,2617725,2617788,2617334,2617566",https://seatgeek.com/five-finger-death-punch-tickets
+21504,Gorilla Zoe,gorilla-zoe,0.0,Gorilla Zoe,0,False,rap,band,,https://seatgeek.com/gorilla-zoe-tickets
+17860,Steve Holy,steve-holy,0.28178,Steve Holy,0,False,country,band,,https://seatgeek.com/steve-holy-tickets
+4276,Cage The Elephant,cage-the-elephant,0.57713,Cage The Elephant,2,True,indie-rock,band,"2642693,2670298",https://seatgeek.com/cage-the-elephant-tickets
+178532,Garrett Hedlund,garrett-hedlund,0.0,Garrett Hedlund,0,False,,band,,https://seatgeek.com/garrett-hedlund-tickets
+240195,Gwyneth Paltrow,gwyneth-paltrow,0.0,Gwyneth Paltrow,0,False,country,band,,https://seatgeek.com/gwyneth-paltrow-tickets
+118,3 Doors Down,3-doors-down,0.48112,3 Doors Down,21,True,rock,band,"2608907,2613232,2608879,2608796,2608892,2608956,2608811,2637540,2601419,2597906",https://seatgeek.com/3-doors-down-tickets
+10022,AWOLNATION,awolnation,0.51642,AWOLNATION,27,True,electronic,band,"2549498,2554684,2526547,2547470,2549228,2549497,2539550,2637723,2548605,2620457",https://seatgeek.com/awolnation-tickets
+8964,Don Omar,don-omar,0.53012,Don Omar,0,False,latin,band,,https://seatgeek.com/don-omar-tickets
+11838,Frank Ocean,frank-ocean,0.55709,Frank Ocean,3,True,rnb,band,"2611633,2604314,2604312",https://seatgeek.com/frank-ocean-tickets
+720,Faith Hill,faith-hill,0.62937,Faith Hill,0,False,country,band,,https://seatgeek.com/faith-hill-tickets
+2440,Jordin Sparks,jordin-sparks,0.37783,Jordin Sparks,0,False,pop,band,,https://seatgeek.com/jordin-sparks-tickets
+16364,Craig Campbell,craig-campbell,0.45212,Craig Campbell,6,True,country,band,"2617840,2695951,2613215,2680341,2637542,2588494",https://seatgeek.com/craig-campbell-tickets
+13793,Romeo Santos,romeo-santos,0.67763,Romeo Santos,0,False,latin,band,,https://seatgeek.com/romeo-santos-tickets
+39049,Chris Medina,chris-medina,0.0,Chris Medina,0,False,,band,,https://seatgeek.com/chris-medina-tickets
+2609,Sean Paul,sean-paul,0.50118,Sean Paul,3,True,reggae,band,"2608125,2607968,2588609",https://seatgeek.com/sean-paul-tickets
+4170,Kirk Franklin,kirk-franklin,0.4733,Kirk Franklin,7,True,christian,band,"2686302,2687486,2614364,2475889,2688037,2555856,2362599",https://seatgeek.com/kirk-franklin-tickets
+2272,B.o.B,b-o-b,0.53025,B.o.B,0,False,hip-hop,band,,https://seatgeek.com/b-o-b-tickets
+296963,B.O.B.,b-o-b-6,0.40548,B.O.B.,0,False,,band,,https://seatgeek.com/b-o-b-6-tickets
+289118,B.o.B.,b-o-b-4,0.0,B.o.B.,0,False,,band,,https://seatgeek.com/b-o-b-4-tickets
+295518,B.o.B.,b-o-b-5,0.0,B.o.B.,0,False,,band,,https://seatgeek.com/b-o-b-5-tickets
+279175,B.O.B. Live In Liverpool,b-o-b-live-in-liverpool,0.0,B.O.B. Live In Liverpool,0,False,,band,,https://seatgeek.com/b-o-b-live-in-liverpool-tickets
+288972,B.o.B,b-o-b-3,0.0,B.o.B,0,False,,band,,https://seatgeek.com/b-o-b-3-tickets
+10352,Tyga,tyga,0.55199,Tyga,1,True,hip-hop,band,2679516,https://seatgeek.com/tyga-tickets
+18737,Bella Thorne,bella-thorne,0.37304,Bella Thorne,0,False,,band,,https://seatgeek.com/bella-thorne-tickets
+182324,China Anne McClain,china-anne-mcclain,0.0,China Anne McClain,0,False,,band,,https://seatgeek.com/china-anne-mcclain-tickets
+1001,Josh Kelley,josh-kelley,0.53251,Josh Kelley,0,False,,band,,https://seatgeek.com/josh-kelley-tickets
+134,Aaron Lewis,aaron-lewis,0.51677,Aaron Lewis,16,True,rock,band,"2648910,2635321,2615252,2615269,2610520,2617165,2637605,2680171,2589626,2668179",https://seatgeek.com/aaron-lewis-tickets
+122,50 Cent,50-cent,0.5678,50 Cent,0,False,rap,band,,https://seatgeek.com/50-cent-tickets
+11937,JoJo,jojo,0.4318,JoJo,1,True,pop,band,2572045,https://seatgeek.com/jojo-tickets
+1206,Mat Kearney,mat-kearney,0.50483,Mat Kearney,0,False,singer-songwriter,band,,https://seatgeek.com/mat-kearney-tickets
+1925,Tony Bennett,tony-bennett,0.57754,Tony Bennett,24,True,jazz,band,"2503394,2480744,2513186,2549421,2547259,2547261,2615250,2596605,2668300,2669005",https://seatgeek.com/tony-bennett-tickets
+13730,Duck Sauce,duck-sauce,0.69818,Duck Sauce,0,False,house,band,,https://seatgeek.com/duck-sauce-tickets
+1388,Panic! At The Disco,panic-at-the-disco,0.5632,Panic! At The Disco,9,True,rock,band,"2581579,2529721,2533964,2529716,2589167,2661525,2630734,2661524,2642782",https://seatgeek.com/panic-at-the-disco-tickets
+1541,Rise Against,rise-against,0.54925,Rise Against,29,True,punk-rock,band,"2585223,2584420,2584569,2584442,2584525,2584324,2584354,2585352,2584508,2584581",https://seatgeek.com/rise-against-tickets
+246713,Casey Weston,casey-weston,0.0,Casey Weston,0,False,,band,,https://seatgeek.com/casey-weston-tickets
+11250,Joe Jonas,joe-jonas,0.52088,Joe Jonas,0,False,pop,band,,https://seatgeek.com/joe-jonas-tickets
+234547,Xenia,xenia,0.0,Xenia,0,False,new-wave,band,,https://seatgeek.com/xenia-tickets
+2569,R. Kelly,r-kelly,0.55048,R. Kelly,3,True,rnb,band,"2687343,2556065,2646684",https://seatgeek.com/r-kelly-tickets
+103274,"R. Kelly's ""Trapped in the Closet"" (Sing-Along!)",r-kelly-s-trapped-in-the-closet-sing-along,0.0,"R. Kelly's ""Trapped in the Closet"" (Sing-Along!)",0,False,,band,,https://seatgeek.com/r-kelly-s-trapped-in-the-closet-sing-along-tickets
+296654,R Kelly - Holidays With The King,r-kelly-holidays-with-the-king,0.0,R Kelly - Holidays With The King,0,False,,band,,https://seatgeek.com/r-kelly-holidays-with-the-king-tickets
+309870,R. Kelly,r-kelly-1,0.0,R. Kelly,0,False,,band,,https://seatgeek.com/r-kelly-1-tickets
+1203,Mary Mary,mary-mary,0.37627,Mary Mary,1,True,christian,band,2670526,https://seatgeek.com/mary-mary-tickets
+905,James Blunt,james-blunt,0.52971,James Blunt,0,False,pop,band,,https://seatgeek.com/james-blunt-tickets
+1026,Kaskade,kaskade,0.57558,Kaskade,22,True,house,band,"2290498,2517360,2517779,2613131,2601221,2507741,2581500,2519446,2632095,2601219",https://seatgeek.com/kaskade-tickets
+29397,DJ Drama,dj-drama,0.41818,DJ Drama,2,True,,band,"2660741,2612173",https://seatgeek.com/dj-drama-tickets
+9896,Ashton Shepherd,ashton-shepherd,0.43861,Ashton Shepherd,0,False,country,band,,https://seatgeek.com/ashton-shepherd-tickets
+196414,REJ3CTZ,rej3ctz,0.0,REJ3CTZ,1,True,,band,2691758,https://seatgeek.com/rej3ctz-tickets
+4382,Jill Scott,jill-scott,0.54662,Jill Scott,24,True,soul,band,"2603822,2624472,2519517,2513242,2604031,2596764,2604522,2604334,2604796,2604450",https://seatgeek.com/jill-scott-tickets
+2232,30 Seconds to Mars,30-seconds-to-mars,0.57978,30 Seconds to Mars,0,False,alternative-rock,band,,https://seatgeek.com/30-seconds-to-mars-tickets
+10004,Mana,mana,0.67129,Mana,5,True,latin,band,"2602891,2659421,2604124,2692886,2640936",https://seatgeek.com/mana-tickets
+6310,Yellowcard,yellowcard,0.42102,Yellowcard,34,True,punk-rock,band,"2589215,2624469,2627115,2624798,2624753,2624782,2624701,2624810,2624715,2624669",https://seatgeek.com/yellowcard-tickets
+16295,Carly Rae Jepsen,carly-rae-jepsen,0.71377,Carly Rae Jepsen,2,True,pop,band,"2691607,2624754",https://seatgeek.com/carly-rae-jepsen-tickets
+11528,Gotye,gotye,0.58349,Gotye,0,False,indie,band,,https://seatgeek.com/gotye-tickets
+6036,fun.,fun,0.62144,fun.,0,False,indie-pop,band,,https://seatgeek.com/fun-tickets
+11220,Fun Fun Fun Fest,fun-fun-fun-fest,0.48917,Fun Fun Fun Fest,3,True,,theater,"2636913,2663057,2663056",https://seatgeek.com/fun-fun-fun-fest-tickets
+257341,Fun Home,fun-home,0.45562,Fun Home,196,True,,theater_broadway_national_tours,"2423903,2423902,2423901,2423899,2423900,2423897,2423898,2423896,2462103,2423895",https://seatgeek.com/fun-home-tickets
+151698,No Fun At All,no-fun-at-all,0.42273,No Fun At All,0,False,punk-rock,band,,https://seatgeek.com/no-fun-at-all-tickets
+247397,Fun Lovin' Criminals,fun-lovin-criminals,0.34008,Fun Lovin' Criminals,18,True,funk,band,"2583114,2583140,2583246,2583560,2583167,2582744,2583527,2582787,2583532,2627260",https://seatgeek.com/fun-lovin-criminals-tickets
+282072,Toopy and Binoo Fun and Games,toopy-and-binoo-fun-and-games,0.28569,Toopy and Binoo Fun and Games,0,False,,theater_family,,https://seatgeek.com/toopy-and-binoo-fun-and-games-tickets
+126020,Super Happy Fun Club,super-happy-fun-club,0.14518,Super Happy Fun Club,0,False,,band,,https://seatgeek.com/super-happy-fun-club-tickets
+137374,WTTW's Annual Fun & Run,wttw-s-annual-fun-run,0.0,WTTW's Annual Fun & Run,0,False,,music_festival,,https://seatgeek.com/wttw-s-annual-fun-run-tickets
+145144,The Fun Fourth Festival,the-fun-fourth-festival,0.0,The Fun Fourth Festival,0,False,,music_festival,,https://seatgeek.com/the-fun-fourth-festival-tickets
+147291,Family Fun Expo,family-fun-expo,0.0,Family Fun Expo,0,False,,theater_family,,https://seatgeek.com/family-fun-expo-tickets
+15305,Psy,psy,0.59559,Psy,0,False,hip-hop,band,,https://seatgeek.com/psy-tickets
+7773,Ellie Goulding,ellie-goulding,0.65847,Ellie Goulding,10,True,electronic,band,"2528831,2447171,2537357,2540710,2540864,2600715,2554819,2600713,2644763,2601407",https://seatgeek.com/ellie-goulding-tickets
+14277,The Lumineers,the-lumineers,0.62891,The Lumineers,0,False,,band,,https://seatgeek.com/the-lumineers-tickets
+8998,The Wanted,the-wanted,0.54283,The Wanted,1,True,pop,band,2695837,https://seatgeek.com/the-wanted-tickets
+2731,Whitney Houston,whitney-houston,0.0,Whitney Houston,0,False,pop,band,,https://seatgeek.com/whitney-houston-tickets
+12586,One Direction,one-direction,0.80583,One Direction,46,True,pop,band,"2387754,2387154,2384208,2384169,2384235,2384236,2384159,2384234,2384147,2387766",https://seatgeek.com/one-direction-tickets
+24210,Alex Clare,alex-clare,0.56904,Alex Clare,0,False,dubstep,band,,https://seatgeek.com/alex-clare-tickets
+922,Jason Mraz,jason-mraz,0.6147,Jason Mraz,0,False,singer-songwriter,band,,https://seatgeek.com/jason-mraz-tickets
+1173,Madonna,madonna,0.76892,Madonna,65,True,pop,band,"2538116,2562348,2538127,2537915,2599364,2538141,2556772,2538134,2538125,2562360",https://seatgeek.com/madonna-tickets
+11466,Calvin Harris,calvin-harris,0.5918,Calvin Harris,15,True,electronic,band,"2631777,2594781,2693249,2447171,2537357,2343420,2540710,2540864,2645821,2656979",https://seatgeek.com/calvin-harris-tickets
+13765,Cher Lloyd,cher-lloyd,0.541,Cher Lloyd,0,False,pop,band,,https://seatgeek.com/cher-lloyd-tickets
+15434,Florida Georgia Line,florida-georgia-line,0.67587,Florida Georgia Line,35,True,,band,"2590767,2495362,2596666,2495368,2528598,2391775,2515695,2480869,2492302,2458384",https://seatgeek.com/florida-georgia-line-tickets
+11264,Hunter Hayes,hunter-hayes,0.62166,Hunter Hayes,35,True,country,band,"2449355,2581995,2589202,2547410,2499842,2528598,2468699,2468584,2468706,2469450",https://seatgeek.com/hunter-hayes-tickets
+16787,Karmin,karmin,0.52451,Karmin,0,False,pop,band,,https://seatgeek.com/karmin-tickets
+11306,Kendrick Lamar,kendrick-lamar,0.62206,Kendrick Lamar,11,True,hip-hop,band,"2529329,2452328,2563446,2452329,2526239,2551345,2526238,2528831,2529721,2381041",https://seatgeek.com/kendrick-lamar-tickets
+772,Gavin DeGraw,gavin-degraw,0.59509,Gavin DeGraw,46,True,singer-songwriter,band,"2541186,2541188,2541194,2541163,2541212,2541128,2541155,2541169,2540945,2541207",https://seatgeek.com/gavin-degraw-tickets
+14853,2 Chainz,2-chainz,0.57217,2 Chainz,2,True,hip-hop,band,"2685745,2679032",https://seatgeek.com/2-chainz-tickets
+15810,Cassadee Pope,cassadee-pope,0.56871,Cassadee Pope,4,True,,band,"2449356,2562104,2637155,2640998",https://seatgeek.com/cassadee-pope-tickets
+51005,Havana Brown,havana-brown,0.6994,Havana Brown,0,False,dance,band,,https://seatgeek.com/havana-brown-tickets
+18235,Kirko Bangz,kirko-bangz,0.36107,Kirko Bangz,0,False,,band,,https://seatgeek.com/kirko-bangz-tickets
+16326,Juicy J,juicy-j,0.4583,Juicy J,3,True,hip-hop,band,"2680150,2696105,2696302",https://seatgeek.com/juicy-j-tickets
+16871,Kip Moore,kip-moore,0.55576,Kip Moore,20,True,country,band,"2590511,2449356,2536100,2492216,2498862,2501459,2558801,2480849,2480867,2501182",https://seatgeek.com/kip-moore-tickets
+18747,Love and Theft,love-and-theft,0.55089,Love and Theft,6,True,,band,"2452338,2452337,2617164,2548858,2617162,2691998",https://seatgeek.com/love-and-theft-tickets
+2289,Breathe Carolina,breathe-carolina,0.43082,Breathe Carolina,18,True,electronic,band,"2679471,2668244,2680018,2657656,2679654,2679540,2690992,2668034,2679668,2679572",https://seatgeek.com/breathe-carolina-tickets
+6916,Gloriana,gloriana,0.571,Gloriana,4,True,country,band,"2578992,2600693,2658855,2556077",https://seatgeek.com/gloriana-tickets
+59,No Doubt,no-doubt,0.63099,No Doubt,7,True,rock,band,"2691049,2557362,2562271,2557360,2417829,2508023,2544337",https://seatgeek.com/no-doubt-tickets
+17583,Ca$H Out,ca-h-out,0.26141,Ca$H Out,0,False,,band,,https://seatgeek.com/ca-h-out-tickets
+14698,French Montana,french-montana,0.47289,French Montana,4,True,hip-hop,band,"2552247,2419605,2577979,2578130",https://seatgeek.com/french-montana-tickets
+18654,Outasight,outasight,0.37603,Outasight,0,False,hip-hop,band,,https://seatgeek.com/outasight-tickets
+18379,Dustin Lynch,dustin-lynch,0.60335,Dustin Lynch,46,True,,band,"2621304,2636631,2274754,2490148,2490149,2572149,2490137,2490147,2490146,2588646",https://seatgeek.com/dustin-lynch-tickets
+1807,The Fray,the-fray,0.59864,The Fray,9,True,alternative,band,"2480749,2480840,2480711,2480852,2601422,2580296,2617881,2557362,2562271",https://seatgeek.com/the-fray-tickets
+18994,Loverance,loverance,0.0,Loverance,0,False,,band,,https://seatgeek.com/loverance-tickets
+16291,Future,future,0.61677,Future,7,True,rap,band,"2690839,2669334,2650777,2615292,2686299,2616978,2663256",https://seatgeek.com/future-tickets
+11565,Meek Mill,meek-mill,0.56258,Meek Mill,21,True,hip-hop,band,"2555954,2556039,2555737,2555941,2556047,2554817,2554957,2556024,2556030,2556023",https://seatgeek.com/meek-mill-tickets
+192234,Tamar Braxton,tamar-braxton,0.56277,Tamar Braxton,0,False,,band,,https://seatgeek.com/tamar-braxton-tickets
+16390,Tony Lucca,tony-lucca,0.60677,Tony Lucca,4,True,singer-songwriter,band,"2689942,2689430,2689909,2689308",https://seatgeek.com/tony-lucca-tickets
+10256,Avicii,avicii,0.60956,Avicii,4,True,house,band,"2669774,2649434,2688336,2604085",https://seatgeek.com/avicii-tickets
+28779,Rita Ora,rita-ora,0.56491,Rita Ora,0,False,pop,band,,https://seatgeek.com/rita-ora-tickets
+364,Brandy,brandy,0.48159,Brandy,0,False,rnb,band,,https://seatgeek.com/brandy-tickets
+32307,Greg Bates,greg-bates,0.41878,Greg Bates,0,False,,band,,https://seatgeek.com/greg-bates-tickets
+2713,Van Halen,van-halen,0.70576,Van Halen,36,True,hard-rock,band,"2563388,2563452,2576222,2563460,2563449,2563331,2563448,2563328,2563284,2563370",https://seatgeek.com/van-halen-tickets
+7031,Skrillex,skrillex,0.57666,Skrillex,12,True,dubstep,band,"2613135,2613132,2632093,2632088,2589104,2685733,2685735,2446072,2446071,2649432",https://seatgeek.com/skrillex-tickets
+11885,Nero,nero,0.53354,Nero,11,True,dubstep,band,"2290498,2290499,2693944,2528831,2447171,2537357,2545939,2396635,2377713,2396636",https://seatgeek.com/nero-tickets
+130878,Juliet Simms,juliet-simms,0.36629,Juliet Simms,11,True,,band,"2425520,2425748,2425713,2425546,2425728,2425710,2425613,2425756,2429918,2425376",https://seatgeek.com/juliet-simms-tickets
+106922,Terry McDermott,terry-mcdermott,0.32738,Terry McDermott,0,False,,band,,https://seatgeek.com/terry-mcdermott-tickets
+106,Montgomery Gentry,montgomery-gentry,0.47914,Montgomery Gentry,6,True,country,band,"2652613,2650398,2650281,2613215,2564326,2652469",https://seatgeek.com/montgomery-gentry-tickets
+1169,M83,m83,0.58849,M83,0,False,electronic,band,,https://seatgeek.com/m83-tickets
+63357,Driicky Graham,driicky-graham,0.0,Driicky Graham,0,False,,band,,https://seatgeek.com/driicky-graham-tickets
+24652,Chief Keef,chief-keef,0.39197,Chief Keef,0,False,,band,,https://seatgeek.com/chief-keef-tickets
+102,John Legend,john-legend,0.64086,John Legend,1,True,soul,band,2693070,https://seatgeek.com/john-legend-tickets
+28294,Diggy,diggy,0.31305,Diggy,0,False,hip-hop,band,,https://seatgeek.com/diggy-tickets
+10890,Fat Joe,fat-joe,0.44767,Fat Joe,3,True,rap,band,"2643963,2687485,2687384",https://seatgeek.com/fat-joe-tickets
+78508,Lindsey Pavao,lindsey-pavao,0.0,Lindsey Pavao,0,False,,band,,https://seatgeek.com/lindsey-pavao-tickets
+38740,Michel Telo,michel-telo,0.41714,Michel Telo,0,False,pop,band,,https://seatgeek.com/michel-telo-tickets
+38740,Michel Telo,michel-telo,0.41714,Michel Telo,0,False,pop,band,,https://seatgeek.com/michel-telo-tickets
+19921,Edens Edge,edens-edge,0.51647,Edens Edge,0,False,,band,,https://seatgeek.com/edens-edge-tickets
+255234,Jermaine Paul,jermaine-paul,0.0,Jermaine Paul,0,False,,band,,https://seatgeek.com/jermaine-paul-tickets
+1053,Keyshia Cole,keyshia-cole,0.46761,Keyshia Cole,0,False,rnb,band,,https://seatgeek.com/keyshia-cole-tickets
+455,Chris Cagle,chris-cagle,0.49838,Chris Cagle,5,True,country,band,"2626267,2647881,2644630,2624744,2683484",https://seatgeek.com/chris-cagle-tickets
+190083,Melanie Martinez,melanie-martinez,0.3892,Melanie Martinez,25,True,,band,"2674667,2679941,2679527,2689046,2690336,2680192,2678926,2690337,2680160,2679235",https://seatgeek.com/melanie-martinez-tickets
+15796,Pusha T,pusha-t,0.52585,Pusha T,0,False,hip-hop,band,,https://seatgeek.com/pusha-t-tickets
+11867,Lana Del Rey,lana-del-rey,0.69522,Lana Del Rey,0,False,indie,band,,https://seatgeek.com/lana-del-rey-tickets
+186488,Sam Palladio,sam-palladio,0.45745,Sam Palladio,3,True,,band,"2669707,2669697,2669620",https://seatgeek.com/sam-palladio-tickets
+19600,Thomas Rhett,thomas-rhett,0.62378,Thomas Rhett,36,True,,band,"2495362,2596666,2495368,2527722,2617549,2528598,2427314,2515695,2480869,2492302",https://seatgeek.com/thomas-rhett-tickets
+28233,Hopsin V.I.P.,hopsin-v-i-p,0.0,Hopsin V.I.P.,0,False,,band,,https://seatgeek.com/hopsin-v-i-p-tickets
+157190,The V.I.P. Club,the-v-i-p-club,0.0,The V.I.P. Club,0,False,,band,,https://seatgeek.com/the-v-i-p-club-tickets
+23695,V.I.C.,v-i-c,0.0,V.I.C.,0,False,hip-hop,band,,https://seatgeek.com/v-i-c-tickets
+25817,Epica V.i.p,epica-v-i-p,0.0,Epica V.i.p,0,False,,band,,https://seatgeek.com/epica-v-i-p-tickets
+250310,Finntroll V.i.p,finntroll-v-i-p,0.0,Finntroll V.i.p,0,False,,band,,https://seatgeek.com/finntroll-v-i-p-tickets
+250054,Mushroomhead Old School Show - V.i.p,mushroomhead-old-school-show-v-i-p,0.0,Mushroomhead Old School Show - V.i.p,0,False,,band,,https://seatgeek.com/mushroomhead-old-school-show-v-i-p-tickets
+234177,V.I.P.,v-i-p-1,0.0,V.I.P.,0,False,hip-hop,band,,https://seatgeek.com/v-i-p-1-tickets
+165122,V.I.P,v-i-p,0.0,V.I.P,0,False,,band,,https://seatgeek.com/v-i-p-tickets
+62195,Grace Potter,grace-potter,0.58598,Grace Potter,45,True,blues,band,"2458026,2600623,2601361,2449631,2590581,2590451,2612096,2563446,2683705,2604284",https://seatgeek.com/grace-potter-tickets
+8840,Olly Murs,olly-murs,0.57494,Olly Murs,7,True,pop,band,"2657609,2604011,2656738,2672913,2447171,2537357",https://seatgeek.com/olly-murs-tickets
+143463,Nicholas David,nicholas-david,0.46096,Nicholas David,4,True,,band,"2580118,2660344,2659333,2661554",https://seatgeek.com/nicholas-david-tickets
+42,Green Day,green-day,0.65351,Green Day,1,True,punk-rock,band,2670147,https://seatgeek.com/green-day-tickets
+56131,Phillip Phillips,phillip-phillips,0.59881,Phillip Phillips,0,False,soul,band,,https://seatgeek.com/phillip-phillips-tickets
+7657,Slaughterhouse,slaughterhouse,0.39877,Slaughterhouse,0,False,hip-hop,band,,https://seatgeek.com/slaughterhouse-tickets
+290975,Mgk No Class Tour,mgk-no-class-tour,0.0,Mgk No Class Tour,0,False,,band,,https://seatgeek.com/mgk-no-class-tour-tickets
+285393,MGK Est. 4 Life Fans Only Tour,mgk-est-4-life-fans-only-tour,0.0,MGK Est. 4 Life Fans Only Tour,0,False,,theater_dance_performance_tour,,https://seatgeek.com/mgk-est-4-life-fans-only-tour-tickets
+569,Deadmau5,deadmau5,0.58312,Deadmau5,15,True,house,band,"2517360,2517779,2507240,2305681,2305680,2529721,2381041,2695472,2396635,2377713",https://seatgeek.com/deadmau5-tickets
+704,Estelle,estelle,0.45802,Estelle,3,True,rnb,band,"2572168,2660300,2615193",https://seatgeek.com/estelle-tickets
+160730,Lorde,lorde,0.65944,Lorde,0,False,,band,,https://seatgeek.com/lorde-tickets
+11687,Macklemore,macklemore,0.59463,Macklemore,0,False,hip-hop,band,,https://seatgeek.com/macklemore-tickets
+52950,Baauer,baauer,0.56369,Baauer,5,True,,band,"2656985,2635810,2656978,2638362,2684958",https://seatgeek.com/baauer-tickets
+79454,Daft Punk,daft-punk,0.0,Daft Punk,0,False,electronic,band,,https://seatgeek.com/daft-punk-tickets
+15150,Imagine Dragons,imagine-dragons,0.66349,Imagine Dragons,53,True,indie,band,"2504118,2504141,2505377,2505363,2505356,2505355,2504161,2504142,2657167,2672565",https://seatgeek.com/imagine-dragons-tickets
+80500,A Great Big World,a-great-big-world,0.46969,A Great Big World,0,False,,band,,https://seatgeek.com/a-great-big-world-tickets
+7960,Swedish House Mafia,swedish-house-mafia,0.7414,Swedish House Mafia,0,False,house,band,,https://seatgeek.com/swedish-house-mafia-tickets
+298959,Ylvis,ylvis,0.0,Ylvis,0,False,,band,,https://seatgeek.com/ylvis-tickets
+184426,Anna Kendrick,anna-kendrick,0.0,Anna Kendrick,0,False,,band,,https://seatgeek.com/anna-kendrick-tickets
+24940,Icona Pop,icona-pop,0.6497,Icona Pop,13,True,swedish,band,"2387754,2387154,2384208,2384169,2384235,2384236,2384147,2387766,2384162,2384172",https://seatgeek.com/icona-pop-tickets
+16700,Zedd,zedd,0.58461,Zedd,58,True,house,band,"2613136,2601224,2443320,2632085,2601214,2632083,2601211,2452348,2608935,2600715",https://seatgeek.com/zedd-tickets
+17919,Capital Cities,capital-cities,0.6617,Capital Cities,4,True,,band,"2516394,2611966,2678774,2656818",https://seatgeek.com/capital-cities-tickets
+12829,A$AP Rocky,a-ap-rocky,0.65049,A$AP Rocky,12,True,hip-hop,band,"2646172,2517360,2290499,2568139,2396635,2396636,2679025,2679418,2679341,2680068",https://seatgeek.com/a-ap-rocky-tickets
+13852,Ariana Grande,ariana-grande,0.6996,Ariana Grande,35,True,,band,"2578269,2578043,2578247,2578236,2578248,2578255,2578241,2578259,2578252,2578238",https://seatgeek.com/ariana-grande-tickets
+81,Fall Out Boy,fall-out-boy,0.64738,Fall Out Boy,33,True,pop-punk,band,"2479749,2479760,2584492,2479196,2478876,2479437,2479735,2601932,2479530,2479849",https://seatgeek.com/fall-out-boy-tickets
+20599,Pentatonix,pentatonix,0.58922,Pentatonix,32,True,,band,"2539700,2539708,2539575,2539583,2539690,2539689,2539676,2539704,2539718,2539722",https://seatgeek.com/pentatonix-tickets
+17505,The Neighbourhood,the-neighbourhood,0.55262,The Neighbourhood,28,True,indie,band,"2680101,2661553,2674190,2670561,2670481,2670433,2670430,2670144,2660411,2670442",https://seatgeek.com/the-neighbourhood-tickets
+13546,Ed Sheeran,ed-sheeran,0.71102,Ed Sheeran,25,True,singer-songwriter,band,"2529466,2528063,2578860,2579289,2579321,2579308,2579345,2582777,2579332,2579326",https://seatgeek.com/ed-sheeran-tickets
+243422,Maejor Ali,maejor-ali,0.0,Maejor Ali,0,False,hip-hop,band,,https://seatgeek.com/maejor-ali-tickets
+14279,Of Monsters and Men,of-monsters-and-men,0.58272,Of Monsters and Men,67,True,indie,band,"2604190,2452328,2290498,2563446,2290499,2670226,2624519,2652957,2449650,2507741",https://seatgeek.com/of-monsters-and-men-tickets
+19377,Rocko,rocko,0.35485,Rocko,0,False,rap,band,,https://seatgeek.com/rocko-tickets
+2574,Randy Houser,randy-houser,0.5807,Randy Houser,39,True,country,band,"2621304,2636631,2490148,2490149,2490137,2490147,2490146,2490169,2490168,2501574",https://seatgeek.com/randy-houser-tickets
+15026,Emeli Sande,emeli-sande,0.53932,Emeli Sande,0,False,,band,,https://seatgeek.com/emeli-sande-tickets
+346,Bon Jovi,bon-jovi,0.70768,Bon Jovi,4,True,rock,band,"2651002,2671605,2668366,2680271",https://seatgeek.com/bon-jovi-tickets
+767,Gary Allan,gary-allan,0.5288,Gary Allan,19,True,country,band,"2603818,2449354,2528598,2637112,2617882,2652502,2591304,2624522,2620922,2419501",https://seatgeek.com/gary-allan-tickets
+160111,Zach Sobiech,zach-sobiech,0.0,Zach Sobiech,0,False,,band,,https://seatgeek.com/zach-sobiech-tickets
+145392,Sage The Gemini,sage-the-gemini,0.50129,Sage The Gemini,0,False,,band,,https://seatgeek.com/sage-the-gemini-tickets
+21625,Tyler Farr,tyler-farr,0.64234,Tyler Farr,34,True,,band,"2274754,2609850,2450145,2583374,2603076,2612010,2499855,2458384,2617950,2643888",https://seatgeek.com/tyler-farr-tickets
+19960,Brett Eldredge,brett-eldredge,0.56077,Brett Eldredge,20,True,,band,"2639276,2581351,2507977,2480851,2590754,2495266,2501461,2653016,2492280,2499858",https://seatgeek.com/brett-eldredge-tickets
+160921,Sevyn Streeter,sevyn-streeter,0.51261,Sevyn Streeter,0,False,,band,,https://seatgeek.com/sevyn-streeter-tickets
+26342,Krewella,krewella,0.57948,Krewella,4,True,,band,"2631778,2640387,2645824,2645815",https://seatgeek.com/krewella-tickets
+22888,Labrinth,labrinth,0.48488,Labrinth,2,True,electronic,band,"2447171,2537357",https://seatgeek.com/labrinth-tickets
+88162,Trinidad James,trinidad-james,0.50668,Trinidad James,0,False,,band,,https://seatgeek.com/trinidad-james-tickets
+33171,Parmalee,parmalee,0.50686,Parmalee,15,True,,band,"2523594,2528598,2695354,2612010,2589247,2548376,2645912,2624899,2695480,2694403",https://seatgeek.com/parmalee-tickets
+13741,Enya,enya,0.0,Enya,0,False,new-age,band,,https://seatgeek.com/enya-tickets
+160557,Rich Gang,rich-gang,0.35111,Rich Gang,0,False,,band,,https://seatgeek.com/rich-gang-tickets
+142220,August Alsina,august-alsina,0.57268,August Alsina,7,True,,band,"2694953,2373039,2661525,2661527,2366244,2372939,2577994",https://seatgeek.com/august-alsina-tickets
+250556,Rich Homie Quan,rich-homie-quan,0.564,Rich Homie Quan,3,True,,band,"2695668,2679977,2688247",https://seatgeek.com/rich-homie-quan-tickets
+290349,J Dash,j-dash-1,0.0,J Dash,0,False,,band,,https://seatgeek.com/j-dash-1-tickets
+162176,J. Dash,j-dash,0.0,J. Dash,0,False,,band,,https://seatgeek.com/j-dash-tickets
+106101,Ray J,ray-j,0.0,Ray J,0,False,rnb,band,,https://seatgeek.com/ray-j-tickets
+13733,The Weeknd,the-weeknd,0.65082,The Weeknd,15,True,rnb,band,"2290498,2520326,2552277,2600065,2687219,2685733,2685735,2616978,2663256,2600715",https://seatgeek.com/the-weeknd-tickets
+4672,Major Lazer,major-lazer,0.57636,Major Lazer,29,True,electronic,band,"2589232,2589215,2589169,2589193,2528831,2589128,2589709,2589243,2591654,2590623",https://seatgeek.com/major-lazer-tickets
+259782,Danielle Bradbery,danielle-bradbery,0.57082,Danielle Bradbery,2,True,,band,"2653033,2624702",https://seatgeek.com/danielle-bradbery-tickets
+82,Jonas Brothers,jonas-brothers,0.61456,Jonas Brothers,0,False,pop,band,,https://seatgeek.com/jonas-brothers-tickets
+62090,Kacey Musgraves,kacey-musgraves,0.6365,Kacey Musgraves,29,True,,band,"2638570,2661164,2660555,2648852,2591539,2600715,2600713,2528550,2661663,2661654",https://seatgeek.com/kacey-musgraves-tickets
+226734,Tessanne Chin,tessanne-chin,0.40861,Tessanne Chin,0,False,reggae,band,,https://seatgeek.com/tessanne-chin-tickets
+133386,John Hart,john-hart,0.49591,John Hart,0,False,,band,,https://seatgeek.com/john-hart-tickets
+12596,Austin Mahone,austin-mahone,0.66274,Austin Mahone,2,True,,band,"2610327,2580295",https://seatgeek.com/austin-mahone-tickets
+252323,The Swon Brothers,the-swon-brothers,0.52112,The Swon Brothers,5,True,,band,"2274754,2458384,2617882,2419501,2688829",https://seatgeek.com/the-swon-brothers-tickets
+13650,Hadouken!,hadouken,0.28003,Hadouken!,0,False,electronic,band,,https://seatgeek.com/hadouken-tickets
+59931,Hadouk Trio,hadouk-trio,0.0,Hadouk Trio,0,False,jazz,band,,https://seatgeek.com/hadouk-trio-tickets
+32648,"Distort, Hadouken, Citizen",distort-hadouken-citizen,0.0,"Distort, Hadouken, Citizen",0,False,,band,,https://seatgeek.com/distort-hadouken-citizen-tickets
+197132,Hadoken,hadoken,0.0,Hadoken,0,False,post-rock,band,,https://seatgeek.com/hadoken-tickets
+194070,Anne Hathaway,anne-hathaway,0.0,Anne Hathaway,0,False,,band,,https://seatgeek.com/anne-hathaway-tickets
+265782,James Wolpert,james-wolpert,0.34138,James Wolpert,0,False,,band,,https://seatgeek.com/james-wolpert-tickets
+244363,Lea Michele,lea-michele,0.52518,Lea Michele,0,False,pop,band,,https://seatgeek.com/lea-michele-tickets
+161937,Fifth Harmony,fifth-harmony,0.57781,Fifth Harmony,26,True,,band,"2598720,2598714,2598637,2598565,2598718,2598725,2598726,2598419,2598424,2598659",https://seatgeek.com/fifth-harmony-tickets
+727,Fergie,fergie,0.59044,Fergie,0,False,pop,band,,https://seatgeek.com/fergie-tickets
+6849,Prince Royce,prince-royce,0.56417,Prince Royce,36,True,,band,"2578269,2578043,2578247,2578236,2578248,2578255,2578241,2578259,2578252,2578238",https://seatgeek.com/prince-royce-tickets
+23866,Little Mix,little-mix,0.56311,Little Mix,3,True,pop,band,"2626115,2685735,2690182",https://seatgeek.com/little-mix-tickets
+79116,Ross Lynch,ross-lynch,0.51043,Ross Lynch,0,False,,band,,https://seatgeek.com/ross-lynch-tickets
+23665,Britt Nicole,britt-nicole,0.40226,Britt Nicole,18,True,christian,band,"2581347,2640329,2644815,2604810,2621393,2642793,2642874,2621394,2624926,2604672",https://seatgeek.com/britt-nicole-tickets
+266571,Will Champlin,will-champlin,0.0,Will Champlin,0,False,,band,,https://seatgeek.com/will-champlin-tickets
+1393,Passion Pit,passion-pit,0.55039,Passion Pit,18,True,electronic,band,"2603816,2529329,2671350,2669415,2614831,2622707,2614686,2670619,2670400,2669801",https://seatgeek.com/passion-pit-tickets
+177507,The Barden Bellas,the-barden-bellas,0.0,The Barden Bellas,0,False,,band,,https://seatgeek.com/the-barden-bellas-tickets
+290370,Michelle Chamuel,michelle-chamuel,0.0,Michelle Chamuel,0,False,,band,,https://seatgeek.com/michelle-chamuel-tickets
+11592,Childish Gambino,childish-gambino,0.58222,Childish Gambino,2,True,hip-hop,band,"2691980,2691794",https://seatgeek.com/childish-gambino-tickets
+242039,Bonnie McKee,bonnie-mckee,0.39542,Bonnie McKee,0,False,pop,band,,https://seatgeek.com/bonnie-mckee-tickets
+1257,Mika,mika,0.52336,Mika,21,True,pop,band,"2588292,2588187,2588283,2663449,2588724,2665958,2659461,2588673,2586849,2588188",https://seatgeek.com/mika-tickets
+275310,Jacquie Lee,jacquie-lee,0.52115,Jacquie Lee,3,True,,band,"2556747,2556717,2582316",https://seatgeek.com/jacquie-lee-tickets
+5023,Casey James,casey-james,0.64817,Casey James,1,True,pop,band,2579048,https://seatgeek.com/casey-james-tickets
+160262,Hustle gang,hustle-gang,0.0,Hustle gang,0,False,,band,,https://seatgeek.com/hustle-gang-tickets
+35119,K. Michelle,k-michelle,0.4798,K. Michelle,25,True,rnb,band,"2612185,2604340,2615292,2405771,2686584,2686578,2686491,2686579,2686591,2686582",https://seatgeek.com/k-michelle-tickets
+267475,K.michelle Live,k-michelle-live,0.0,K.michelle Live,0,False,,band,,https://seatgeek.com/k-michelle-live-tickets
+1751,Tegan and Sara,tegan-and-sara,0.62913,Tegan and Sara,0,False,indie,band,,https://seatgeek.com/tegan-and-sara-tickets
+15239,Kid Ink,kid-ink,0.50386,Kid Ink,46,True,,band,"2695865,2425264,2644021,2642851,2642850,2642771,2679826,2642721,2642862,2642859",https://seatgeek.com/kid-ink-tickets
+17842,Schoolboy Q,schoolboy-q,0.55274,Schoolboy Q,11,True,hip-hop,band,"2614765,2548541,2548540,2452328,2563446,2520326,2552277,2600065,2507741,2519446",https://seatgeek.com/schoolboy-q-tickets
+1185,Marc Anthony,marc-anthony,0.67663,Marc Anthony,24,True,latin,band,"2692889,2692888,2578859,2579086,2579188,2579305,2579333,2579320,2579310,2579309",https://seatgeek.com/marc-anthony-tickets
+113004,Emblem3,emblem3,0.54568,Emblem3,0,False,,band,,https://seatgeek.com/emblem3-tickets
+12343,Alabama Shakes,alabama-shakes,0.58118,Alabama Shakes,38,True,soul,band,"2608780,2290498,2582418,2590468,2608831,2507741,2519446,2608883,2608949,2568138",https://seatgeek.com/alabama-shakes-tickets
+160172,Candice Glover,candice-glover,0.0,Candice Glover,0,False,,band,,https://seatgeek.com/candice-glover-tickets
+23463,Charlie Worsham,charlie-worsham,0.5313,Charlie Worsham,2,True,,band,"2307419,2644821",https://seatgeek.com/charlie-worsham-tickets
+6996,Joe Budden,joe-budden,0.40904,Joe Budden,1,True,hip-hop,band,2691112,https://seatgeek.com/joe-budden-tickets
+220,Armin Van Buuren,armin-van-buuren,0.61802,Armin Van Buuren,11,True,trance,band,"2310134,2446072,2452348,2552247,2636560,2645819,2697950,2460971,2645812,2679205",https://seatgeek.com/armin-van-buuren-tickets
+189005,Samantha Barks,samantha-barks,0.0,Samantha Barks,0,False,,band,,https://seatgeek.com/samantha-barks-tickets
+222163,Arianna,arianna,0.0,Arianna,0,False,dance,band,,https://seatgeek.com/arianna-tickets
+5137,Arcade Fire,arcade-fire,0.64665,Arcade Fire,0,False,indie,band,,https://seatgeek.com/arcade-fire-tickets
+275905,Migos,migos,0.52596,Migos,2,True,,band,"2686307,2661399",https://seatgeek.com/migos-tickets
+119993,A$AP Ferg,a-ap-ferg,0.5558,A$AP Ferg,3,True,,band,"2533964,2631931,2646530",https://seatgeek.com/a-ap-ferg-tickets
+255010,A$ap Ferg : Purple Krown 2 Year Anniversary Show,a-ap-ferg-purple-krown-2-year-anniversary-show,0.0,A$ap Ferg : Purple Krown 2 Year Anniversary Show,0,False,,band,,https://seatgeek.com/a-ap-ferg-purple-krown-2-year-anniversary-show-tickets
+133946,Juciy J Stay Trippy Tour with A$ap Ferg,juciy-j-stay-trippy-tour-with-a-ap-ferg,0.0,Juciy J Stay Trippy Tour with A$ap Ferg,0,False,,band,,https://seatgeek.com/juciy-j-stay-trippy-tour-with-a-ap-ferg-tickets
+25295,Chase Rice,chase-rice,0.56577,Chase Rice,18,True,,band,"2478601,2478670,2575727,2587995,2478666,2478605,2627149,2478662,2518489,2400608",https://seatgeek.com/chase-rice-tickets
+19767,Passenger,passenger,0.51656,Passenger,16,True,,band,"2440934,2427241,2592221,2649280,2541873,2637538,2637640,2636731,2636717,2637550",https://seatgeek.com/passenger-tickets
+29495,Bastille,bastille,0.6003,Bastille,9,True,electronic,band,"2669995,2507240,2305681,2305680,2529721,2305591,2533964,2529716,2670298",https://seatgeek.com/bastille-tickets
+24637,Zendaya,zendaya,0.47225,Zendaya,0,False,pop,band,,https://seatgeek.com/zendaya-tickets
+160487,Martin Garrix,martin-garrix,0.6275,Martin Garrix,9,True,,band,"2507304,2645828,2528831,2545939,2645814,2624537,2645813,2460971,2645810",https://seatgeek.com/martin-garrix-tickets
+16119,Eric Paslay,eric-paslay,0.5248,Eric Paslay,9,True,,band,"2666040,2668765,2584306,2671390,2671388,2613215,2683513,2562132,2688912",https://seatgeek.com/eric-paslay-tickets
+253746,Cole Swindell,cole-swindell,0.66502,Cole Swindell,36,True,,band,"2417792,2624727,2499855,2458384,2630311,2492394,2499864,2492400,2617354,2617433",https://seatgeek.com/cole-swindell-tickets
+79516,American Authors,american-authors,0.5825,American Authors,13,True,,band,"2694138,2609821,2610311,2611342,2611470,2610609,2609908,2611609,2601818,2685735",https://seatgeek.com/american-authors-tickets
+21629,Jon Pardi,jon-pardi,0.52705,Jon Pardi,6,True,,band,"2274754,2576557,2528719,2694581,2622828,2556077",https://seatgeek.com/jon-pardi-tickets
+150059,John Newman,john-newman,0.56172,John Newman,3,True,,band,"2627233,2540710,2540864",https://seatgeek.com/john-newman-tickets
+876,Idina Menzel,idina-menzel,0.47891,Idina Menzel,31,True,pop,band,"2417882,2420646,2420496,2419746,2424854,2420506,2417886,2420620,2420648,2417878",https://seatgeek.com/idina-menzel-tickets
+6866,Frankie Ballard,frankie-ballard,0.58836,Frankie Ballard,24,True,country,band,"2495362,2495368,2528598,2515695,2480869,2492302,2458384,2492404,2514597,2528719",https://seatgeek.com/frankie-ballard-tickets
+217,Arctic Monkeys,arctic-monkeys,0.63061,Arctic Monkeys,0,False,indie,band,,https://seatgeek.com/arctic-monkeys-tickets
+8697,Aloe Blacc,aloe-blacc,0.72018,Aloe Blacc,3,True,soul,band,"2690896,2613193,2610490",https://seatgeek.com/aloe-blacc-tickets
+93767,Nat King Cole,nat-king-cole,0.0,Nat King Cole,0,False,jazz,band,,https://seatgeek.com/nat-king-cole-tickets
+8912,Brenda Lee,brenda-lee,0.65482,Brenda Lee,1,True,country,band,2673868,https://seatgeek.com/brenda-lee-tickets
+164373,Ty Dolla $ign,ty-dolla-ign,0.52466,Ty Dolla $ign,6,True,,band,"2647071,2425264,2596593,2642912,2680344,2129642",https://seatgeek.com/ty-dolla-ign-tickets
+213583,DJ Snake,dj-snake,0.55973,DJ Snake,10,True,,band,"2601263,2638479,2683747,2290498,2601223,2670663,2601261,2640098,2648674,2653028",https://seatgeek.com/dj-snake-tickets
+171794,Kristen Bell,kristen-bell,0.0,Kristen Bell,0,False,,band,,https://seatgeek.com/kristen-bell-tickets
+268495,Dan + Shay,dan-shay,0.49737,Dan + Shay,8,True,,band,"2651946,2652395,2652577,2656145,2620924,2584589,2570527,2687491",https://seatgeek.com/dan-shay-tickets
+143731,Pharrell,pharrell,0.8236,Pharrell,0,False,rap,band,,https://seatgeek.com/pharrell-tickets
+192714,Lucy Hale,lucy-hale,0.42494,Lucy Hale,0,False,,band,,https://seatgeek.com/lucy-hale-tickets
+147983,SoMo,somo,0.44643,SoMo,40,True,,band,"2635200,2642681,2627092,2632013,2636670,2632133,2642785,2661313,2642836,2642748",https://seatgeek.com/somo-tickets
+2304,Cash Cash,cash-cash,0.54256,Cash Cash,29,True,electronic,band,"2686458,2679074,2596593,2642912,2679085,2688879,2679570,2678848,2685085,2689032",https://seatgeek.com/cash-cash-tickets
+4381,Hillsong United,hillsong-united,0.54221,Hillsong United,15,True,christian,band,"2680069,2593936,2593934,2593930,2593938,2593939,2593891,2593786,2593935,2593937",https://seatgeek.com/hillsong-united-tickets
+31692,The 1975,the-1975,0.57935,The 1975,31,True,,band,"2652116,2652309,2648254,2648257,2641839,2652399,2648229,2648245,2648231,2652724",https://seatgeek.com/the-1975-tickets
+168318,Rico Love,rico-love,0.45486,Rico Love,0,False,,band,,https://seatgeek.com/rico-love-tickets
+74771,Jhene Aiko,jhene-aiko,0.57862,Jhene Aiko,2,True,,band,"2600715,2600713",https://seatgeek.com/jhene-aiko-tickets
+160469,Young Thug,young-thug,0.51884,Young Thug,8,True,,band,"2290498,2552277,2600065,2691645,2642890,2669579,2381041,2650908",https://seatgeek.com/young-thug-tickets
+141120,MKTO,mkto,0.52054,MKTO,1,True,,band,2685735,https://seatgeek.com/mkto-tickets
+154441,Naughty Boy,naughty-boy,0.43112,Naughty Boy,0,False,house,band,,https://seatgeek.com/naughty-boy-tickets
+31,U2,u2,0.812,U2,38,True,rock,band,"2425719,2425718,2452353,2452352,2501467,2546147,2429849,2429959,2427858,2427857",https://seatgeek.com/u2-tickets
+23851,The Chainsmokers,the-chainsmokers,0.4725,The Chainsmokers,8,True,,band,"2517360,2290499,2656993,2637270,2656976,2460971,2646191,2670298",https://seatgeek.com/the-chainsmokers-tickets
+6705,Fitz and the Tantrums,fitz-and-the-tantrums,0.60484,Fitz and the Tantrums,4,True,,band,"2557362,2562271,2600715,2600713",https://seatgeek.com/fitz-and-the-tantrums-tickets
+26263,Iggy Azalea,iggy-azalea,0.59599,Iggy Azalea,6,True,,band,"2637758,2637755,2611569,2637752,2674997,2637760",https://seatgeek.com/iggy-azalea-tickets
+237290,Wisin,wisin,0.54681,Wisin,0,False,dance,band,,https://seatgeek.com/wisin-tickets
+28956,Soko,soko,0.45383,Soko,0,False,indie,band,,https://seatgeek.com/soko-tickets
+622,Tiesto,tiesto,0.55963,Tiesto,22,True,trance,band,"2661951,2661950,2568853,2581500,2594777,2656991,2594775,2656989,2656987,2594774",https://seatgeek.com/tiesto-tickets
+23775,Disclosure,disclosure,0.5986,Disclosure,6,True,electronic,band,"2642690,2396635,2377713,2396636,2377709,2644014",https://seatgeek.com/disclosure-tickets
+262389,Rixton,rixton,0.66249,Rixton,1,True,,band,2598459,https://seatgeek.com/rixton-tickets
+250427,5 Seconds of Summer,5-seconds-of-summer,0.76948,5 Seconds of Summer,32,True,,band,"2278465,2267381,2267404,2267396,2267401,2267395,2267402,2267385,2278566,2267236",https://seatgeek.com/5-seconds-of-summer-tickets
+133456,Sam Smith,sam-smith,0.67292,Sam Smith,33,True,,band,"2526759,2526762,2529329,2526754,2526721,2526732,2526675,2290498,2290500,2526662",https://seatgeek.com/sam-smith-tickets
+19242,KONGOS,kongos,0.5457,KONGOS,4,True,,band,"2617947,2596439,2554819,2417829",https://seatgeek.com/kongos-tickets
+885,Ingrid Michaelson,ingrid-michaelson,0.49357,Ingrid Michaelson,0,False,singer-songwriter,band,,https://seatgeek.com/ingrid-michaelson-tickets
+885,Ingrid Michaelson,ingrid-michaelson,0.49357,Ingrid Michaelson,0,False,singer-songwriter,band,,https://seatgeek.com/ingrid-michaelson-tickets
+285643,Josh Kaufman,josh-kaufman,0.28987,Josh Kaufman,1,True,,band,2694551,https://seatgeek.com/josh-kaufman-tickets
+38222,Magic,magic,0.71178,Magic,0,False,,band,,https://seatgeek.com/magic-tickets
+2101,Orlando Magic,orlando-magic,0.68007,Magic,1,True,,nba,2678578,https://seatgeek.com/orlando-magic-tickets
+71524,Slow Magic,slow-magic,0.60144,Slow Magic,12,True,,band,"2452328,2563446,2656036,2552277,2452329,2600065,2613169,2507741,2519446,2589278",https://seatgeek.com/slow-magic-tickets
+2405,Here We Go Magic,here-we-go-magic,0.5798,Here We Go Magic,4,True,psychedelic,band,"2669579,2672366,2669668,2669875",https://seatgeek.com/here-we-go-magic-tickets
+7784,Yellow Magic Orchestra,yellow-magic-orchestra,0.52682,Yellow Magic Orchestra,0,False,electronic,theater_classical_orchestral_instrumental,,https://seatgeek.com/yellow-magic-orchestra-tickets
+10780,Magic City Classic,magic-city-classic,0.48233,Magic City Classic,0,False,,ncaa_football,,https://seatgeek.com/magic-city-classic-tickets
+5955,The Magic Flute,the-magic-flute,0.47028,The Magic Flute,19,True,,theater,"2654924,2654925,2654923,2654921,2630155,2654919,2654918,2654917,2633187,2633203",https://seatgeek.com/the-magic-flute-tickets
+18380,The Magic Beans,the-magic-beans,0.46898,The Magic Beans,2,True,,band,"2586770,2679922",https://seatgeek.com/the-magic-beans-tickets
+78860,Magic Man,magic-man,0.45513,Magic Man,1,True,electronic,band,2680344,https://seatgeek.com/magic-man-tickets
+18482,Disney On Ice: 100 Years of Magic,disney-on-ice-100-years-of-magic,0.45174,Disney On Ice: 100 Years of Magic,216,True,,theater,"2636950,2636952,2636951,2636948,2636947,2636949,2619921,2630146,2630148,2630143",https://seatgeek.com/disney-on-ice-100-years-of-magic-tickets
+195808,Christina Grimmie,christina-grimmie,0.5863,Christina Grimmie,0,False,,band,,https://seatgeek.com/christina-grimmie-tickets
+285764,Katy Tiz,katy-tiz,0.0,Katy Tiz,0,False,,band,,https://seatgeek.com/katy-tiz-tickets
+4222,Sia,sia,0.50811,Sia,0,False,chillout,band,,https://seatgeek.com/sia-tickets
+181545,Tinashe,tinashe,0.56846,Tinashe,20,True,,band,"2555954,2556039,2555737,2555941,2556047,2554817,2554957,2556024,2556030,2556023",https://seatgeek.com/tinashe-tickets
+162066,Tove Lo,tove-lo,0.5128,Tove Lo,25,True,,band,"2645858,2452328,2563446,2290498,2452330,2661525,2661527,2651907,2660118,2661406",https://seatgeek.com/tove-lo-tickets
+16709,Charli XCX,charli-xcx,0.53622,Charli XCX,40,True,electronic,band,"2594882,2579020,2595029,2595079,2665855,2595056,2594941,2595142,2452328,2563446",https://seatgeek.com/charli-xcx-tickets
+162925,Becky G,becky-g,0.60486,Becky G,27,True,,band,"2638623,2638671,2638730,2638729,2638768,2638661,2638652,2620926,2604449,2604634",https://seatgeek.com/becky-g-tickets
+259016,AJR,ajr,0.48172,AJR,0,False,,band,,https://seatgeek.com/ajr-tickets
+65223,Clean Bandit,clean-bandit,0.47496,Clean Bandit,3,True,,band,"2608969,2648887,2670298",https://seatgeek.com/clean-bandit-tickets
+23949,Jamie N Commons,jamie-n-commons,0.37759,Jamie N Commons,14,True,blues,band,"2649463,2649474,2661525,2650150,2649475,2649337,2648916,2649436,2649385,2649443",https://seatgeek.com/jamie-n-commons-tickets
+292318,Shawn Mendes,shawn-mendes,0.7007,Shawn Mendes,14,True,,band,"2556747,2556717,2393548,2393547,2561997,2562311,2556648,2546045,2651907,2393468",https://seatgeek.com/shawn-mendes-tickets
+108722,Vance Joy,vance-joy,0.67129,Vance Joy,57,True,,band,"2529329,2393548,2393547,2393359,2393521,2393519,2576466,2507741,2519446,2393564",https://seatgeek.com/vance-joy-tickets
+249686,Sam Hunt,sam-hunt,0.58162,Sam Hunt,38,True,,band,"2449355,2589202,2547410,2499842,2686725,2527722,2528598,2452325,2452324,2452323",https://seatgeek.com/sam-hunt-tickets
+392,Busta Rhymes,busta-rhymes,0.56062,Busta Rhymes,0,False,hip-hop,band,,https://seatgeek.com/busta-rhymes-tickets
+288315,Meghan Trainor,meghan-trainor,0.60457,Meghan Trainor,23,True,,band,"2554850,2554879,2554781,2554897,2553826,2555910,2554591,2554880,2554720,2555868",https://seatgeek.com/meghan-trainor-tickets
+107238,Echosmith,echosmith,0.47501,Echosmith,42,True,,band,"2648868,2528831,2558362,2533964,2555662,2590292,2555837,2555979,2556025,2555955",https://seatgeek.com/echosmith-tickets
+4246,Weird Al Yankovic,weird-al-yankovic,0.4859,Weird Al Yankovic,52,True,,band,"2624821,2508318,2487639,2490638,2618974,2615239,2589363,2618364,2618736,2489570",https://seatgeek.com/weird-al-yankovic-tickets
+272181,Kiesza,kiesza,0.5679,Kiesza,1,True,,band,2685733,https://seatgeek.com/kiesza-tickets
+263458,Milky Chance,milky-chance,0.57818,Milky Chance,22,True,,band,"2578057,2679211,2590594,2578132,2526547,2579786,2577781,2577829,2578134,2563446",https://seatgeek.com/milky-chance-tickets
+263458,Milky Chance,milky-chance,0.57818,Milky Chance,22,True,,band,"2578057,2679211,2590594,2578132,2526547,2579786,2577781,2577829,2578134,2563446",https://seatgeek.com/milky-chance-tickets
+247569,Hilary Duff,hilary-duff,0.66211,Hilary Duff,0,False,pop,band,,https://seatgeek.com/hilary-duff-tickets
+289832,Bobby Shmurda,bobby-shmurda,0.63188,Bobby Shmurda,0,False,,band,,https://seatgeek.com/bobby-shmurda-tickets
+289069,Rae Sremmurd,rae-sremmurd,0.54531,Rae Sremmurd,18,True,,band,"2673983,2555737,2668224,2554951,2685147,2641996,2533964,2631931,2636913,2672884",https://seatgeek.com/rae-sremmurd-tickets
+289069,Rae Sremmurd,rae-sremmurd,0.54531,Rae Sremmurd,18,True,,band,"2673983,2555737,2668224,2554951,2685147,2641996,2533964,2631931,2636913,2672884",https://seatgeek.com/rae-sremmurd-tickets
+270278,Hozier,hozier,0.63125,Hozier,43,True,,band,"2529329,2511023,2513271,2513273,2511147,2557362,2562271,2557361,2594956,2600715",https://seatgeek.com/hozier-tickets
+7610,Steve Aoki,steve-aoki,0.53984,Steve Aoki,12,True,electronic,band,"2517360,2517779,2594779,2594776,2656986,2589278,2594773,2600159,2674925,2693246",https://seatgeek.com/steve-aoki-tickets
+270311,TeeFLii,teeflii,0.0,TeeFLii,0,False,,band,,https://seatgeek.com/teeflii-tickets
+139989,Mary Lambert,mary-lambert,0.49991,Mary Lambert,4,True,,band,"2673342,2695331,2335921,2698149",https://seatgeek.com/mary-lambert-tickets
+16792,Alt-J,alt-j,0.59689,Alt-J,47,True,electronic,band,"2529329,2526547,2516524,2517732,2591585,2452328,2290498,2563446,2452330,2453043",https://seatgeek.com/alt-j-tickets
+14236,Alesso,alesso,0.60168,Alesso,10,True,house,band,"2290498,2290500,2545939,2452348,2636787,2552247,2652740,2481867,2684959,2450214",https://seatgeek.com/alesso-tickets
+294039,OG Maco,og-maco,0.30297,OG Maco,3,True,,band,"2695261,2686307,2661399",https://seatgeek.com/og-maco-tickets
+5236,Jimmy Fallon,jimmy-fallon,0.61624,Jimmy Fallon,0,False,comedy,theater_comedy,,https://seatgeek.com/jimmy-fallon-tickets
+793,Glen Campbell,glen-campbell,0.48815,Glen Campbell,0,False,country,band,,https://seatgeek.com/glen-campbell-tickets
+2399,Gwen Stefani,gwen-stefani,0.65744,Gwen Stefani,0,False,pop,band,,https://seatgeek.com/gwen-stefani-tickets
+292932,Dej Loaf,dej-loaf,0.19727,Dej Loaf,3,True,,band,"2555737,2555941,2685147",https://seatgeek.com/dej-loaf-tickets
+285008,Snootie Wild,snootie-wild,0.29789,Snootie Wild,0,False,,band,,https://seatgeek.com/snootie-wild-tickets
+61260,RaeLynn,raelynn,0.56442,RaeLynn,23,True,,band,"2514595,2492407,2492309,2495412,2495361,2495345,2427815,2588182,2613215,2499786",https://seatgeek.com/raelynn-tickets
+1364,OK Go,ok-go,0.44918,OK Go,4,True,indie,band,"2596439,2417829,2508023,2544337",https://seatgeek.com/ok-go-tickets
+298980,Matt McAndrew,matt-mcandrew,0.37056,Matt McAndrew,3,True,,band,"2669014,2673932,2685178",https://seatgeek.com/matt-mcandrew-tickets
+246497,James Newton Howard,james-newton-howard,0.0,James Newton Howard,0,False,instrumental,band,,https://seatgeek.com/james-newton-howard-tickets
+115067,Craig Wayne Boyd,craig-wayne-boyd,0.44157,Craig Wayne Boyd,8,True,,band,"2572149,2307412,2588182,2595760,2669639,2672409,2691995,2641568",https://seatgeek.com/craig-wayne-boyd-tickets
+66019,Chris Jamison,chris-jamison,0.0,Chris Jamison,0,False,,band,,https://seatgeek.com/chris-jamison-tickets
+162061,Ella Henderson,ella-henderson,0.52568,Ella Henderson,17,True,,band,"2447171,2537357,2517417,2652063,2586846,2587498,2576508,2576550,2626840,2626745",https://seatgeek.com/ella-henderson-tickets
+14998,Walk The Moon,walk-the-moon,0.55886,Walk The Moon,38,True,indie,band,"2529329,2290498,2290500,2550233,2580377,2549287,2551387,2549443,2651907,2550426",https://seatgeek.com/walk-the-moon-tickets
+6222,Mark Ronson,mark-ronson,0.37969,Mark Ronson,3,True,funk,band,"2603074,2603068,2332798",https://seatgeek.com/mark-ronson-tickets
+298867,O.T. Genasis,o-t-genasis,0.0,O.T. Genasis,0,False,,band,,https://seatgeek.com/o-t-genasis-tickets
+290356,Lillywood,lillywood,0.29963,Lillywood,0,False,,band,,https://seatgeek.com/lillywood-tickets
+75308,Sheppard,sheppard,0.55399,Sheppard,8,True,,band,"2635206,2661098,2635793,2630473,2636627,2670378,2672826,2290499",https://seatgeek.com/sheppard-tickets
+127954,Damien,damien,0.0,Damien,0,False,heavy-metal,band,,https://seatgeek.com/damien-tickets
+288162,Chase Bryant,chase-bryant,0.55905,Chase Bryant,25,True,,band,"2499807,2546735,2499857,2492283,2492399,2517669,2492388,2517748,2499867,2505327",https://seatgeek.com/chase-bryant-tickets
+26443,G-Eazy,g-eazy,0.52327,G-Eazy,14,True,hip-hop,band,"2529329,2452328,2290498,2563446,2680258,2290500,2425264,2526239,2551345,2526238",https://seatgeek.com/g-eazy-tickets
+303730,I Prevail,i-prevail,0.30418,I Prevail,11,True,,band,"2650060,2644633,2645956,2645866,2648862,2679024,2646157,2694397,2645868,2683595",https://seatgeek.com/i-prevail-tickets
+133835,Omarion,omarion,0.57683,Omarion,21,True,rnb,band,"2642854,2644021,2642851,2642850,2642771,2642721,2642862,2642859,2644035,2642867",https://seatgeek.com/omarion-tickets
+7098,Hoodie Allen,hoodie-allen,0.53384,Hoodie Allen,15,True,,band,"2479749,2479760,2479196,2478876,2479437,2479735,2601932,2479530,2479849,2481706",https://seatgeek.com/hoodie-allen-tickets
+496,Common,common,0.46464,Common,1,True,hip-hop,band,2604796,https://seatgeek.com/common-tickets
+309858,Fetty Wap,fetty-wap,0.49881,Fetty Wap,5,True,,band,"2552277,2613169,2683173,2686589,2685733",https://seatgeek.com/fetty-wap-tickets
+241851,Natalia y La Forquetina,natalia-y-la-forquetina,0.0,Natalia y La Forquetina,0,False,latin,band,,https://seatgeek.com/natalia-y-la-forquetina-tickets
+59141,George Ezra,george-ezra,0.63323,George Ezra,24,True,,band,"2590581,2572125,2569023,2571244,2563446,2648988,2290499,2569154,2660456,2507741",https://seatgeek.com/george-ezra-tickets
+24268,Missy Elliott,missy-elliott,0.50718,Missy Elliott,1,True,hip-hop,band,2332798,https://seatgeek.com/missy-elliott-tickets
+24268,Missy Elliott,missy-elliott,0.50718,Missy Elliott,1,True,hip-hop,band,2332798,https://seatgeek.com/missy-elliott-tickets
+206,Annie Lennox,annie-lennox,0.0,Annie Lennox,0,False,pop,band,,https://seatgeek.com/annie-lennox-tickets
+54,Kid Rock,kid-rock,0.65784,Kid Rock,28,True,rock,band,"2516450,2516334,2516643,2516630,2516436,2516628,2516629,2516638,2516502,2516501",https://seatgeek.com/kid-rock-tickets
+57643,Tori Kelly,tori-kelly,0.55725,Tori Kelly,2,True,,band,"2683574,2651907",https://seatgeek.com/tori-kelly-tickets
+22377,A Thousand Horses,a-thousand-horses,0.48062,A Thousand Horses,5,True,,band,"2452339,2673958,2571194,2515297,2556077",https://seatgeek.com/a-thousand-horses-tickets
+15367,Silent Disco,silent-disco,0.64344,Silent Disco,0,False,,band,,https://seatgeek.com/silent-disco-tickets
+2538,Not So Silent Night,not-so-silent-night,0.62781,Not So Silent Night,1,True,,music_festival,2696063,https://seatgeek.com/not-so-silent-night-tickets
+14778,A Silent Film,a-silent-film,0.48609,A Silent Film,1,True,indie,band,2696955,https://seatgeek.com/a-silent-film-tickets
+22427,The Silent Comedy,the-silent-comedy,0.43573,The Silent Comedy,1,True,progressive-rock,band,2544337,https://seatgeek.com/the-silent-comedy-tickets
+296353,Live 105's Not So Silent Night 2014:  2-Day Ticket,live-105-s-not-so-silent-night-2014-2-day-ticket,0.41818,Live 105's Not So Silent Night 2014:  2-Day Ticket,0,False,,band,,https://seatgeek.com/live-105-s-not-so-silent-night-2014-2-day-ticket-tickets
+52567,Silent Frisco,silent-frisco,0.39801,Silent Frisco,0,False,,band,,https://seatgeek.com/silent-frisco-tickets
+8348,Jay and Silent Bob,jay-and-silent-bob,0.38138,Jay and Silent Bob,1,True,,theater_comedy,2541279,https://seatgeek.com/jay-and-silent-bob-tickets
+304433,The Silent War,the-silent-war,0.37747,The Silent War,0,False,,band,,https://seatgeek.com/the-silent-war-tickets
+296558,KMLE Not So Silent Night,kmle-not-so-silent-night,0.37542,KMLE Not So Silent Night,0,False,,band,,https://seatgeek.com/kmle-not-so-silent-night-tickets
+112239,Silent Servant,silent-servant,0.27508,Silent Servant,0,False,techno,band,,https://seatgeek.com/silent-servant-tickets
+195842,Cashmere Cat,cashmere-cat,0.63513,Cashmere Cat,13,True,,band,"2452328,2563446,2589193,2589327,2689045,2452348,2636787,2652736,2636560,2695528",https://seatgeek.com/cashmere-cat-tickets
