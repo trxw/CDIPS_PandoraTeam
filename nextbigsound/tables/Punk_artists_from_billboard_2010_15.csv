@@ -1,8 +1,6 @@
 id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
-18592,Trainwreck,38180268-5a0f-4867-8d61-49ba264edd1f,Trainwreck,Germany,DE,Göttingen,2005-10,Group,,Hardcore,Punk,,,
-24687,Devo,d2db1078-c170-4e22-b261-14f3ad60a690,DEVO,United States,US,Akron,1972,Group,,Techno,Punk,Pop,,
-76,blink-182,0743b15a-3c32-48c8-ad58-cb325350befa,blink‐182,United States,US,San Diego,1992,Group,0000000123317383,Punk,Rock,,,
-4324,Cage the Elephant,b41b38d4-ef3e-4f37-8c75-cfe9af999696,Cage the Elephant,United States,US,Bowling Green,2007,Group,000000012155879X,Punk,Rock,,,
-454,Rise Against,606bf117-494f-4864-891f-09d63ff6aa4b,Rise Against,United States,US,Chicago,1999,Group,0000000090215531,Hardcore,Punk,Rock,,
-21823,Good Clean Fun,a0e64a50-4480-495b-b98e-2e766b12ea8c,Good Clean Fun,United States,US,,1997,Group,,Hardcore,Punk,,,
-3718,Calvin Harris,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,Calvin Harris,United Kingdom,GB,Dumfries and Galloway,1984-01-17,Person,,Electronica,Punk,Indie,,
+4324,Cage the Elephant,b41b38d4-ef3e-4f37-8c75-cfe9af999696,Cage the Elephant,United States,US,Bowling Green,2007-01-01 00:00:00,Group,000000012155879X,Punk,Rock,,,
+454,Rise Against,606bf117-494f-4864-891f-09d63ff6aa4b,Rise Against,United States,US,Chicago,1999-01-01 00:00:00,Group,0000000090215531,Hardcore,Punk,Rock,,
+3718,Calvin Harris,8dd98bdc-80ec-4e93-8509-2f46bafc09a7,Calvin Harris,United Kingdom,GB,Dumfries and Galloway,1984-01-17 00:00:00,Person,,Electronica,Punk,Indie,,
+2700,Green Day,084308bd-1654-436f-ba03-df6697104e19,Green Day,United States,US,Berkeley,1989-01-01 00:00:00,Group,0000000122711282,Punk,Alternative,Rock,,
+263794,Disclosure,ae65c507-d9a0-4d42-9a6c-2b1f82158b9f,Disclosure,United Kingdom,GB,Reigate,2010-01-01 00:00:00,Group,,Punk,Rock,,,

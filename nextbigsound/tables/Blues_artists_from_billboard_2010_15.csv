@@ -1,10 +1,12 @@
 id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
-100544,Frijid Pink,a204bdae-77cc-4f00-a3e8-23648a0db2b6,Frijid Pink,United States,US,,1967,Group,,Blues,Rock,,,
-2313,Orianthi,15674cab-ca9c-4704-b15f-c601d2f4409b,Orianthi,Australia,AU,,1985-01-22,Person,0000000108023408,Blues,Country,Rock,,
-13075,Alicia Keys,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,Alicia Keys,United States,US,Manhattan,1981-01-25,Person,0000000110657805,Blues,Jazz,RB,Pop,HipHop
-509,John Mayer,144ef525-85e9-40c3-8335-02c32d0861f3,John Mayer,United States,US,Bridgeport,1977-10-16,Person,0000000114467902,Blues,Pop,Rock,,
-35697,Crystal Bowersox,23644c2d-7351-4690-81c0-0153e4652847,Crystal Bowersox,United States,US,Ohio,1985-08-04,Person,,Blues,Country,Rock,,
-15281,Adele,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,Adele,United Kingdom,GB,Tottenham,1988-05-05,Person,0000000123144259,Blues,Pop,,,
-269934,Steven Tyler,7d3f7aed-fb9c-4e80-b198-64cd6ae31cb8,Steven Tyler,United States,US,Yonkers,1948-03-26,Person,0000000078405834,Blues,Rock,,,
-52266,Vicci Martinez,6aabc385-f85b-4c98-8f68-684891a44c81,Vicci Martinez,United States,US,,1984-09-21,Person,,Blues,Pop,,,
-32944,Hunter Hayes,9a36f5b5-9a70-4890-adfd-bc39386d354d,Hunter Hayes,United States,US,Breaux Bridge,1991-09-09,Person,,Blues,Country,,,
+2313,Orianthi,15674cab-ca9c-4704-b15f-c601d2f4409b,Orianthi,Australia,AU,,1985-01-22 00:00:00,Person,0000000108023408,Blues,Country,Rock,,
+13075,Alicia Keys,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,Alicia Keys,United States,US,Manhattan,1981-01-25 00:00:00,Person,0000000110657805,Blues,Jazz,RB,Pop,HipHop
+509,John Mayer,144ef525-85e9-40c3-8335-02c32d0861f3,John Mayer,United States,US,Bridgeport,1977-10-16 00:00:00,Person,0000000114467902,Blues,Pop,Rock,,
+35697,Crystal Bowersox,23644c2d-7351-4690-81c0-0153e4652847,Crystal Bowersox,United States,US,Ohio,1985-08-04 00:00:00,Person,,Blues,Country,Rock,,
+15281,Adele,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,Adele,United Kingdom,GB,Tottenham,1988-05-05 00:00:00,Person,0000000123144259,Blues,Pop,,,
+269934,Steven Tyler,7d3f7aed-fb9c-4e80-b198-64cd6ae31cb8,Steven Tyler,United States,US,Yonkers,1948-03-26 00:00:00,Person,0000000078405834,Blues,Rock,,,
+5478,The Black Keys,d15721d8-56b4-453d-b506-fc915b14cba2,The Black Keys,United States,US,Akron,2001-01-01 00:00:00,Group,,Blues,Alternative,Rock,,
+52266,Vicci Martinez,6aabc385-f85b-4c98-8f68-684891a44c81,Vicci Martinez,United States,US,,1984-09-21 00:00:00,Person,,Blues,Pop,,,
+32944,Hunter Hayes,9a36f5b5-9a70-4890-adfd-bc39386d354d,Hunter Hayes,United States,US,Breaux Bridge,1991-09-09 00:00:00,Person,,Blues,Country,,,
+107631,Grace Potter and the Nocturnals,9501a1d0-04a2-47ee-828d-9d016c315bb7,Grace Potter & the Nocturnals,United States,US,,2004-01-01 00:00:00,Group,,Blues,,,,
+321669,Casey James,da264869-434f-406b-87fe-0ed5d3828421,Casey James,United States,US,,1982-05-31 00:00:00,Person,,Blues,Country,Pop,Rock,
