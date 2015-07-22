@@ -1,14 +1,13 @@
 id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
-52781,Pink Martini,113e0972-077f-423b-9b5f-3cc8a5bafa0f,Pink Martini,United States,US,,1994,Group,,Jazz,Latin,Pop,,
-13075,Alicia Keys,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,Alicia Keys,United States,US,Manhattan,1981-01-25,Person,0000000110657805,Blues,Jazz,RB,Pop,HipHop
-41189,Michael Bublé,611700cf-27f0-4dc9-ae80-c513a767853e,Michael Bublé,Canada,CA,Burnaby,1975-09-09,Person,000000011476603X,Jazz,Pop,,,
-12961,Melanie Fiona,209e47f9-df65-47bd-9a40-4fb4c5c9c349,Melanie Fiona,Canada,CA,,1983-07-04,Person,,Jazz,Reggae,RB,HipHop,
-10818,Monica,af84073d-3b6d-4390-9d3f-bf65a91c824f,Monica,United States,US,Atlanta,1980-10-24,Person,0000000055154972,Folk,Jazz,RB,Pop,HipHop
-22126,Sade,67930b3e-e00b-469f-8c74-fd69f20522ec,Sade,United Kingdom,GB,London,1984,Group,,Jazz,RB,,,
-72714,Charles Lloyd,b9b579ad-e499-4e3e-9d09-06bc8e504135,Charles Lloyd,United States,US,Memphis,1938-03-15,Person,0000000078224267,Jazz,,,,
-7504,Maxwell,d252cca8-8214-43e5-b81a-101eb4a1447e,Maxwell,United States,US,Brooklyn,1973-05-23,Person,,Jazz,RB,,,
-4136,Erykah Badu,321531fc-db73-4ffa-a959-61a61a2908c1,Erykah Badu,United States,US,Dallas,1971-02-26,Person,0000000079812079,Jazz,RB,HipHop,,
-297486,Mario Biondi,406c77d1-4c07-405b-bb86-4217fa4fc0a4,Mario Biondi,Italy,IT,Catania,1971-01-28,Person,,Jazz,,,,
-4039,Tony Bennett,8be0594f-8c13-46bb-ab06-f93ffba5c776,Tony Bennett,United States,US,Astoria,1926-08-03,Person,0000000114762370,Jazz,,,,
+13075,Alicia Keys,8ef1df30-ae4f-4dbd-9351-1a32b208a01e,Alicia Keys,United States,US,Manhattan,1981-01-25 00:00:00,Person,0000000110657805,Blues,Jazz,RB,Pop,HipHop
+41189,Michael Bublé,611700cf-27f0-4dc9-ae80-c513a767853e,Michael Bublé,Canada,CA,Burnaby,1975-09-09 00:00:00,Person,000000011476603X,Jazz,Pop,,,
+12961,Melanie Fiona,209e47f9-df65-47bd-9a40-4fb4c5c9c349,Melanie Fiona,Canada,CA,,1983-07-04 00:00:00,Person,,Jazz,Reggae,RB,HipHop,
+10818,Monica,af84073d-3b6d-4390-9d3f-bf65a91c824f,Monica,United States,US,Atlanta,1980-10-24 00:00:00,Person,0000000055154972,Folk,Jazz,RB,Pop,HipHop
+22126,Sade,67930b3e-e00b-469f-8c74-fd69f20522ec,Sade,United Kingdom,GB,London,1984-01-01 00:00:00,Group,,Jazz,RB,,,
+7504,Maxwell,d252cca8-8214-43e5-b81a-101eb4a1447e,Maxwell,United States,US,Brooklyn,1973-05-23 00:00:00,Person,,Jazz,RB,,,
+4136,Erykah Badu,321531fc-db73-4ffa-a959-61a61a2908c1,Erykah Badu,United States,US,Dallas,1971-02-26 00:00:00,Person,0000000079812079,Jazz,RB,HipHop,,
+4039,Tony Bennett,8be0594f-8c13-46bb-ab06-f93ffba5c776,Tony Bennett,United States,US,Astoria,1926-08-03 00:00:00,Person,0000000114762370,Jazz,,,,
 273525,Mary Mary,6413506f-e22b-412c-9f19-239db7df21f2,Mary Mary,United States,US,,,Group,,Jazz,RB,,,
-11358,Jill Scott,b1fb6a18-1626-4011-80fb-eaf83dfebcb6,Jill Scott,United States,US,Philadelphia,1972-04-04,Person,0000000071428662,Jazz,RB,,,
+11358,Jill Scott,b1fb6a18-1626-4011-80fb-eaf83dfebcb6,Jill Scott,United States,US,Philadelphia,1972-04-04 00:00:00,Person,0000000071428662,Jazz,RB,,,
+12878,Aloe Blacc,4bf89e02-6c30-4603-9f6a-52619b1bea1a,Aloe Blacc,United States,US,California,1979-01-07 00:00:00,Person,,Jazz,RB,HipHop,,
+1659,Nat King Cole,fbe054ec-a143-4101-9e9e-64abc5ff5ac9,Nat King Cole,United States,US,Montgomery,1919-03-17 00:00:00,Person,,Jazz,,,,
