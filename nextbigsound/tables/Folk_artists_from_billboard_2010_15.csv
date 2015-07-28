@@ -1,0 +1,14 @@
+id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
+292259,Lee Dewyze,4006c69a-c50f-483a-bd1f-4f55e32ea7c9,Lee DeWyze,United States,US,Elk Grove Village,1986-04-02 00:00:00,Person,,Folk,Indie,Pop,Rock,
+9942,Zac Brown Band,507226f4-0842-4f43-950e-81a7017230ec,Zac Brown Band,United States,US,,2000-01-01 00:00:00,Group,,Folk,Country,,,
+10818,Monica,af84073d-3b6d-4390-9d3f-bf65a91c824f,Monica,United States,US,Atlanta,1980-10-24 00:00:00,Person,0000000055154972,Folk,Jazz,RB,Pop,HipHop
+269422,K'naan,ee421ee4-f861-405d-8730-29cb512dfdbd,K'naan,Toronto,,Banaadir,1978-02-01 00:00:00,Person,0000000078492990,Folk,Reggae,HipHop,,
+43572,Jason Michael Carroll,7e54e412-bb31-481c-9a5b-cd5ba7199f46,Jason Michael Carroll,United States,US,,1978-06-13 00:00:00,Person,,Folk,Country,Rock,,
+15233,Mumford & Sons,c44e9c22-ef82-4a77-9bcd-af6c958446d6,Mumford & Sons,United Kingdom,GB,London,2007-12-01 00:00:00,Group,0000000121955760,Folk,,,,
+742,Matt Nathanson,e28dbf43-a2d9-4651-908f-1879ad67d30e,Matt Nathanson,San Francisco,,Lexington,1973-03-28 00:00:00,Person,0000000054107701,Folk,Country,Pop,Rock,
+3724,Mat Kearney,320d40d6-28dd-42d7-b05f-7e6e8d399a2e,Mat Kearney,United States,US,Oregon,1978-12-01 00:00:00,Person,000000007262522X,Folk,Pop,Rock,,
+15290,Tony Lucca,e1c745d2-4f6d-4f5e-ba56-46e187f216f6,Tony Lucca,United States,US,,1976-01-23 00:00:00,Person,,Folk,Pop,,,
+323522,Of Monsters And Men,9e103f85-7af7-41d7-b83b-49ba8f0c5abf,Of Monsters and Men,Iceland,IS,,2010-01-01 00:00:00,Group,,Folk,Indie,,,
+303788,Enya,4967c0a1-b9f3-465e-8440-4598fd9fc33c,Enya,Ireland,IE,Gweedore,1961-05-17 00:00:00,Person,000000011455634X,Folk,,,,
+189312,Kacey Musgraves,d1393ecb-431b-4fde-a6ea-d769f2f040cb,Kacey Musgraves,United States,US,,1988-08-21 00:00:00,Person,,Folk,Country,Pop,,
+19300,Glen Campbell,57976431-1a5c-4968-a422-b92c5e9b0d4f,Glen Campbell,United States,US,Delight,1936-04-22 00:00:00,Person,0000000114904543,Folk,Country,Pop,Rock,

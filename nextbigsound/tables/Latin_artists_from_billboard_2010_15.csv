@@ -1,0 +1,11 @@
+id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
+692,Enrique Iglesias,35f866dc-c061-48ba-8157-cf2e0eac4857,Enrique Iglesias,Spain,ES,Madrid,1975-05-08 00:00:00,Person,0000000107851965,Latin,RB,Pop,,
+5152,Shakira,bf24ca37-25f4-4e34-9aec-460b94364cfc,Shakira,Colombia,CO,Barranquilla,1977-02-02 00:00:00,Person,0000000116252147,Latin,Pop,,,
+13145,Pitbull,d262ea27-3ffe-40f7-b922-85c42d625e67,Pitbull,United States,US,Miami,1981-01-15 00:00:00,Person,0000000078456455,Latin,Pop,HipHop,,
+20293,Ricky Martin,70ea63ea-70dc-4b63-951a-2c249d2b3b0a,Ricky Martin,San Juan,,San Juan,1971-12-24 00:00:00,Person,,Latin,Reggae,Pop,,
+12358,Eddie Vedder,1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61,Eddie Vedder,Seattle,,Evanston,1964-12-23 00:00:00,Person,0000000114710124,Latin,RB,HipHop,,
+6387,Jennifer Lopez,f0602f55-1770-483d-89bd-4bae0d0ac086,Jennifer Lopez,United States,US,The Bronx,1969-07-24 00:00:00,Person,0000000121299281,Latin,RB,Pop,,
+13406,Don Omar,afbdfac9-2955-4404-ae22-c08bf1c1b51e,Don Omar,Puerto Rico,PR,,1978-02-10 00:00:00,Person,,Latin,RB,Rap,Pop,
+306639,Romeo Santos,35f343df-3b87-4475-b0e4-d2ba5cc26eea,Romeo Santos,United States,US,The Bronx,1981-07-21 00:00:00,Person,,Latin,RB,,,
+299027,Prince Royce,d1689304-23ac-4eae-a147-bd2e4100581a,Prince Royce,United States,US,,1989-05-11 00:00:00,Person,,Latin,RB,Pop,,
+5431,Marc Anthony,25607613-aceb-445a-8519-83a2ee0f8402,Marc Anthony,United States,US,,1968-09-16 00:00:00,Person,,Latin,Pop,,,

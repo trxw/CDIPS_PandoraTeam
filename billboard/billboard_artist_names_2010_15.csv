@@ -1,0 +1,632 @@
+artist_name,artist_name_clean,artist_name_underscore,artist_name_query,artist_name_dash
+Ke$ha,Ke$ha,ke$ha,ke$ha,ke$ha
+Eminem,Eminem,eminem,eminem,eminem
+Katy Perry,Katy Perry,katy_perry,katy+perry,katy-perry
+Rihanna,Rihanna,rihanna,rihanna,rihanna
+Bruno Mars,Bruno Mars,bruno_mars,bruno+mars,bruno-mars
+Usher,Usher,usher,usher,usher
+Far East Movement,Far East Movement,far_east_movement,far+east+movement,far-east-movement
+B.o.B ,B.o.B ,b.o.b_,b.o.b+,b.o.b-
+"Black Eyed Peas, The",The Black Eyed Peas,the_black_eyed_peas,the+black+eyed+peas,the-black-eyed-peas
+Taio Cruz,Taio Cruz,taio_cruz,taio+cruz,taio-cruz
+Pink,Pink,pink,pink,pink
+Lady Antebellum,Lady Antebellum,lady_antebellum,lady+antebellum,lady-antebellum
+Iyaz,Iyaz,iyaz,iyaz,iyaz
+Young Money,Young Money,young_money,young+money,young-money
+Artists For Haiti,Artists For Haiti,artists_for_haiti,artists+for+haiti,artists-for-haiti
+Taylor Swift,Taylor Swift,taylor_swift,taylor+swift,taylor-swift
+Train,Train,train,train,train
+Nelly,Nelly,nelly,nelly,nelly
+Lady Gaga,Lady Gaga,lady_gaga,lady+gaga,lady-gaga
+Enrique Iglesias,Enrique Iglesias,enrique_iglesias,enrique+iglesias,enrique-iglesias
+Travie McCoy,Travie McCoy,travie_mccoy,travie+mccoy,travie-mccoy
+David Guetta,David Guetta,david_guetta,david+guetta,david-guetta
+Jason DeRulo,Jason DeRulo,jason_derulo,jason+derulo,jason-derulo
+Drake,Drake,drake,drake,drake
+Justin Bieber,Justin Bieber,justin_bieber,justin+bieber,justin-bieber
+Mike Posner,Mike Posner,mike_posner,mike+posner,mike-posner
+Trey Songz,Trey Songz,trey_songz,trey+songz,trey-songz
+Ludacris,Ludacris,ludacris,ludacris,ludacris
+Lil Wayne,Lil Wayne,lil_wayne,lil+wayne,lil-wayne
+La Roux,La Roux,la_roux,la+roux,la-roux
+Miley Cyrus,Miley Cyrus,miley_cyrus,miley+cyrus,miley-cyrus
+Glee Cast,Glee Cast,glee_cast,glee+cast,glee-cast
+Flo Rida,Flo Rida,flo_rida,flo+rida,flo-rida
+3OH!3,3OH!3,3oh!3,3oh!3,3oh!3
+Adam Lambert,Adam Lambert,adam_lambert,adam+lambert,adam-lambert
+Jay Sean,Jay Sean,jay_sean,jay+sean,jay-sean
+Jay-Z,Jay-Z,jay-z,jay-z,jay-z
+Timbaland,Timbaland,timbaland,timbaland,timbaland
+Willow,Willow,willow,willow,willow
+"Script, The",The Script,the_script,the+script,the-script
+Kanye West,Kanye West,kanye_west,kanye+west,kanye-west
+Shontelle,Shontelle,shontelle,shontelle,shontelle
+Neon Trees,Neon Trees,neon_trees,neon+trees,neon-trees
+Justin Timberlake,Justin Timberlake,justin_timberlake,justin+timberlake,justin-timberlake
+Nicki Minaj,Nicki Minaj,nicki_minaj,nicki+minaj,nicki-minaj
+Chris Brown,Chris Brown,chris_brown,chris+brown,chris-brown
+Maroon 5,Maroon 5,maroon_5,maroon+5,maroon-5
+Sean Kingston,Sean Kingston,sean_kingston,sean+kingston,sean-kingston
+Orianthi,Orianthi,orianthi,orianthi,orianthi
+Sugarland,Sugarland,sugarland,sugarland,sugarland
+OneRepublic,OneRepublic,onerepublic,onerepublic,onerepublic
+Kris Allen,Kris Allen,kris_allen,kris+allen,kris-allen
+Boys Like Girls,Boys Like Girls,boys_like_girls,boys+like+girls,boys-like-girls
+Kenny Chesney,Kenny Chesney,kenny_chesney,kenny+chesney,kenny-chesney
+T.I.,T.I.,t.i.,t.i.,t.i.
+"Band Perry, The",The Band Perry,the_band_perry,the+band+perry,the-band-perry
+Jack Johnson,Jack Johnson,jack_johnson,jack+johnson,jack-johnson
+Alicia Keys,Alicia Keys,alicia_keys,alicia+keys,alicia-keys
+Florence + The Machine,Florence + The Machine,florence_+_the_machine,florence+++the+machine,florence-+-the-machine
+Kevin Rudolf,Kevin Rudolf,kevin_rudolf,kevin+rudolf,kevin-rudolf
+New Boyz,New Boyz,new_boyz,new+boyz,new-boyz
+Kid Cudi,Kid Cudi,kid_cudi,kid+cudi,kid-cudi
+Carrie Underwood,Carrie Underwood,carrie_underwood,carrie+underwood,carrie-underwood
+Christina Aguilera,Christina Aguilera,christina_aguilera,christina+aguilera,christina-aguilera
+Paramore,Paramore,paramore,paramore,paramore
+Michael Buble,Michael Buble,michael_buble,michael+buble,michael-buble
+DJ Khaled,DJ Khaled,dj_khaled,dj+khaled,dj-khaled
+will.i.am,will.i.am,will.i.am,will.i.am,will.i.am
+Selena Gomez,Selena Gomez,selena_gomez,selena+gomez,selena-gomez
+Lee DeWyze,Lee DeWyze,lee_dewyze,lee+dewyze,lee-dewyze
+Coldplay,Coldplay,coldplay,coldplay,coldplay
+Tim McGraw,Tim McGraw,tim_mcgraw,tim+mcgraw,tim-mcgraw
+"Ready Set, The",The Ready Set,the_ready_set,the+ready+set,the-ready-set
+Diddy,Diddy,diddy,diddy,diddy
+Linkin Park,Linkin Park,linkin_park,linkin+park,linkin-park
+Miranda Lambert,Miranda Lambert,miranda_lambert,miranda+lambert,miranda-lambert
+Cali Swag District,Cali Swag District,cali_swag_district,cali+swag+district,cali-swag-district
+Jamie Foxx,Jamie Foxx,jamie_foxx,jamie+foxx,jamie-foxx
+Jerrod Niemann,Jerrod Niemann,jerrod_niemann,jerrod+niemann,jerrod-niemann
+Yolanda Be Cool,Yolanda Be Cool,yolanda_be_cool,yolanda+be+cool,yolanda-be-cool
+Uncle Kracker,Uncle Kracker,uncle_kracker,uncle+kracker,uncle-kracker
+Sara Bareilles,Sara Bareilles,sara_bareilles,sara+bareilles,sara-bareilles
+Zac Brown Band,Zac Brown Band,zac_brown_band,zac+brown+band,zac-brown-band
+Shakira,Shakira,shakira,shakira,shakira
+Soulja Boy Tell'em,Soulja Boy Tell'em,soulja_boy_tell'em,soulja+boy+tell'em,soulja-boy-tell'em
+Joe Nichols,Joe Nichols,joe_nichols,joe+nichols,joe-nichols
+Jaron and The Long Road to Love,Jaron and The Long Road to Love,jaron_and_the_long_road_to_love,jaron+and+the+long+road+to+love,jaron-and-the-long-road-to-love
+John Mayer,John Mayer,john_mayer,john+mayer,john-mayer
+Nickelback,Nickelback,nickelback,nickelback,nickelback
+Dr. Dre,Dr. Dre,dr._dre,dr.+dre,dr.-dre
+Josh Turner,Josh Turner,josh_turner,josh+turner,josh-turner
+Young Jeezy,Young Jeezy,young_jeezy,young+jeezy,young-jeezy
+Daughtry,Daughtry,daughtry,daughtry,daughtry
+Luke Bryan,Luke Bryan,luke_bryan,luke+bryan,luke-bryan
+Darius Rucker,Darius Rucker,darius_rucker,darius+rucker,darius-rucker
+Blake Shelton,Blake Shelton,blake_shelton,blake+shelton,blake-shelton
+Spose,Spose,spose,spose,spose
+Kings Of Leon,Kings Of Leon,kings_of_leon,kings+of+leon,kings-of-leon
+Jason Aldean,Jason Aldean,jason_aldean,jason+aldean,jason-aldean
+Billy Currington,Billy Currington,billy_currington,billy+currington,billy-currington
+Snoop Dogg,Snoop Dogg,snoop_dogg,snoop+dogg,snoop-dogg
+Brad Paisley,Brad Paisley,brad_paisley,brad+paisley,brad-paisley
+Ciara,Ciara,ciara,ciara,ciara
+Easton Corbin,Easton Corbin,easton_corbin,easton+corbin,easton-corbin
+Pitbull,Pitbull,pitbull,pitbull,pitbull
+Melanie Fiona,Melanie Fiona,melanie_fiona,melanie+fiona,melanie-fiona
+Monica,Monica,monica,monica,monica
+Lee Brice,Lee Brice,lee_brice,lee+brice,lee-brice
+Roscoe Dash,Roscoe Dash,roscoe_dash,roscoe+dash,roscoe-dash
+General Larry Platt,General Larry Platt,general_larry_platt,general+larry+platt,general-larry-platt
+Rodney Atkins,Rodney Atkins,rodney_atkins,rodney+atkins,rodney-atkins
+Sheryl Crow,Sheryl Crow,sheryl_crow,sheryl+crow,sheryl-crow
+Rascal Flatts,Rascal Flatts,rascal_flatts,rascal+flatts,rascal-flatts
+Colbie Caillat,Colbie Caillat,colbie_caillat,colbie+caillat,colbie-caillat
+Chris Young,Chris Young,chris_young,chris+young,chris-young
+Lloyd Banks,Lloyd Banks,lloyd_banks,lloyd+banks,lloyd-banks
+Lifehouse,Lifehouse,lifehouse,lifehouse,lifehouse
+Auburn,Auburn,auburn,auburn,auburn
+Avenged Sevenfold,Avenged Sevenfold,avenged_sevenfold,avenged+sevenfold,avenged-sevenfold
+Sade,Sade,sade,sade,sade
+Clay Walker,Clay Walker,clay_walker,clay+walker,clay-walker
+Reba McEntire,Reba McEntire,reba_mcentire,reba+mcentire,reba-mcentire
+Gucci Mane,Gucci Mane,gucci_mane,gucci+mane,gucci-mane
+Ne-Yo,Ne-Yo,ne-yo,ne-yo,ne-yo
+Robin Thicke,Robin Thicke,robin_thicke,robin+thicke,robin-thicke
+Miranda Cosgrove,Miranda Cosgrove,miranda_cosgrove,miranda+cosgrove,miranda-cosgrove
+Jesse McCartney,Jesse McCartney,jesse_mccartney,jesse+mccartney,jesse-mccartney
+Snow Patrol,Snow Patrol,snow_patrol,snow+patrol,snow-patrol
+Mary J. Blige,Mary J. Blige,mary_j._blige,mary+j.+blige,mary-j.-blige
+Akon,Akon,akon,akon,akon
+Charice,Charice,charice,charice,charice
+Dave Matthews Band,Dave Matthews Band,dave_matthews_band,dave+matthews+band,dave-matthews-band
+Christopher Wilde,Christopher Wilde,christopher_wilde,christopher+wilde,christopher-wilde
+Crystal Bowersox,Crystal Bowersox,crystal_bowersox,crystal+bowersox,crystal-bowersox
+Keith Urban,Keith Urban,keith_urban,keith+urban,keith-urban
+Miguel,Miguel,miguel,miguel,miguel
+Rob Thomas,Rob Thomas,rob_thomas,rob+thomas,rob-thomas
+Little Big Town,Little Big Town,little_big_town,little+big+town,little-big-town
+Rick Ross,Rick Ross,rick_ross,rick+ross,rick-ross
+Jazmine Sullivan,Jazmine Sullivan,jazmine_sullivan,jazmine+sullivan,jazmine-sullivan
+k.d. lang,k.d. lang,k.d._lang,k.d.+lang,k.d.-lang
+Waka Flocka Flame,Waka Flocka Flame,waka_flocka_flame,waka+flocka+flame,waka-flocka-flame
+Lil Jon,Lil Jon,lil_jon,lil+jon,lil-jon
+George Strait,George Strait,george_strait,george+strait,george-strait
+Lloyd,Lloyd,lloyd,lloyd,lloyd
+Hannah Montana,Hannah Montana,hannah_montana,hannah+montana,hannah-montana
+Eric Church,Eric Church,eric_church,eric+church,eric-church
+YG,YG,yg,yg,yg
+V V Brown,V V Brown,v_v_brown,v+v+brown,v-v-brown
+Steel Magnolia,Steel Magnolia,steel_magnolia,steel+magnolia,steel-magnolia
+LMFAO,LMFAO,lmfao,lmfao,lmfao
+Justin Moore,Justin Moore,justin_moore,justin+moore,justin-moore
+Avril Lavigne,Avril Lavigne,avril_lavigne,avril+lavigne,avril-lavigne
+Owl City,Owl City,owl_city,owl+city,owl-city
+Three Days Grace,Three Days Grace,three_days_grace,three+days+grace,three-days-grace
+Toby Keith,Toby Keith,toby_keith,toby+keith,toby-keith
+Martina McBride,Martina McBride,martina_mcbride,martina+mcbride,martina-mcbride
+Fantasia,Fantasia,fantasia,fantasia,fantasia
+Godsmack,Godsmack,godsmack,godsmack,godsmack
+Ricky Martin,Ricky Martin,ricky_martin,ricky+martin,ricky-martin
+T-Pain,T-Pain,t-pain,t-pain,t-pain
+Bobby Brackins,Bobby Brackins,bobby_brackins,bobby+brackins,bobby-brackins
+WE the Kings,WE the Kings,we_the_kings,we+the+kings,we-the-kings
+Gyptian,Gyptian,gyptian,gyptian,gyptian
+My Chemical Romance,My Chemical Romance,my_chemical_romance,my+chemical+romance,my-chemical-romance
+Muse,Muse,muse,muse,muse
+Pearl Jam,Pearl Jam,pearl_jam,pearl+jam,pearl-jam
+Three 6 Mafia,Three 6 Mafia,three_6_mafia,three+6+mafia,three-6-mafia
+"Killers, The",The Killers,the_killers,the+killers,the-killers
+Asher Roth,Asher Roth,asher_roth,asher+roth,asher-roth
+Yo Gotti,Yo Gotti,yo_gotti,yo+gotti,yo-gotti
+Disturbed,Disturbed,disturbed,disturbed,disturbed
+Will Young,Will Young,will_young,will+young,will-young
+K'Naan,K'Naan,k'naan,k'naan,k'naan
+Danny Gokey,Danny Gokey,danny_gokey,danny+gokey,danny-gokey
+Craig Morgan,Craig Morgan,craig_morgan,craig+morgan,craig-morgan
+Phoenix,Phoenix,phoenix,phoenix,phoenix
+Disney's Friends For Change,Disney's Friends For Change,disney's_friends_for_change,disney's+friends+for+change,disney's-friends-for-change
+Josh Thompson,Josh Thompson,josh_thompson,josh+thompson,josh-thompson
+Matisyahu,Matisyahu,matisyahu,matisyahu,matisyahu
+New Hollow,New Hollow,new_hollow,new+hollow,new-hollow
+Trace Adkins,Trace Adkins,trace_adkins,trace+adkins,trace-adkins
+Marsha Ambrosius,Marsha Ambrosius,marsha_ambrosius,marsha+ambrosius,marsha-ambrosius
+Antoine Dodson,Antoine Dodson,antoine_dodson,antoine+dodson,antoine-dodson
+My Darkest Days,My Darkest Days,my_darkest_days,my+darkest+days,my-darkest-days
+Chiddy Bang,Chiddy Bang,chiddy_bang,chiddy+bang,chiddy-bang
+Sammy Adams,Sammy Adams,sammy_adams,sammy+adams,sammy-adams
+Natasha Bedingfield,Natasha Bedingfield,natasha_bedingfield,natasha+bedingfield,natasha-bedingfield
+A Rocket To The Moon,A Rocket To The Moon,a_rocket_to_the_moon,a+rocket+to+the+moon,a-rocket-to-the-moon
+The-Dream,The-Dream,the-dream,the-dream,the-dream
+Nick Jonas,Nick Jonas,nick_jonas,nick+jonas,nick-jonas
+Eddie Vedder,Eddie Vedder,eddie_vedder,eddie+vedder,eddie-vedder
+"Dirty Heads, The",The Dirty Heads,the_dirty_heads,the+dirty+heads,the-dirty-heads
+Jaheim,Jaheim,jaheim,jaheim,jaheim
+Big Time Rush,Big Time Rush,big_time_rush,big+time+rush,big-time-rush
+J. Cole,J. Cole,j._cole,j.+cole,j.-cole
+Maxwell,Maxwell,maxwell,maxwell,maxwell
+Erykah Badu,Erykah Badu,erykah_badu,erykah+badu,erykah-badu
+Mario,Mario,mario,mario,mario
+Kelly Clarkson,Kelly Clarkson,kelly_clarkson,kelly+clarkson,kelly-clarkson
+Soundgarden,Soundgarden,soundgarden,soundgarden,soundgarden
+Breaking Benjamin,Breaking Benjamin,breaking_benjamin,breaking+benjamin,breaking-benjamin
+Kellie Pickler,Kellie Pickler,kellie_pickler,kellie+pickler,kellie-pickler
+Shiny Toy Guns,Shiny Toy Guns,shiny_toy_guns,shiny+toy+guns,shiny-toy-guns
+Shinedown,Shinedown,shinedown,shinedown,shinedown
+Jennifer Hudson,Jennifer Hudson,jennifer_hudson,jennifer+hudson,jennifer-hudson
+RockMafia,RockMafia,rockmafia,rockmafia,rockmafia
+Theory Of A Deadman,Theory Of A Deadman,theory_of_a_deadman,theory+of+a+deadman,theory-of-a-deadman
+Jason Michael Carroll,Jason Michael Carroll,jason_michael_carroll,jason+michael+carroll,jason-michael-carroll
+Dierks Bentley,Dierks Bentley,dierks_bentley,dierks+bentley,dierks-bentley
+Alpha Rev,Alpha Rev,alpha_rev,alpha+rev,alpha-rev
+Mariah Carey,Mariah Carey,mariah_carey,mariah+carey,mariah-carey
+Adele,Adele,adele,adele,adele
+Wiz Khalifa,Wiz Khalifa,wiz_khalifa,wiz+khalifa,wiz-khalifa
+Britney Spears,Britney Spears,britney_spears,britney+spears,britney-spears
+Cee-Lo Green,Cee-Lo Green,cee-lo_green,cee-lo+green,cee-lo-green
+Foster The People,Foster The People,foster_the_people,foster+the+people,foster-the-people
+Jennifer Lopez,Jennifer Lopez,jennifer_lopez,jennifer+lopez,jennifer-lopez
+Gym Class Heroes,Gym Class Heroes,gym_class_heroes,gym+class+heroes,gym-class-heroes
+Bad Meets Evil,Bad Meets Evil,bad_meets_evil,bad+meets+evil,bad-meets-evil
+Jeremih,Jeremih,jeremih,jeremih,jeremih
+Cobra Starship,Cobra Starship,cobra_starship,cobra+starship,cobra-starship
+Hot Chelle Rae,Hot Chelle Rae,hot_chelle_rae,hot+chelle+rae,hot-chelle-rae
+Lupe Fiasco,Lupe Fiasco,lupe_fiasco,lupe+fiasco,lupe-fiasco
+Demi Lovato,Demi Lovato,demi_lovato,demi+lovato,demi-lovato
+Dev,Dev,dev,dev,dev
+Scotty McCreery,Scotty McCreery,scotty_mccreery,scotty+mccreery,scotty-mccreery
+Tinie Tempah,Tinie Tempah,tinie_tempah,tinie+tempah,tinie-tempah
+Edward Maya & Vika Jigulina,Edward Maya & Vika Jigulina,edward_maya_&_vika_jigulina,edward+maya+&+vika+jigulina,edward-maya-&-vika-jigulina
+Beyonce,Beyonce,beyonce,beyonce,beyonce
+Kelly Rowland,Kelly Rowland,kelly_rowland,kelly+rowland,kelly-rowland
+Christina Perri,Christina Perri,christina_perri,christina+perri,christina-perri
+Javier Colon,Javier Colon,javier_colon,javier+colon,javier-colon
+Lauren Alaina,Lauren Alaina,lauren_alaina,lauren+alaina,lauren-alaina
+Dia Frampton,Dia Frampton,dia_frampton,dia+frampton,dia-frampton
+Jake Owen,Jake Owen,jake_owen,jake+owen,jake-owen
+Alexandra Stan,Alexandra Stan,alexandra_stan,alexandra+stan,alexandra-stan
+Jessie J,Jessie J,jessie_j,jessie+j,jessie-j
+Keri Hilson,Keri Hilson,keri_hilson,keri+hilson,keri-hilson
+Mumford & Sons,Mumford & Sons,mumford_&_sons,mumford+&+sons,mumford-&-sons
+Eli Young Band,Eli Young Band,eli_young_band,eli+young+band,eli-young-band
+Big Sean,Big Sean,big_sean,big+sean,big-sean
+"Lonely Island, The",The Lonely Island,the_lonely_island,the+lonely+island,the-lonely-island
+Thompson Square,Thompson Square,thompson_square,thompson+square,thompson-square
+Sara Evans,Sara Evans,sara_evans,sara+evans,sara-evans
+Steven Tyler,Steven Tyler,steven_tyler,steven+tyler,steven-tyler
+Plain White T's,Plain White T's,plain_white_t's,plain+white+t's,plain-white-t's
+Wale,Wale,wale,wale,wale
+Red Hot Chili Peppers,Red Hot Chili Peppers,red_hot_chili_peppers,red+hot+chili+peppers,red-hot-chili-peppers
+Nicole Scherzinger,Nicole Scherzinger,nicole_scherzinger,nicole+scherzinger,nicole-scherzinger
+Michael Jackson,Michael Jackson,michael_jackson,michael+jackson,michael-jackson
+Afrojack,Afrojack,afrojack,afrojack,afrojack
+YC,YC,yc,yc,yc
+Adam Levine,Adam Levine,adam_levine,adam+levine,adam-levine
+Martin Solveig,Martin Solveig,martin_solveig,martin+solveig,martin-solveig
+Bow Wow,Bow Wow,bow_wow,bow+wow,bow-wow
+Brantley Gilbert,Brantley Gilbert,brantley_gilbert,brantley+gilbert,brantley-gilbert
+Victorious Cast,Victorious Cast,victorious_cast,victorious+cast,victorious-cast
+David Nail,David Nail,david_nail,david+nail,david-nail
+Bridgit Mendler,Bridgit Mendler,bridgit_mendler,bridgit+mendler,bridgit-mendler
+Andy Grammer,Andy Grammer,andy_grammer,andy+grammer,andy-grammer
+Matt Nathanson,Matt Nathanson,matt_nathanson,matt+nathanson,matt-nathanson
+Pistol Annies,Pistol Annies,pistol_annies,pistol+annies,pistol-annies
+Mac Miller,Mac Miller,mac_miller,mac+miller,mac-miller
+Sick Puppies,Sick Puppies,sick_puppies,sick+puppies,sick-puppies
+Kreayshawn,Kreayshawn,kreayshawn,kreayshawn,kreayshawn
+Rebecca Black,Rebecca Black,rebecca_black,rebecca+black,rebecca-black
+Hugh Laurie,Hugh Laurie,hugh_laurie,hugh+laurie,hugh-laurie
+Ace Hood,Ace Hood,ace_hood,ace+hood,ace-hood
+"JaneDear Girls, The",The JaneDear Girls,the_janedear_girls,the+janedear+girls,the-janedear-girls
+Mann,Mann,mann,mann,mann
+Ronnie Dunn,Ronnie Dunn,ronnie_dunn,ronnie+dunn,ronnie-dunn
+"Game, The",The Game,the_game,the+game,the-game
+Fabolous,Fabolous,fabolous,fabolous,fabolous
+"Black Keys, The",The Black Keys,the_black_keys,the+black+keys,the-black-keys
+Birdman,Birdman,birdman,birdman,birdman
+Blink-182,Blink-182,blink-182,blink-182,blink-182
+Young the Giant,Young the Giant,young_the_giant,young+the+giant,young-the-giant
+Shania Twain,Shania Twain,shania_twain,shania+twain,shania-twain
+Foo Fighters,Foo Fighters,foo_fighters,foo+fighters,foo-fighters
+Evanescence,Evanescence,evanescence,evanescence,evanescence
+Vicci Martinez,Vicci Martinez,vicci_martinez,vicci+martinez,vicci-martinez
+Grouplove,Grouplove,grouplove,grouplove,grouplove
+Sara Ramirez,Sara Ramirez,sara_ramirez,sara+ramirez,sara-ramirez
+Twista,Twista,twista,twista,twista
+Sunny Sweeney,Sunny Sweeney,sunny_sweeney,sunny+sweeney,sunny-sweeney
+Seether,Seether,seether,seether,seether
+Mindless Behavior,Mindless Behavior,mindless_behavior,mindless+behavior,mindless-behavior
+Reeve Carney,Reeve Carney,reeve_carney,reeve+carney,reeve-carney
+Travis Porter,Travis Porter,travis_porter,travis+porter,travis-porter
+Jana Kramer,Jana Kramer,jana_kramer,jana+kramer,jana-kramer
+Troop 41,Troop 41,troop_41,troop+41,troop-41
+Five Finger Death Punch,Five Finger Death Punch,five_finger_death_punch,five+finger+death+punch,five-finger-death-punch
+Gorilla Zoe,Gorilla Zoe,gorilla_zoe,gorilla+zoe,gorilla-zoe
+Steve Holy,Steve Holy,steve_holy,steve+holy,steve-holy
+Cage The Elephant,Cage The Elephant,cage_the_elephant,cage+the+elephant,cage-the-elephant
+Garrett Hedlund,Garrett Hedlund,garrett_hedlund,garrett+hedlund,garrett-hedlund
+Gwyneth Paltrow,Gwyneth Paltrow,gwyneth_paltrow,gwyneth+paltrow,gwyneth-paltrow
+3 Doors Down,3 Doors Down,3_doors_down,3+doors+down,3-doors-down
+AWOLNATION,AWOLNATION,awolnation,awolnation,awolnation
+Don Omar,Don Omar,don_omar,don+omar,don-omar
+Frank Ocean,Frank Ocean,frank_ocean,frank+ocean,frank-ocean
+Faith Hill,Faith Hill,faith_hill,faith+hill,faith-hill
+Jordin Sparks,Jordin Sparks,jordin_sparks,jordin+sparks,jordin-sparks
+Craig Campbell,Craig Campbell,craig_campbell,craig+campbell,craig-campbell
+Romeo Santos,Romeo Santos,romeo_santos,romeo+santos,romeo-santos
+Chris Medina,Chris Medina,chris_medina,chris+medina,chris-medina
+Sean Paul,Sean Paul,sean_paul,sean+paul,sean-paul
+Kirk Franklin,Kirk Franklin,kirk_franklin,kirk+franklin,kirk-franklin
+B.o.B,B.o.B,b.o.b,b.o.b,b.o.b
+Tyga,Tyga,tyga,tyga,tyga
+Bella Thorne,Bella Thorne,bella_thorne,bella+thorne,bella-thorne
+China Anne McClain,China Anne McClain,china_anne_mcclain,china+anne+mcclain,china-anne-mcclain
+Josh Kelley,Josh Kelley,josh_kelley,josh+kelley,josh-kelley
+Aaron Lewis,Aaron Lewis,aaron_lewis,aaron+lewis,aaron-lewis
+50 Cent,50 Cent,50_cent,50+cent,50-cent
+JoJo,JoJo,jojo,jojo,jojo
+Mat Kearney,Mat Kearney,mat_kearney,mat+kearney,mat-kearney
+Tony Bennett,Tony Bennett,tony_bennett,tony+bennett,tony-bennett
+Duck Sauce,Duck Sauce,duck_sauce,duck+sauce,duck-sauce
+Panic At The Disco,Panic At The Disco,panic_at_the_disco,panic+at+the+disco,panic-at-the-disco
+Rise Against,Rise Against,rise_against,rise+against,rise-against
+Casey Weston,Casey Weston,casey_weston,casey+weston,casey-weston
+Joe Jonas,Joe Jonas,joe_jonas,joe+jonas,joe-jonas
+Xenia,Xenia,xenia,xenia,xenia
+R. Kelly,R. Kelly,r._kelly,r.+kelly,r.-kelly
+Mary Mary,Mary Mary,mary_mary,mary+mary,mary-mary
+James Blunt,James Blunt,james_blunt,james+blunt,james-blunt
+Kaskade,Kaskade,kaskade,kaskade,kaskade
+DJ Drama,DJ Drama,dj_drama,dj+drama,dj-drama
+Ashton Shepherd,Ashton Shepherd,ashton_shepherd,ashton+shepherd,ashton-shepherd
+Rej3ctz,Rej3ctz,rej3ctz,rej3ctz,rej3ctz
+Jill Scott,Jill Scott,jill_scott,jill+scott,jill-scott
+30 Seconds to Mars,30 Seconds to Mars,30_seconds_to_mars,30+seconds+to+mars,30-seconds-to-mars
+Mana,Mana,mana,mana,mana
+Yellowcard,Yellowcard,yellowcard,yellowcard,yellowcard
+Carly Rae Jepsen,Carly Rae Jepsen,carly_rae_jepsen,carly+rae+jepsen,carly-rae-jepsen
+Gotye,Gotye,gotye,gotye,gotye
+Fun.,Fun.,fun.,fun.,fun.
+PSY,PSY,psy,psy,psy
+Ellie Goulding,Ellie Goulding,ellie_goulding,ellie+goulding,ellie-goulding
+"Lumineers, The",The Lumineers,the_lumineers,the+lumineers,the-lumineers
+"Wanted, The",The Wanted,the_wanted,the+wanted,the-wanted
+Whitney Houston,Whitney Houston,whitney_houston,whitney+houston,whitney-houston
+One Direction,One Direction,one_direction,one+direction,one-direction
+Alex Clare,Alex Clare,alex_clare,alex+clare,alex-clare
+Jason Mraz,Jason Mraz,jason_mraz,jason+mraz,jason-mraz
+Madonna,Madonna,madonna,madonna,madonna
+Calvin Harris,Calvin Harris,calvin_harris,calvin+harris,calvin-harris
+Cher Lloyd,Cher Lloyd,cher_lloyd,cher+lloyd,cher-lloyd
+Florida Georgia Line,Florida Georgia Line,florida_georgia_line,florida+georgia+line,florida-georgia-line
+Hunter Hayes,Hunter Hayes,hunter_hayes,hunter+hayes,hunter-hayes
+Karmin,Karmin,karmin,karmin,karmin
+Kendrick Lamar,Kendrick Lamar,kendrick_lamar,kendrick+lamar,kendrick-lamar
+Gavin DeGraw,Gavin DeGraw,gavin_degraw,gavin+degraw,gavin-degraw
+2 Chainz,2 Chainz,2_chainz,2+chainz,2-chainz
+Cassadee Pope,Cassadee Pope,cassadee_pope,cassadee+pope,cassadee-pope
+Havana Brown,Havana Brown,havana_brown,havana+brown,havana-brown
+Kirko Bangz,Kirko Bangz,kirko_bangz,kirko+bangz,kirko-bangz
+Juicy J,Juicy J,juicy_j,juicy+j,juicy-j
+Kip Moore,Kip Moore,kip_moore,kip+moore,kip-moore
+Love And Theft,Love And Theft,love_and_theft,love+and+theft,love-and-theft
+Breathe Carolina,Breathe Carolina,breathe_carolina,breathe+carolina,breathe-carolina
+Gloriana,Gloriana,gloriana,gloriana,gloriana
+No Doubt,No Doubt,no_doubt,no+doubt,no-doubt
+Ca$h Out,Ca$h Out,ca$h_out,ca$h+out,ca$h-out
+French Montana,French Montana,french_montana,french+montana,french-montana
+Outasight,Outasight,outasight,outasight,outasight
+Dustin Lynch,Dustin Lynch,dustin_lynch,dustin+lynch,dustin-lynch
+Matchbox 20,Matchbox 20,matchbox_20,matchbox+20,matchbox-20
+"Fray, The",The Fray,the_fray,the+fray,the-fray
+LoveRance,LoveRance,loverance,loverance,loverance
+Future,Future,future,future,future
+Meek Mill,Meek Mill,meek_mill,meek+mill,meek-mill
+Tamar Braxton,Tamar Braxton,tamar_braxton,tamar+braxton,tamar-braxton
+Tony Lucca,Tony Lucca,tony_lucca,tony+lucca,tony-lucca
+Avicii,Avicii,avicii,avicii,avicii
+Rita Ora,Rita Ora,rita_ora,rita+ora,rita-ora
+Brandy,Brandy,brandy,brandy,brandy
+Greg Bates,Greg Bates,greg_bates,greg+bates,greg-bates
+Van Halen,Van Halen,van_halen,van+halen,van-halen
+Skrillex,Skrillex,skrillex,skrillex,skrillex
+Nero,Nero,nero,nero,nero
+Juliet Simms,Juliet Simms,juliet_simms,juliet+simms,juliet-simms
+Terry McDermott,Terry McDermott,terry_mcdermott,terry+mcdermott,terry-mcdermott
+Montgomery Gentry,Montgomery Gentry,montgomery_gentry,montgomery+gentry,montgomery-gentry
+M83.,M83.,m83.,m83.,m83.
+Driicky Graham,Driicky Graham,driicky_graham,driicky+graham,driicky-graham
+Chief Keef,Chief Keef,chief_keef,chief+keef,chief-keef
+John Legend,John Legend,john_legend,john+legend,john-legend
+Diggy,Diggy,diggy,diggy,diggy
+Fat Joe,Fat Joe,fat_joe,fat+joe,fat-joe
+Lindsey Pavao,Lindsey Pavao,lindsey_pavao,lindsey+pavao,lindsey-pavao
+Michel Telo,Michel Telo,michel_telo,michel+telo,michel-telo
+Big & Rich,Big & Rich,big_&_rich,big+&+rich,big-&-rich
+Edens Edge,Edens Edge,edens_edge,edens+edge,edens-edge
+Jermaine Paul,Jermaine Paul,jermaine_paul,jermaine+paul,jermaine-paul
+Keyshia Cole,Keyshia Cole,keyshia_cole,keyshia+cole,keyshia-cole
+Chris Cagle,Chris Cagle,chris_cagle,chris+cagle,chris-cagle
+Melanie Martinez,Melanie Martinez,melanie_martinez,melanie+martinez,melanie-martinez
+Pusha T,Pusha T,pusha_t,pusha+t,pusha-t
+Lana Del Rey,Lana Del Rey,lana_del_rey,lana+del+rey,lana-del-rey
+Sam Palladio,Sam Palladio,sam_palladio,sam+palladio,sam-palladio
+Thomas Rhett,Thomas Rhett,thomas_rhett,thomas+rhett,thomas-rhett
+V.I.C.,V.I.C.,v.i.c.,v.i.c.,v.i.c.
+Grace Potter,Grace Potter,grace_potter,grace+potter,grace-potter
+Olly Murs,Olly Murs,olly_murs,olly+murs,olly-murs
+Nicholas David,Nicholas David,nicholas_david,nicholas+david,nicholas-david
+Green Day,Green Day,green_day,green+day,green-day
+Amanda Brown,Amanda Brown,amanda_brown,amanda+brown,amanda-brown
+Phillip Phillips,Phillip Phillips,phillip_phillips,phillip+phillips,phillip-phillips
+Slaughterhouse,Slaughterhouse,slaughterhouse,slaughterhouse,slaughterhouse
+MGK,MGK,mgk,mgk,mgk
+deadmau5,deadmau5,deadmau5,deadmau5,deadmau5
+Estelle,Estelle,estelle,estelle,estelle
+Lorde,Lorde,lorde,lorde,lorde
+Macklemore,Macklemore,macklemore,macklemore,macklemore
+Baauer,Baauer,baauer,baauer,baauer
+Daft Punk,Daft Punk,daft_punk,daft+punk,daft-punk
+Imagine Dragons,Imagine Dragons,imagine_dragons,imagine+dragons,imagine-dragons
+A Great Big World,A Great Big World,a_great_big_world,a+great+big+world,a-great-big-world
+Swedish House Mafia,Swedish House Mafia,swedish_house_mafia,swedish+house+mafia,swedish-house-mafia
+Ylvis,Ylvis,ylvis,ylvis,ylvis
+Anna Kendrick,Anna Kendrick,anna_kendrick,anna+kendrick,anna-kendrick
+Icona Pop,Icona Pop,icona_pop,icona+pop,icona-pop
+Zedd,Zedd,zedd,zedd,zedd
+Capital Cities,Capital Cities,capital_cities,capital+cities,capital-cities
+A$AP Rocky,A$AP Rocky,a$ap_rocky,a$ap+rocky,a$ap-rocky
+Ariana Grande,Ariana Grande,ariana_grande,ariana+grande,ariana-grande
+Mike Will Made It,Mike Will Made It,mike_will_made_it,mike+will+made+it,mike-will-made-it
+Fall Out Boy,Fall Out Boy,fall_out_boy,fall+out+boy,fall-out-boy
+Pentatonix,Pentatonix,pentatonix,pentatonix,pentatonix
+"Neighbourhood, The",The Neighbourhood,the_neighbourhood,the+neighbourhood,the-neighbourhood
+Ed Sheeran,Ed Sheeran,ed_sheeran,ed+sheeran,ed-sheeran
+Maejor Ali,Maejor Ali,maejor_ali,maejor+ali,maejor-ali
+Of Monsters And Men,Of Monsters And Men,of_monsters_and_men,of+monsters+and+men,of-monsters-and-men
+Rocko,Rocko,rocko,rocko,rocko
+Randy Houser,Randy Houser,randy_houser,randy+houser,randy-houser
+Emeli Sande,Emeli Sande,emeli_sande,emeli+sande,emeli-sande
+Bon Jovi,Bon Jovi,bon_jovi,bon+jovi,bon-jovi
+Gary Allan,Gary Allan,gary_allan,gary+allan,gary-allan
+Zach Sobiech,Zach Sobiech,zach_sobiech,zach+sobiech,zach-sobiech
+Sage The Gemini,Sage The Gemini,sage_the_gemini,sage+the+gemini,sage-the-gemini
+Tyler Farr,Tyler Farr,tyler_farr,tyler+farr,tyler-farr
+Alison Gold,Alison Gold,alison_gold,alison+gold,alison-gold
+Brett Eldredge,Brett Eldredge,brett_eldredge,brett+eldredge,brett-eldredge
+Sevyn Streeter,Sevyn Streeter,sevyn_streeter,sevyn+streeter,sevyn-streeter
+Krewella,Krewella,krewella,krewella,krewella
+Labrinth,Labrinth,labrinth,labrinth,labrinth
+"FiNATTiCZ, The",The FiNATTiCZ,the_finatticz,the+finatticz,the-finatticz
+Trinidad James,Trinidad James,trinidad_james,trinidad+james,trinidad-james
+Parmalee,Parmalee,parmalee,parmalee,parmalee
+Matthew Schuler,Matthew Schuler,matthew_schuler,matthew+schuler,matthew-schuler
+Green Shoe Studio,Green Shoe Studio,green_shoe_studio,green+shoe+studio,green-shoe-studio
+Enya,Enya,enya,enya,enya
+Rich Gang,Rich Gang,rich_gang,rich+gang,rich-gang
+August Alsina,August Alsina,august_alsina,august+alsina,august-alsina
+Rich Homie Quan,Rich Homie Quan,rich_homie_quan,rich+homie+quan,rich-homie-quan
+J. Dash,J. Dash,j._dash,j.+dash,j.-dash
+Ray J,Ray J,ray_j,ray+j,ray-j
+"Weeknd, The",The Weeknd,the_weeknd,the+weeknd,the-weeknd
+Major Lazer,Major Lazer,major_lazer,major+lazer,major-lazer
+Danielle Bradbery,Danielle Bradbery,danielle_bradbery,danielle+bradbery,danielle-bradbery
+Jonas Brothers,Jonas Brothers,jonas_brothers,jonas+brothers,jonas-brothers
+Kacey Musgraves,Kacey Musgraves,kacey_musgraves,kacey+musgraves,kacey-musgraves
+Tessanne Chin,Tessanne Chin,tessanne_chin,tessanne+chin,tessanne-chin
+Jonn Hart,Jonn Hart,jonn_hart,jonn+hart,jonn-hart
+Austin Mahone,Austin Mahone,austin_mahone,austin+mahone,austin-mahone
+"Swon Brothers, The",The Swon Brothers,the_swon_brothers,the+swon+brothers,the-swon-brothers
+Hadouken!,Hadouken!,hadouken!,hadouken!,hadouken!
+Anne Hathaway,Anne Hathaway,anne_hathaway,anne+hathaway,anne-hathaway
+James Wolpert,James Wolpert,james_wolpert,james+wolpert,james-wolpert
+Lea Michele,Lea Michele,lea_michele,lea+michele,lea-michele
+Fifth Harmony,Fifth Harmony,fifth_harmony,fifth+harmony,fifth-harmony
+Fergie,Fergie,fergie,fergie,fergie
+Prince Royce,Prince Royce,prince_royce,prince+royce,prince-royce
+Little Mix,Little Mix,little_mix,little+mix,little-mix
+Ross Lynch,Ross Lynch,ross_lynch,ross+lynch,ross-lynch
+Britt Nicole,Britt Nicole,britt_nicole,britt+nicole,britt-nicole
+Will Champlin,Will Champlin,will_champlin,will+champlin,will-champlin
+Passion Pit,Passion Pit,passion_pit,passion+pit,passion-pit
+"Barden Bellas, The",The Barden Bellas,the_barden_bellas,the+barden+bellas,the-barden-bellas
+Michelle Chamuel,Michelle Chamuel,michelle_chamuel,michelle+chamuel,michelle-chamuel
+Childish Gambino,Childish Gambino,childish_gambino,childish+gambino,childish-gambino
+Bonnie McKee,Bonnie McKee,bonnie_mckee,bonnie+mckee,bonnie-mckee
+Mika,Mika,mika,mika,mika
+Jacquie Lee,Jacquie Lee,jacquie_lee,jacquie+lee,jacquie-lee
+Casey James,Casey James,casey_james,casey+james,casey-james
+Hustle Gang,Hustle Gang,hustle_gang,hustle+gang,hustle-gang
+K. Michelle,K. Michelle,k._michelle,k.+michelle,k.-michelle
+Tegan And Sara,Tegan And Sara,tegan_and_sara,tegan+and+sara,tegan-and-sara
+Kid Ink,Kid Ink,kid_ink,kid+ink,kid-ink
+ScHoolboy Q,ScHoolboy Q,schoolboy_q,schoolboy+q,schoolboy-q
+Marc Anthony,Marc Anthony,marc_anthony,marc+anthony,marc-anthony
+Amber Carrington,Amber Carrington,amber_carrington,amber+carrington,amber-carrington
+Emblem3,Emblem3,emblem3,emblem3,emblem3
+Alabama Shakes,Alabama Shakes,alabama_shakes,alabama+shakes,alabama-shakes
+Candice Glover,Candice Glover,candice_glover,candice+glover,candice-glover
+Charlie Worsham,Charlie Worsham,charlie_worsham,charlie+worsham,charlie-worsham
+Joe Budden,Joe Budden,joe_budden,joe+budden,joe-budden
+Armin van Buuren,Armin van Buuren,armin_van_buuren,armin+van+buuren,armin-van-buuren
+Samantha Barks,Samantha Barks,samantha_barks,samantha+barks,samantha-barks
+Arianna,Arianna,arianna,arianna,arianna
+Arcade Fire,Arcade Fire,arcade_fire,arcade+fire,arcade-fire
+Migos,Migos,migos,migos,migos
+A$AP Ferg,A$AP Ferg,a$ap_ferg,a$ap+ferg,a$ap-ferg
+Chase Rice,Chase Rice,chase_rice,chase+rice,chase-rice
+Passenger,Passenger,passenger,passenger,passenger
+Bastille,Bastille,bastille,bastille,bastille
+Zendaya,Zendaya,zendaya,zendaya,zendaya
+Martin Garrix,Martin Garrix,martin_garrix,martin+garrix,martin-garrix
+Eric Paslay,Eric Paslay,eric_paslay,eric+paslay,eric-paslay
+Cole Swindell,Cole Swindell,cole_swindell,cole+swindell,cole-swindell
+American Authors,American Authors,american_authors,american+authors,american-authors
+Jon Pardi,Jon Pardi,jon_pardi,jon+pardi,jon-pardi
+John Newman,John Newman,john_newman,john+newman,john-newman
+Idina Menzel,Idina Menzel,idina_menzel,idina+menzel,idina-menzel
+Frankie Ballard,Frankie Ballard,frankie_ballard,frankie+ballard,frankie-ballard
+Arctic Monkeys,Arctic Monkeys,arctic_monkeys,arctic+monkeys,arctic-monkeys
+Aloe Blacc,Aloe Blacc,aloe_blacc,aloe+blacc,aloe-blacc
+Nat King Cole,Nat King Cole,nat_king_cole,nat+king+cole,nat-king-cole
+Brenda Lee,Brenda Lee,brenda_lee,brenda+lee,brenda-lee
+Ty Dolla $ign,Ty Dolla $ign,ty_dolla_$ign,ty+dolla+$ign,ty-dolla-$ign
+DJ Snake,DJ Snake,dj_snake,dj+snake,dj-snake
+Kristen Bell,Kristen Bell,kristen_bell,kristen+bell,kristen-bell
+Dan + Shay,Dan + Shay,dan_+_shay,dan+++shay,dan-+-shay
+Pharrell,Pharrell,pharrell,pharrell,pharrell
+Lucy Hale,Lucy Hale,lucy_hale,lucy+hale,lucy-hale
+SoMo,SoMo,somo,somo,somo
+Cash Cash,Cash Cash,cash_cash,cash+cash,cash-cash
+Hillsong United,Hillsong United,hillsong_united,hillsong+united,hillsong-united
+"1975, The",The 1975,the_1975,the+1975,the-1975
+Rico Love,Rico Love,rico_love,rico+love,rico-love
+Jhene Aiko,Jhene Aiko,jhene_aiko,jhene+aiko,jhene-aiko
+Young Thug,Young Thug,young_thug,young+thug,young-thug
+Buck 22,Buck 22,buck_22,buck+22,buck-22
+MKTO,MKTO,mkto,mkto,mkto
+Naughty Boy,Naughty Boy,naughty_boy,naughty+boy,naughty-boy
+U2,U2,u2,u2,u2
+"Chainsmokers, The",The Chainsmokers,the_chainsmokers,the+chainsmokers,the-chainsmokers
+Fitz And The Tantrums,Fitz And The Tantrums,fitz_and_the_tantrums,fitz+and+the+tantrums,fitz-and-the-tantrums
+Iggy Azalea,Iggy Azalea,iggy_azalea,iggy+azalea,iggy-azalea
+Wisin,Wisin,wisin,wisin,wisin
+Soko,Soko,soko,soko,soko
+Tiesto,Tiesto,tiesto,tiesto,tiesto
+Disclosure,Disclosure,disclosure,disclosure,disclosure
+Rixton,Rixton,rixton,rixton,rixton
+5 Seconds Of Summer,5 Seconds Of Summer,5_seconds_of_summer,5+seconds+of+summer,5-seconds-of-summer
+Sam Smith,Sam Smith,sam_smith,sam+smith,sam-smith
+KONGOS,KONGOS,kongos,kongos,kongos
+KCamp,KCamp,kcamp,kcamp,kcamp
+Ingrid Michaelson,Ingrid Michaelson,ingrid_michaelson,ingrid+michaelson,ingrid-michaelson
+Nico & Vinz,Nico & Vinz,nico_&_vinz,nico+&+vinz,nico-&-vinz
+Josh Kaufman,Josh Kaufman,josh_kaufman,josh+kaufman,josh-kaufman
+MAGIC!,MAGIC!,magic!,magic!,magic!
+Christina Grimmie,Christina Grimmie,christina_grimmie,christina+grimmie,christina-grimmie
+Katy Tiz,Katy Tiz,katy_tiz,katy+tiz,katy-tiz
+Sia,Sia,sia,sia,sia
+Tinashe,Tinashe,tinashe,tinashe,tinashe
+Jake Worthington,Jake Worthington,jake_worthington,jake+worthington,jake-worthington
+Tove Lo,Tove Lo,tove_lo,tove+lo,tove-lo
+Charli XCX,Charli XCX,charli_xcx,charli+xcx,charli-xcx
+Becky G,Becky G,becky_g,becky+g,becky-g
+AJR,AJR,ajr,ajr,ajr
+Clean Bandit,Clean Bandit,clean_bandit,clean+bandit,clean-bandit
+Jamie N Commons,Jamie N Commons,jamie_n_commons,jamie+n+commons,jamie-n-commons
+Shawn Mendes,Shawn Mendes,shawn_mendes,shawn+mendes,shawn-mendes
+Vance Joy,Vance Joy,vance_joy,vance+joy,vance-joy
+Sam Hunt,Sam Hunt,sam_hunt,sam+hunt,sam-hunt
+Busta Rhymes,Busta Rhymes,busta_rhymes,busta+rhymes,busta-rhymes
+Meghan Trainor,Meghan Trainor,meghan_trainor,meghan+trainor,meghan-trainor
+Echosmith,Echosmith,echosmith,echosmith,echosmith
+Weird Al Yankovic,Weird Al Yankovic,weird_al_yankovic,weird+al+yankovic,weird-al-yankovic
+Kiesza,Kiesza,kiesza,kiesza,kiesza
+Troye Sivan,Troye Sivan,troye_sivan,troye+sivan,troye-sivan
+Milky Chance,Milky Chance,milky_chance,milky+chance,milky-chance
+Maddie & Tae,Maddie & Tae,maddie_&_tae,maddie+&+tae,maddie-&-tae
+Hilary Duff,Hilary Duff,hilary_duff,hilary+duff,hilary-duff
+Bobby Shmurda,Bobby Shmurda,bobby_shmurda,bobby+shmurda,bobby-shmurda
+Rae Sremmurd,Rae Sremmurd,rae_sremmurd,rae+sremmurd,rae-sremmurd
+Jack & Jack,Jack & Jack,jack_&_jack,jack+&+jack,jack-&-jack
+Hozier,Hozier,hozier,hozier,hozier
+Mr. Probz,Mr. Probz,mr._probz,mr.+probz,mr.-probz
+Steve Aoki,Steve Aoki,steve_aoki,steve+aoki,steve-aoki
+TeeFLii,TeeFLii,teeflii,teeflii,teeflii
+Mary Lambert,Mary Lambert,mary_lambert,mary+lambert,mary-lambert
+I LOVE MAKONNEN,I LOVE MAKONNEN,i_love_makonnen,i+love+makonnen,i-love-makonnen
+alt-J,alt-J,alt-j,alt-j,alt-j
+Alesso,Alesso,alesso,alesso,alesso
+OG Maco,OG Maco,og_maco,og+maco,og-maco
+Jimmy Fallon,Jimmy Fallon,jimmy_fallon,jimmy+fallon,jimmy-fallon
+Glen Campbell,Glen Campbell,glen_campbell,glen+campbell,glen-campbell
+Gwen Stefani,Gwen Stefani,gwen_stefani,gwen+stefani,gwen-stefani
+DeJ Loaf,DeJ Loaf,dej_loaf,dej+loaf,dej-loaf
+Snootie Wild,Snootie Wild,snootie_wild,snootie+wild,snootie-wild
+RaeLynn,RaeLynn,raelynn,raelynn,raelynn
+OK Go,OK Go,ok_go,ok+go,ok-go
+Band Aid 30,Band Aid 30,band_aid_30,band+aid+30,band-aid-30
+Matt McAndrew,Matt McAndrew,matt_mcandrew,matt+mcandrew,matt-mcandrew
+James Newton Howard,James Newton Howard,james_newton_howard,james+newton+howard,james-newton-howard
+Craig Wayne Boyd,Craig Wayne Boyd,craig_wayne_boyd,craig+wayne+boyd,craig-wayne-boyd
+Taylor John Williams,Taylor John Williams,taylor_john_williams,taylor+john+williams,taylor-john-williams
+White Buffalo & The Forest Rangers,White Buffalo & The Forest Rangers,white_buffalo_&_the_forest_rangers,white+buffalo+&+the+forest+rangers,white-buffalo-&-the-forest-rangers
+Chris Jamison,Chris Jamison,chris_jamison,chris+jamison,chris-jamison
+Ella Henderson,Ella Henderson,ella_henderson,ella+henderson,ella-henderson
+WALK THE MOON,WALK THE MOON,walk_the_moon,walk+the+moon,walk-the-moon
+Mark Ronson,Mark Ronson,mark_ronson,mark+ronson,mark-ronson
+O.T. Genasis,O.T. Genasis,o.t._genasis,o.t.+genasis,o.t.-genasis
+Lillywood,Lillywood,lillywood,lillywood,lillywood
+Sheppard,Sheppard,sheppard,sheppard,sheppard
+Damien,Damien,damien,damien,damien
+Chase Bryant,Chase Bryant,chase_bryant,chase+bryant,chase-bryant
+G-Eazy,G-Eazy,g-eazy,g-eazy,g-eazy
+Sophia Grace,Sophia Grace,sophia_grace,sophia+grace,sophia-grace
+I Prevail,I Prevail,i_prevail,i+prevail,i-prevail
+Omarion,Omarion,omarion,omarion,omarion
+Hoodie Allen,Hoodie Allen,hoodie_allen,hoodie+allen,hoodie-allen
+Common,Common,common,common,common
+Fetty Wap,Fetty Wap,fetty_wap,fetty+wap,fetty-wap
+Natalie La Rose,Natalie La Rose,natalie_la_rose,natalie+la+rose,natalie-la-rose
+George Ezra,George Ezra,george_ezra,george+ezra,george-ezra
+Missy Elliott,Missy Elliott,missy_elliott,missy+elliott,missy-elliott
+A-Trak + Milo & Otis,A-Trak + Milo & Otis,a-trak_+_milo_&_otis,a-trak+++milo+&+otis,a-trak-+-milo-&-otis
+Annie Lennox,Annie Lennox,annie_lennox,annie+lennox,annie-lennox
+Empire Cast,Empire Cast,empire_cast,empire+cast,empire-cast
+Kid Rock,Kid Rock,kid_rock,kid+rock,kid-rock
+Tori Kelly,Tori Kelly,tori_kelly,tori+kelly,tori-kelly
+A Thousand Horses,A Thousand Horses,a_thousand_horses,a+thousand+horses,a-thousand-horses
+Silento,Silento,silento,silento,silento
+Cashmere Cat,Cashmere Cat,cashmere_cat,cashmere+cat,cashmere-cat
+LunchMoney Lewis,LunchMoney Lewis,lunchmoney_lewis,lunchmoney+lewis,lunchmoney-lewis

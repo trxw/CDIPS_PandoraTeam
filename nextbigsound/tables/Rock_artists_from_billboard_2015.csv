@@ -1,0 +1,12 @@
+id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
+87,Fall Out Boy,516cef4d-0718-4007-9939-f9b38af3f784,Fall Out Boy,United States,US,Wilmette,2001,Group,0000000095682593,Rock,,,,
+33857,Lee Brice,48a6d065-1fda-4280-ae39-df1394d419cd,Lee Brice,United States,US,,1980-06-30,Person,,Country,Rock,,,
+38470,Darius Rucker,3ae70f76-ea53-4cc5-906e-d47a384202a1,Darius Rucker,United States,US,Charleston,1966-05-13,Person,0000000045244800,RB,Country,Rock,,
+501,Mark Ronson,c3c82bdc-d9e7-4836-9746-c24ead47ca19,Mark Ronson,United Kingdom,GB,St John's Wood,1975-09-04,Person,,Rock,HipHop,,,
+63,OneRepublic,c33c2065-b1c3-4406-b066-d33a9e2ea71a,OneRepublic,United States,US,Colorado,2004,Group,,Alternative,Pop,Rock,,
+54553,Damien Sargue,d5930147-5821-4003-8afe-1bc818aab320,Damien Sargue,France,FR,,1981,Person,,Pop,Rock,,,
+284611,Jenefer Sian,507cab16-f33e-48f9-8f69-31b64a157b28,Sian,United States,,,,Person,,Pop,Rock,HipHop,,
+5266,Nick Drake,99ea432a-e3d8-42cb-9d5e-db316a6a8458,Nick Drake,United Kingdom,GB,Yangon,1948-06-19,Person,0000000059435149,Folk,Rock,,,
+540,Drake Bell,094f10e7-27d5-400d-a145-331013e67229,Drake Bell,United States,US,,1986-06-27,Person,,Alternative,Pop,Rock,,
+1344,Kid Rock,ad0ecd8b-805e-406e-82cb-5b00c3a3a29e,Kid Rock,United States,US,Romeo,1971-01-17,Person,0000000114765053,Country,Rock,HipHop,,
+287478,Echosmith,b86780fe-8b8e-4330-a600-7e5604b6a8e8,Ready Go,United States,,,,Group,,Pop,Rock,,,

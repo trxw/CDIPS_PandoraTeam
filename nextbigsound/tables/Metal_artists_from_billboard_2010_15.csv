@@ -1,0 +1,9 @@
+id,name,music_brainz_id,music_brainz_name,area,country,begin_area,life_span_begin,music_brainz_type,isni_list,genre1,genre2,genre3,genre4,genre5
+2115,Avenged Sevenfold,24e1b53c-3085-4581-8472-0b0088d2508c,Avenged Sevenfold,United States,US,,1999-01-01 00:00:00,Group,,Metal,Rock,,,
+46198,Godsmack,ac2d1c91-3667-46aa-9fe7-170ca7fce9e2,Godsmack,United States,US,,1996-01-01 00:00:00,Group,,Metal,Rock,,,
+642,My Chemical Romance,c07f0676-9143-4217-8a9f-4c26bd636f13,My Chemical Romance,United States,US,,2001-01-01 00:00:00,Group,,Metal,Alternative,Rock,,
+6218,Disturbed,4bb4e4e4-5f66-4509-98af-62dbb90c45c5,Disturbed,United States,US,,1996-01-01 00:00:00,Group,,Metal,Rock,,,
+2380,Breaking Benjamin,854a1807-025b-42a8-ba8c-2a39717f1d25,Breaking Benjamin,United States,US,Pennsylvania,1998-01-01 00:00:00,Group,,Metal,Alternative,Rock,,
+7296,Seether,fbcd7b29-455f-49e6-9c4f-8249d20a055e,Seether,South Africa,ZA,,2002-01-01 00:00:00,Group,,Metal,Alternative,Rock,,
+18588,Five Finger Death Punch,7e8571b1-7c5a-4739-bc51-73d422ee9d74,Five Finger Death Punch,United States,US,Las Vegas,2005-01-01 00:00:00,Group,,Hardcore,Metal,Rock,,
+36981,American Authors,9ce0515d-cc88-4df6-8a2e-d231c13cb2c2,American Authors,United States,US,,2011-06-01 00:00:00,Group,,Hardcore,Metal,,,
