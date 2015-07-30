@@ -1,0 +1,4133 @@
+(dp0
+S'Capital Cities'
+p1
+(lp2
+I6950
+asS'Frankie Ballard'
+p3
+(lp4
+I14643
+aI14644
+asS'Beyonce'
+p5
+(lp6
+I3865
+aI3866
+aI3867
+aI3868
+aI3869
+aI3870
+aI3864
+aI3863
+aI3857
+aI3858
+aI3859
+aI3860
+aI3861
+aI3862
+aI3892
+asS'American Authors'
+p7
+(lp8
+I1263
+asS'Avicii'
+p9
+(lp10
+I2482
+aI2480
+aI2481
+aI2478
+aI2479
+asS'The Weeknd'
+p11
+(lp12
+I39162
+aI39163
+aI39164
+aI39165
+asS'Pusha T'
+p13
+(lp14
+I31160
+asS'Sam Palladio'
+p15
+(lp16
+I33647
+asS'Seether'
+p17
+(lp18
+I34111
+asS'Jay Sean'
+p19
+(lp20
+I20042
+aI20040
+aI20039
+asS'Reba McEntire'
+p21
+(lp22
+I31859
+aI31860
+asS'G-Eazy'
+p23
+(lp24
+I15199
+asS'James Blunt'
+p25
+(lp26
+I19561
+asS'Eminem'
+p27
+(lp28
+I12718
+aI12719
+aI12720
+aI12721
+aI12722
+aI12723
+aI12724
+aI12725
+aI12726
+aI12727
+aI12713
+aI12714
+aI12715
+aI12716
+aI12717
+aI12711
+aI12712
+asS'Rodney Atkins'
+p29
+(lp30
+I32704
+aI32703
+asS'Timbaland'
+p31
+(lp32
+I37000
+asS'Nicole Scherzinger'
+p33
+(lp34
+I28444
+aI28445
+asS'Darius Rucker'
+p35
+(lp36
+I9354
+aI9352
+aI9353
+aI9350
+aI9351
+aI9359
+asS'Fitz And The Tantrums'
+p37
+(lp38
+I13766
+asS'Daughtry'
+p39
+(lp40
+I9428
+aI9427
+aI9426
+asS'Anna Kendrick'
+p41
+(lp42
+I1710
+aI1711
+aI1712
+asS'Erykah Badu'
+p43
+(lp44
+I13066
+asS'Big Time Rush'
+p45
+(lp46
+I3946
+aI3944
+aI3945
+aI3947
+asS'Hannah Montana'
+p47
+(lp48
+I17386
+aI17387
+asS'Clean Bandit'
+p49
+(lp50
+I8291
+asS'Ylvis'
+p51
+(lp52
+I39776
+asS'DJ Drama'
+p53
+(lp54
+I10714
+aI10713
+aI10712
+asS'Rae Sremmurd'
+p55
+(lp56
+I31331
+aI31332
+aI31333
+asS'JoJo'
+p57
+(lp58
+I22108
+asS'Rob Thomas'
+p59
+(lp60
+I32491
+asS'Paramore'
+p61
+(lp62
+I29170
+aI29169
+aI29168
+aI29167
+asS'Gary Allan'
+p63
+(lp64
+I15292
+asS'Ludacris'
+p65
+(lp66
+I25388
+aI25389
+aI25385
+aI25386
+aI25384
+asS'Amanda Brown'
+p67
+(lp68
+I1215
+asS'Krewella'
+p69
+(lp70
+I23568
+aI23569
+asS'Mary Lambert'
+p71
+(lp72
+I26383
+asS'Lana Del Rey'
+p73
+(lp74
+I23709
+aI23713
+aI23708
+aI23710
+aI23711
+aI23712
+asS'Busta Rhymes'
+p75
+(lp76
+I6680
+asS'Willow'
+p77
+(lp78
+I39482
+aI39481
+asS'Young the Giant'
+p79
+(lp80
+I39832
+aI39831
+asS'50 Cent'
+p81
+(lp82
+I201
+aI199
+aI200
+asS'Red Hot Chili Peppers'
+p83
+(lp84
+I31897
+asS'Charlie Worsham'
+p85
+(lp86
+I7624
+asS'Tinashe'
+p87
+(lp88
+I37064
+asS'Craig Campbell'
+p89
+(lp90
+I8873
+aI8874
+aI8872
+aI8871
+asS'5 Seconds Of Summer'
+p91
+(lp92
+I193
+aI194
+aI195
+aI196
+aI197
+aI198
+asS'Ellie Goulding'
+p93
+(lp94
+I12393
+aI12394
+aI12392
+aI12390
+aI12391
+aI12395
+asS'Mindless Behavior'
+p95
+(lp96
+I27229
+asS'deadmau5'
+p97
+(lp98
+I9716
+asS'Snow Patrol'
+p99
+(lp100
+I34845
+aI34844
+asS'Chris Medina'
+p101
+(lp102
+I7964
+asS'Missy Elliott'
+p103
+(lp104
+I27319
+aI27320
+asS'Mary Mary'
+p105
+(lp106
+I26395
+asS'Nickelback'
+p107
+(lp108
+I28395
+aI28393
+aI28394
+asS'Ross Lynch'
+p109
+(lp110
+I33003
+asS'Disturbed'
+p111
+(lp112
+I10675
+asS'Pitbull'
+p113
+(lp114
+I30717
+aI30711
+aI30712
+aI30713
+aI30714
+aI30715
+aI30708
+aI30709
+aI30710
+aI30706
+aI30707
+aI30702
+aI30703
+aI30704
+aI30705
+aI30726
+asS'Sick Puppies'
+p115
+(lp116
+I34517
+asS'Lupe Fiasco'
+p117
+(lp118
+I25457
+aI25458
+aI25459
+aI25460
+aI25455
+aI25456
+aI25454
+aI25453
+asS'Michael Jackson'
+p119
+(lp120
+I26877
+aI26876
+aI26873
+aI26874
+aI26875
+aI26923
+asS'Breathe Carolina'
+p121
+(lp122
+I6093
+asS'Nat King Cole'
+p123
+(lp124
+I27900
+asS'Sara Evans'
+p125
+(lp126
+I33902
+aI33901
+asS'The Band Perry'
+p127
+(lp128
+I2779
+aI2776
+aI2777
+aI2778
+aI2775
+aI2772
+aI2773
+aI2774
+aI2771
+asS'Troop 41'
+p129
+(lp130
+I38036
+asS'Ciara'
+p131
+(lp132
+I8167
+aI8165
+aI8166
+aI8179
+asS'Thompson Square'
+p133
+(lp134
+I36840
+aI36841
+aI36839
+aI36838
+aI36837
+asS'Three 6 Mafia'
+p135
+(lp136
+I36853
+asS'Glen Campbell'
+p137
+(lp138
+I16341
+asS'Kellie Pickler'
+p139
+(lp140
+I22991
+asS'Lloyd Banks'
+p141
+(lp142
+I24941
+asS'Steve Holy'
+p143
+(lp144
+I35453
+asS'Sunny Sweeney'
+p145
+(lp146
+I35794
+asS'Annie Lennox'
+p147
+(lp148
+I1774
+asS'30 Seconds to Mars'
+p149
+(lp150
+I140
+asS'Avenged Sevenfold'
+p151
+(lp152
+I2472
+aI2471
+aI2470
+asS'James Newton Howard'
+p153
+(lp154
+I19705
+asS'Justin Timberlake'
+p155
+(lp156
+I22538
+aI22533
+aI22534
+aI22535
+aI22536
+aI22537
+aI22532
+asS'Sam Hunt'
+p157
+(lp158
+I33631
+aI33632
+asS'Cobra Starship'
+p159
+(lp160
+I8455
+asS'Whitney Houston'
+p161
+(lp162
+I39276
+aI39277
+aI39278
+aI39279
+asS'Ricky Martin'
+p163
+(lp164
+I32315
+asS'Akon'
+p165
+(lp166
+I670
+asS'Lee Brice'
+p167
+(lp168
+I23961
+aI23959
+aI23960
+aI23957
+aI23958
+aI23956
+aI23962
+asS'Montgomery Gentry'
+p169
+(lp170
+I27518
+asS'Jon Pardi'
+p171
+(lp172
+I22132
+asS'Eric Paslay'
+p173
+(lp174
+I12998
+aI12999
+aI13000
+asS'Kip Moore'
+p175
+(lp176
+I23433
+aI23434
+aI23432
+asS'Tove Lo'
+p177
+(lp178
+I37819
+aI37820
+asS'The Ready Set'
+p179
+(lp180
+I31848
+asS'Jason DeRulo'
+p181
+(lp182
+I19991
+aI19992
+aI19987
+aI19988
+aI19989
+aI19986
+aI19984
+aI19985
+aI19981
+aI19982
+aI19983
+aI19994
+asS'Craig Morgan'
+p183
+(lp184
+I8882
+aI8881
+aI8880
+asS'Tessanne Chin'
+p185
+(lp186
+I36736
+aI36734
+aI36735
+asS'Shania Twain'
+p187
+(lp188
+I34246
+asS'Jazmine Sullivan'
+p189
+(lp190
+I20120
+asS'Foo Fighters'
+p191
+(lp192
+I14023
+aI14024
+asS'Mike Will Made It'
+p193
+(lp194
+I27080
+asS'Florence + The Machine'
+p195
+(lp196
+I13945
+aI13944
+aI13943
+aI13946
+asS'Josh Kelley'
+p197
+(lp198
+I22274
+asS'Lucy Hale'
+p199
+(lp200
+I25366
+asS'Disclosure'
+p201
+(lp202
+I10667
+asS'Artists For Haiti'
+p203
+(lp204
+I2341
+asS'Kenny Chesney'
+p205
+(lp206
+I23075
+aI23076
+aI23072
+aI23073
+aI23074
+aI23068
+aI23069
+aI23070
+aI23071
+aI23066
+aI23067
+aI23065
+aI23108
+aI23109
+asS'August Alsina'
+p207
+(lp208
+I2448
+aI2447
+asS'Kris Allen'
+p209
+(lp210
+I23571
+asS'Sevyn Streeter'
+p211
+(lp212
+I34168
+asS'Anne Hathaway'
+p213
+(lp214
+I1720
+asS'Green Shoe Studio'
+p215
+(lp216
+I16870
+asS'Kiesza'
+p217
+(lp218
+I23257
+asS'YC'
+p219
+(lp220
+I39739
+asS'Sugarland'
+p221
+(lp222
+I35757
+aI35756
+asS'YG'
+p223
+(lp224
+I39765
+aI39764
+aI39763
+aI39762
+asS'Jason Michael Carroll'
+p225
+(lp226
+I19995
+asS'Coldplay'
+p227
+(lp228
+I8485
+aI8480
+aI8481
+aI8482
+aI8483
+aI8484
+aI8479
+aI8476
+aI8477
+aI8478
+asS'Theory Of A Deadman'
+p229
+(lp230
+I36810
+asS'Luke Bryan'
+p231
+(lp232
+I25430
+aI25426
+aI25427
+aI25428
+aI25429
+aI25424
+aI25425
+aI25421
+aI25422
+aI25423
+aI25418
+aI25419
+aI25420
+aI25434
+aI25435
+asS'Taylor Swift'
+p233
+(lp234
+I36244
+aI36245
+aI36246
+aI36247
+aI36248
+aI36249
+aI36250
+aI36251
+aI36252
+aI36253
+aI36254
+aI36255
+aI36256
+aI36257
+aI36258
+aI36259
+aI36260
+aI36238
+aI36239
+aI36240
+aI36241
+aI36242
+aI36243
+aI36227
+aI36228
+aI36229
+aI36230
+aI36231
+aI36232
+aI36233
+aI36234
+aI36235
+aI36236
+aI36237
+aI36221
+aI36222
+aI36223
+aI36224
+aI36225
+aI36226
+aI36220
+aI36284
+aI36285
+aI36286
+aI36287
+aI36288
+aI36289
+aI36290
+aI36291
+aI36292
+asS'Gucci Mane'
+p235
+(lp236
+I16910
+asS'Gyptian'
+p237
+(lp238
+I17246
+asS'Afrojack'
+p239
+(lp240
+I620
+aI619
+aI618
+asS'Little Mix'
+p241
+(lp242
+I24824
+asS'Matthew Schuler'
+p243
+(lp244
+I26475
+asS'Far East Movement'
+p245
+(lp246
+I13478
+aI13477
+aI13476
+asS'Keith Urban'
+p247
+(lp248
+I22959
+aI22960
+aI22956
+aI22957
+aI22958
+aI22954
+aI22955
+aI22952
+aI22953
+aI22950
+aI22951
+aI22982
+asS'Mac Miller'
+p249
+(lp250
+I25583
+aI25584
+aI25585
+aI25586
+aI25580
+aI25581
+aI25582
+asS'A-Trak + Milo & Otis'
+p251
+(lp252
+I281
+asS'Maroon 5'
+p253
+(lp254
+I26109
+aI26110
+aI26111
+aI26107
+aI26108
+aI26103
+aI26104
+aI26105
+aI26106
+aI26101
+aI26102
+aI26098
+aI26099
+aI26100
+aI26120
+asS'Austin Mahone'
+p255
+(lp256
+I2453
+aI2452
+asS'Birdman'
+p257
+(lp258
+I4942
+aI4943
+asS'Gym Class Heroes'
+p259
+(lp260
+I17241
+aI17239
+aI17240
+asS'Fat Joe'
+p261
+(lp262
+I13496
+asS'Yolanda Be Cool'
+p263
+(lp264
+I39789
+asS'Jake Owen'
+p265
+(lp266
+I19545
+aI19543
+aI19544
+aI19541
+aI19542
+aI19540
+aI19550
+asS'Jonas Brothers'
+p267
+(lp268
+I22142
+asS'Rise Against'
+p269
+(lp270
+I32448
+asS'Chase Rice'
+p271
+(lp272
+I7639
+aI7638
+asS'Gwyneth Paltrow'
+p273
+(lp274
+I17238
+asS'Fun.'
+p275
+(lp276
+I15166
+aI15167
+aI15165
+asS'The Lumineers'
+p277
+(lp278
+I25449
+aI25448
+asS'Maxwell'
+p279
+(lp280
+I26535
+asS'Tyler Farr'
+p281
+(lp282
+I38128
+aI38127
+aI38129
+asS'One Direction'
+p283
+(lp284
+I28859
+aI28860
+aI28861
+aI28850
+aI28851
+aI28852
+aI28853
+aI28854
+aI28855
+aI28856
+aI28857
+aI28858
+aI28848
+aI28849
+aI28862
+aI28863
+aI28864
+aI28865
+aI28866
+asS'Lloyd'
+p285
+(lp286
+I24936
+aI24935
+asS'Nero'
+p287
+(lp288
+I28227
+asS'Shawn Mendes'
+p289
+(lp290
+I34306
+aI34307
+aI34308
+asS'Selena Gomez'
+p291
+(lp292
+I34130
+aI34131
+aI34132
+aI34128
+aI34129
+aI34127
+aI34125
+aI34126
+aI34137
+asS'David Nail'
+p293
+(lp294
+I9632
+aI9631
+asS'I LOVE MAKONNEN'
+p295
+(lp296
+I18633
+asS'The Black Eyed Peas'
+p297
+(lp298
+I4968
+aI4969
+aI4965
+aI4966
+asS'Ariana Grande'
+p299
+(lp300
+I1943
+aI1944
+aI1945
+aI1946
+aI1947
+aI1939
+aI1940
+aI1941
+aI1942
+aI1948
+aI1949
+asS'Tim McGraw'
+p301
+(lp302
+I36952
+aI36953
+aI36950
+aI36951
+aI36947
+aI36948
+aI36949
+aI36944
+aI36945
+aI36946
+aI36991
+aI36992
+asS'Adam Levine'
+p303
+(lp304
+I547
+aI546
+asS'Pentatonix'
+p305
+(lp306
+I30173
+aI30174
+asS'Brantley Gilbert'
+p307
+(lp308
+I6057
+aI6056
+aI6055
+aI6051
+aI6052
+aI6053
+aI6054
+asS'Rihanna'
+p309
+(lp310
+I32403
+aI32404
+aI32405
+aI32407
+aI32408
+aI32394
+aI32395
+aI32396
+aI32397
+aI32398
+aI32399
+aI32400
+aI32401
+aI32402
+aI32391
+aI32392
+aI32393
+aI32386
+aI32387
+aI32388
+aI32389
+aI32390
+aI32422
+asS'Rick Ross'
+p311
+(lp312
+I32282
+aI32283
+aI32280
+aI32281
+aI32277
+aI32278
+aI32279
+aI32275
+aI32276
+asS'Aloe Blacc'
+p313
+(lp314
+I1178
+asS'Brett Eldredge'
+p315
+(lp316
+I6177
+aI6176
+aI6178
+asS'Vicci Martinez'
+p317
+(lp318
+I38683
+aI38684
+aI38685
+asS'Jason Mraz'
+p319
+(lp320
+I19999
+asS'Jack & Jack'
+p321
+(lp322
+I19244
+asS'Sade'
+p323
+(lp324
+I33496
+asS'Jennifer Hudson'
+p325
+(lp326
+I20232
+aI20231
+aI20230
+asS'Enya'
+p327
+(lp328
+I12912
+asS'Lea Michele'
+p329
+(lp330
+I23912
+asS'Green Day'
+p331
+(lp332
+I16861
+asS'Kings Of Leon'
+p333
+(lp334
+I23371
+aI23372
+asS'Breaking Benjamin'
+p335
+(lp336
+I6082
+asS'Of Monsters And Men'
+p337
+(lp338
+I28721
+asS'Weird Al Yankovic'
+p339
+(lp340
+I39173
+asS"Soulja Boy Tell'em"
+p341
+(lp342
+I35004
+asS'Chris Brown'
+p343
+(lp344
+I7916
+aI7909
+aI7910
+aI7911
+aI7912
+aI7913
+aI7914
+aI7915
+aI7905
+aI7906
+aI7907
+aI7908
+aI7901
+aI7902
+aI7903
+aI7904
+aI7898
+aI7899
+aI7900
+aI7932
+asS'Mike Posner'
+p345
+(lp346
+I27070
+aI27071
+aI27069
+asS'The Black Keys'
+p347
+(lp348
+I4983
+aI4984
+aI4982
+aI4981
+asS'Eli Young Band'
+p349
+(lp350
+I12287
+aI12286
+aI12285
+aI12284
+asS'Duck Sauce'
+p351
+(lp352
+I11471
+asS'Waka Flocka Flame'
+p353
+(lp354
+I38914
+aI38911
+aI38912
+aI38913
+aI38909
+aI38910
+asS'Avril Lavigne'
+p355
+(lp356
+I2494
+aI2491
+aI2492
+aI2493
+aI2490
+aI2487
+aI2488
+aI2489
+aI2486
+asS'Eric Church'
+p357
+(lp358
+I12965
+aI12966
+aI12963
+aI12964
+aI12961
+aI12962
+aI12959
+aI12960
+aI12956
+aI12957
+aI12958
+aI12970
+asS'Love And Theft'
+p359
+(lp360
+I25291
+asS'Andy Grammer'
+p361
+(lp362
+I1535
+aI1534
+aI1536
+asS'Easton Corbin'
+p363
+(lp364
+I11745
+aI11746
+aI11744
+aI11743
+aI11742
+asS'Arctic Monkeys'
+p365
+(lp366
+I1846
+asS'Travie McCoy'
+p367
+(lp368
+I37927
+aI37926
+asS'I Prevail'
+p369
+(lp370
+I18634
+asS'Melanie Fiona'
+p371
+(lp372
+I26677
+asS'Mat Kearney'
+p373
+(lp374
+I26447
+asS'Lifehouse'
+p375
+(lp376
+I24457
+asS'Sara Bareilles'
+p377
+(lp378
+I33899
+aI33897
+aI33898
+asS'Glee Cast'
+p379
+(lp380
+I16200
+aI16201
+aI16202
+aI16203
+aI16204
+aI16205
+aI16206
+aI16207
+aI16208
+aI16209
+aI16210
+aI16211
+aI16212
+aI16213
+aI16214
+aI16215
+aI16216
+aI16217
+aI16218
+aI16219
+aI16220
+aI16221
+aI16222
+aI16223
+aI16224
+aI16225
+aI16226
+aI16227
+aI16228
+aI16229
+aI16230
+aI16231
+aI16232
+aI16233
+aI16234
+aI16235
+aI16236
+aI16237
+aI16238
+aI16239
+aI16240
+aI16241
+aI16242
+aI16243
+aI16244
+aI16245
+aI16246
+aI16247
+aI16248
+aI16249
+aI16250
+aI16251
+aI16252
+aI16253
+aI16254
+aI16255
+aI16256
+aI16257
+aI16258
+aI16259
+aI16260
+aI16261
+aI16262
+aI16263
+aI16264
+aI16265
+aI16266
+aI16267
+aI16268
+aI16269
+aI16270
+aI16271
+aI16272
+aI16273
+aI16274
+aI16275
+aI16276
+aI16277
+aI16278
+aI16279
+aI16125
+aI16126
+aI16127
+aI16128
+aI16129
+aI16130
+aI16131
+aI16132
+aI16133
+aI16134
+aI16135
+aI16136
+aI16137
+aI16138
+aI16139
+aI16140
+aI16141
+aI16142
+aI16143
+aI16144
+aI16145
+aI16146
+aI16147
+aI16148
+aI16149
+aI16150
+aI16151
+aI16152
+aI16153
+aI16154
+aI16155
+aI16156
+aI16157
+aI16158
+aI16159
+aI16160
+aI16161
+aI16162
+aI16163
+aI16164
+aI16165
+aI16166
+aI16167
+aI16168
+aI16169
+aI16170
+aI16171
+aI16172
+aI16173
+aI16174
+aI16175
+aI16176
+aI16177
+aI16178
+aI16179
+aI16180
+aI16181
+aI16182
+aI16183
+aI16184
+aI16185
+aI16186
+aI16187
+aI16188
+aI16189
+aI16190
+aI16191
+aI16192
+aI16193
+aI16194
+aI16195
+aI16196
+aI16197
+aI16198
+aI16199
+aI16099
+aI16100
+aI16101
+aI16102
+aI16103
+aI16104
+aI16105
+aI16106
+aI16107
+aI16108
+aI16109
+aI16110
+aI16111
+aI16112
+aI16113
+aI16114
+aI16115
+aI16116
+aI16117
+aI16118
+aI16119
+aI16120
+aI16121
+aI16122
+aI16123
+aI16124
+aI16097
+aI16098
+asS'George Ezra'
+p381
+(lp382
+I15643
+asS'Outasight'
+p383
+(lp384
+I29023
+asS'Alex Clare'
+p385
+(lp386
+I1036
+asS'Omarion'
+p387
+(lp388
+I28846
+asS'Passion Pit'
+p389
+(lp390
+I29212
+asS'Fabolous'
+p391
+(lp392
+I13355
+aI13354
+asS'Pearl Jam'
+p393
+(lp394
+I29984
+aI29983
+asS'The 1975'
+p395
+(lp396
+I79
+asS'Craig Wayne Boyd'
+p397
+(lp398
+I8892
+aI8893
+aI8894
+asS'Jhene Aiko'
+p399
+(lp400
+I20530
+asS'A Rocket To The Moon'
+p401
+(lp402
+I276
+asS'Muse'
+p403
+(lp404
+I27683
+aI27682
+asS'Alesso'
+p405
+(lp406
+I1033
+aI1034
+asS'Nelly'
+p407
+(lp408
+I28173
+aI28174
+aI28175
+aI28172
+aI28171
+asS'Travis Porter'
+p409
+(lp410
+I37930
+aI37931
+aI37929
+asS'Bastille'
+p411
+(lp412
+I2984
+aI2985
+asS'Hilary Duff'
+p413
+(lp414
+I18251
+asS'Vance Joy'
+p415
+(lp416
+I38386
+aI38387
+asS'Jerrod Niemann'
+p417
+(lp418
+I20316
+aI20314
+aI20315
+aI20313
+aI20312
+asS'Bad Meets Evil'
+p419
+(lp420
+I2730
+aI2731
+asS'Hillsong United'
+p421
+(lp422
+I18267
+asS'Estelle'
+p423
+(lp424
+I13086
+asS'Swedish House Mafia'
+p425
+(lp426
+I35902
+asS'Meghan Trainor'
+p427
+(lp428
+I26640
+aI26641
+aI26642
+aI26643
+aI26644
+asS'Miguel'
+p429
+(lp430
+I27039
+aI27037
+aI27038
+aI27036
+aI27035
+asS'Bobby Brackins'
+p431
+(lp432
+I5448
+asS'Neon Trees'
+p433
+(lp434
+I28226
+aI28225
+aI28224
+asS'Grouplove'
+p435
+(lp436
+I16903
+aI16902
+asS'Jessie J'
+p437
+(lp438
+I20484
+aI20483
+aI20482
+aI20485
+aI20486
+asS'Karmin'
+p439
+(lp440
+I22674
+aI22675
+aI22673
+asS'George Strait'
+p441
+(lp442
+I15824
+aI15825
+aI15823
+aI15822
+aI15821
+aI15820
+asS'Enrique Iglesias'
+p443
+(lp444
+I12899
+aI12900
+aI12896
+aI12897
+aI12898
+aI12895
+aI12893
+aI12894
+aI12890
+aI12891
+aI12892
+asS'Christina Perri'
+p445
+(lp446
+I8033
+aI8034
+aI8031
+aI8032
+aI8030
+asS'MGK'
+p447
+(lp448
+I26824
+asS'Iyaz'
+p449
+(lp450
+I19142
+aI19140
+asS'The Script'
+p451
+(lp452
+I34033
+aI34030
+aI34031
+aI34029
+aI34028
+asS'LMFAO'
+p453
+(lp454
+I24964
+aI24962
+aI24963
+asS'French Montana'
+p455
+(lp456
+I15121
+aI15119
+aI15120
+aI15122
+asS'Troye Sivan'
+p457
+(lp458
+I38043
+asS'Gwen Stefani'
+p459
+(lp460
+I17237
+asS'Emeli Sande'
+p461
+(lp462
+I12672
+asS'Sammy Adams'
+p463
+(lp464
+I33682
+asS'Gotye'
+p465
+(lp466
+I16743
+aI16744
+asS'Aaron Lewis'
+p467
+(lp468
+I314
+asS'Mr. Probz'
+p469
+(lp470
+I27648
+asS'Phillip Phillips'
+p471
+(lp472
+I30626
+aI30624
+aI30625
+aI30623
+asS'Hot Chelle Rae'
+p473
+(lp474
+I18466
+aI18465
+asS'Garrett Hedlund'
+p475
+(lp476
+I15274
+asS'KCamp'
+p477
+(lp478
+I22895
+asS'Hozier'
+p479
+(lp480
+I18516
+asS'RockMafia'
+p481
+(lp482
+I32635
+asS'Tinie Tempah'
+p483
+(lp484
+I37067
+aI37068
+asS'Chris Cagle'
+p485
+(lp486
+I7934
+aI7933
+asS'The Killers'
+p487
+(lp488
+I23265
+aI23264
+asS'Alabama Shakes'
+p489
+(lp490
+I926
+asS'Becky G'
+p491
+(lp492
+I3171
+aI3172
+asS'Maejor Ali'
+p493
+(lp494
+I25667
+asS'Big & Rich'
+p495
+(lp496
+I3897
+aI3896
+asS'Young Money'
+p497
+(lp498
+I39819
+aI39820
+aI39817
+asS'New Hollow'
+p499
+(lp500
+I28281
+aI28280
+asS'Britt Nicole'
+p501
+(lp502
+I6259
+asS'Amber Carrington'
+p503
+(lp504
+I1227
+asS'SoMo'
+p505
+(lp506
+I34893
+asS'Kristen Bell'
+p507
+(lp508
+I23592
+aI23593
+aI23594
+asS'Fetty Wap'
+p509
+(lp510
+I13686
+asS'Ella Henderson'
+p511
+(lp512
+I12372
+asS'Xenia'
+p513
+(lp514
+I39700
+aI39701
+asS'A Thousand Horses'
+p515
+(lp516
+I277
+asS'Echosmith'
+p517
+(lp518
+I11757
+aI11758
+asS'Florida Georgia Line'
+p519
+(lp520
+I13960
+aI13956
+aI13957
+aI13958
+aI13959
+aI13950
+aI13951
+aI13952
+aI13953
+aI13954
+aI13955
+aI13961
+asS'Zac Brown Band'
+p521
+(lp522
+I39878
+aI39879
+aI39880
+aI39875
+aI39876
+aI39877
+aI39872
+aI39873
+aI39874
+aI39870
+aI39871
+aI39884
+asS'Snoop Dogg'
+p523
+(lp524
+I34823
+aI34822
+asS'Kanye West'
+p525
+(lp526
+I22637
+aI22638
+aI22639
+aI22640
+aI22635
+aI22636
+aI22631
+aI22632
+aI22633
+aI22634
+aI22626
+aI22627
+aI22628
+aI22629
+aI22630
+aI22657
+aI22658
+asS'A Great Big World'
+p527
+(lp528
+I273
+asS'J. Cole'
+p529
+(lp530
+I19155
+aI19152
+aI19153
+aI19154
+aI19150
+aI19151
+aI19149
+aI19156
+aI19157
+aI19158
+asS'Auburn'
+p531
+(lp532
+I2434
+asS'My Chemical Romance'
+p533
+(lp534
+I27706
+aI27705
+asS'Adele'
+p535
+(lp536
+I569
+aI570
+aI571
+aI566
+aI567
+aI568
+asS'Nicholas David'
+p537
+(lp538
+I28343
+asS'Madonna'
+p539
+(lp540
+I25611
+asS'Diggy'
+p541
+(lp542
+I10426
+asS'Arcade Fire'
+p543
+(lp544
+I1823
+asS'Britney Spears'
+p545
+(lp546
+I6231
+aI6232
+aI6233
+aI6234
+aI6228
+aI6229
+aI6230
+asS'General Larry Platt'
+p547
+(lp548
+I15575
+asS'Rixton'
+p549
+(lp550
+I32483
+asS'Josh Kaufman'
+p551
+(lp552
+I22272
+aI22273
+asS'Kevin Rudolf'
+p553
+(lp554
+I23214
+asS'Keyshia Cole'
+p555
+(lp556
+I23218
+asS'Rita Ora'
+p557
+(lp558
+I32463
+aI32462
+asS'Rich Homie Quan'
+p559
+(lp560
+I32127
+aI32126
+asS'Cee-Lo Green'
+p561
+(lp562
+I7305
+asS'Shontelle'
+p563
+(lp564
+I34497
+asS'Five Finger Death Punch'
+p565
+(lp566
+I13780
+asS'Marsha Ambrosius'
+p567
+(lp568
+I26129
+aI26128
+asS'Miranda Lambert'
+p569
+(lp570
+I27292
+aI27293
+aI27290
+aI27291
+aI27288
+aI27289
+aI27286
+aI27287
+aI27284
+aI27285
+aI27299
+asS'Josh Thompson'
+p571
+(lp572
+I22276
+asS'Danielle Bradbery'
+p573
+(lp574
+I9303
+aI9304
+aI9305
+aI9306
+aI9307
+aI9308
+aI9309
+asS'John Legend'
+p575
+(lp576
+I21478
+aI21476
+aI21477
+asS'Melanie Martinez'
+p577
+(lp578
+I26679
+aI26680
+asS'The Wanted'
+p579
+(lp580
+I39007
+aI39008
+aI39009
+aI39006
+asS'Ty Dolla $ign'
+p581
+(lp582
+I38103
+aI38104
+asS'Cage The Elephant'
+p583
+(lp584
+I6832
+asS'Young Jeezy'
+p585
+(lp586
+I39805
+aI39804
+aI39802
+aI39803
+aI39801
+aI39800
+asS'AJR'
+p587
+(lp588
+I669
+asS'Trinidad James'
+p589
+(lp590
+I38007
+asS'Common'
+p591
+(lp592
+I8586
+asS'Will Young'
+p593
+(lp594
+I39423
+asS'OK Go'
+p595
+(lp596
+I28756
+asS'Don Omar'
+p597
+(lp598
+I10949
+aI10950
+asS'Godsmack'
+p599
+(lp600
+I16636
+asS'Joe Jonas'
+p601
+(lp602
+I21215
+asS'Ronnie Dunn'
+p603
+(lp604
+I32903
+aI32904
+asS'T-Pain'
+p605
+(lp606
+I36023
+aI36024
+aI36019
+aI36020
+aI36021
+aI36022
+aI36018
+asS'Tegan And Sara'
+p607
+(lp608
+I36576
+aI36575
+asS'Jonn Hart'
+p609
+(lp610
+I22206
+asS'Emblem3'
+p611
+(lp612
+I12671
+asS'Brad Paisley'
+p613
+(lp614
+I5993
+aI5994
+aI5990
+aI5991
+aI5992
+aI5989
+aI5986
+aI5987
+aI5988
+aI5984
+aI5985
+asS'Javier Colon'
+p615
+(lp616
+I20008
+aI20009
+aI20010
+aI20011
+asS'Asher Roth'
+p617
+(lp618
+I2352
+asS'Big Sean'
+p619
+(lp620
+I3936
+aI3937
+aI3938
+aI3935
+aI3933
+aI3934
+aI3932
+aI3939
+aI3940
+aI3941
+aI3942
+asS'Bon Jovi'
+p621
+(lp622
+I5763
+asS'Adam Lambert'
+p623
+(lp624
+I538
+aI539
+aI537
+asS'J. Dash'
+p625
+(lp626
+I19159
+asS'Nicki Minaj'
+p627
+(lp628
+I28429
+aI28430
+aI28431
+aI28432
+aI28424
+aI28425
+aI28426
+aI28427
+aI28428
+aI28417
+aI28418
+aI28419
+aI28420
+aI28421
+aI28422
+aI28423
+aI28416
+aI28414
+aI28415
+aI28433
+aI28434
+aI28435
+aI28436
+aI28437
+asS'Carly Rae Jepsen'
+p629
+(lp630
+I7052
+aI7053
+aI7054
+aI7051
+aI7055
+asS'Kelly Clarkson'
+p631
+(lp632
+I23005
+aI23003
+aI23004
+aI23000
+aI23001
+aI23002
+aI22997
+aI22998
+aI22999
+aI22996
+aI23019
+asS'Flo Rida'
+p633
+(lp634
+I13924
+aI13925
+aI13923
+aI13919
+aI13920
+aI13921
+aI13922
+aI13918
+aI13935
+asS'Ke$ha'
+p635
+(lp636
+I22904
+aI22905
+aI22906
+aI22907
+aI22908
+aI22909
+aI22910
+aI22900
+aI22901
+aI22902
+aI22899
+aI22896
+aI22897
+aI22898
+asS'Natalie La Rose'
+p637
+(lp638
+I27998
+asS'Blink-182'
+p639
+(lp640
+I5067
+aI5068
+asS'ScHoolboy Q'
+p641
+(lp642
+I34008
+aI34006
+aI34007
+asS'Kreayshawn'
+p643
+(lp644
+I23567
+asS'Jesse McCartney'
+p645
+(lp646
+I20455
+asS'Naughty Boy'
+p647
+(lp648
+I28022
+asS'Romeo Santos'
+p649
+(lp650
+I32859
+aI32860
+aI32858
+aI32857
+asS'Cole Swindell'
+p651
+(lp652
+I8495
+aI8496
+aI8497
+asS'Slaughterhouse'
+p653
+(lp654
+I34686
+asS'Spose'
+p655
+(lp656
+I35179
+asS"Disney's Friends For Change"
+p657
+(lp658
+I10673
+asS'Band Aid 30'
+p659
+(lp660
+I2768
+asS'Little Big Town'
+p661
+(lp662
+I24768
+aI24767
+aI24765
+aI24766
+aI24764
+aI24771
+asS'Idina Menzel'
+p663
+(lp664
+I18678
+aI18679
+asS'Dustin Lynch'
+p665
+(lp666
+I11588
+aI11587
+asS'Alexandra Stan'
+p667
+(lp668
+I1042
+asS'Fall Out Boy'
+p669
+(lp670
+I13427
+aI13428
+aI13425
+aI13426
+aI13441
+aI13442
+aI13443
+aI13444
+asS'Dan + Shay'
+p671
+(lp672
+I9220
+asS'Fergie'
+p673
+(lp674
+I13658
+aI13657
+asS'Tamar Braxton'
+p675
+(lp676
+I36127
+aI36126
+asS'Michelle Chamuel'
+p677
+(lp678
+I26981
+aI26982
+asS'Chief Keef'
+p679
+(lp680
+I7841
+aI7840
+asS'Justin Moore'
+p681
+(lp682
+I22530
+aI22529
+aI22527
+aI22528
+aI22526
+aI22525
+asS'White Buffalo & The Forest Rangers'
+p683
+(lp684
+I39254
+asS'V.I.C.'
+p685
+(lp686
+I38308
+asS'Passenger'
+p687
+(lp688
+I29211
+asS'DJ Snake'
+p689
+(lp690
+I10743
+asS'Dia Frampton'
+p691
+(lp692
+I10139
+aI10140
+aI10141
+asS'Kelly Rowland'
+p693
+(lp694
+I23027
+aI23026
+aI23025
+asS'Colbie Caillat'
+p695
+(lp696
+I8466
+aI8464
+aI8465
+aI8463
+aI8462
+asS'Christina Grimmie'
+p697
+(lp698
+I8022
+aI8023
+aI8024
+aI8025
+asS'Kid Ink'
+p699
+(lp700
+I23247
+aI23244
+aI23245
+aI23246
+aI23248
+aI23249
+asS'Jill Scott'
+p701
+(lp702
+I20543
+asS'Katy Perry'
+p703
+(lp704
+I22752
+aI22753
+aI22754
+aI22755
+aI22756
+aI22757
+aI22758
+aI22750
+aI22751
+aI22747
+aI22748
+aI22749
+aI22744
+aI22745
+aI22746
+aI22741
+aI22742
+aI22743
+asS'Gavin DeGraw'
+p705
+(lp706
+I15361
+aI15360
+asS'Cali Swag District'
+p707
+(lp708
+I6879
+asS'Sheryl Crow'
+p709
+(lp710
+I34417
+aI34416
+asS'Rico Love'
+p711
+(lp712
+I32357
+asS'Jaron and The Long Road to Love'
+p713
+(lp714
+I19945
+asS'Panic At The Disco'
+p715
+(lp716
+I29149
+aI29147
+aI29148
+asS'Eddie Vedder'
+p717
+(lp718
+I11983
+asS'Ca$h Out'
+p719
+(lp720
+I6782
+aI6781
+asS'Usher'
+p721
+(lp722
+I38275
+aI38276
+aI38277
+aI38278
+aI38279
+aI38280
+aI38281
+aI38274
+aI38270
+aI38271
+aI38272
+aI38273
+aI38269
+aI38267
+aI38268
+aI38301
+asS'OG Maco'
+p723
+(lp724
+I28729
+asS'B.o.B'
+p725
+(lp726
+I2601
+aI2599
+aI2600
+aI2598
+aI2597
+aI2602
+asS'Faith Hill'
+p727
+(lp728
+I13396
+asS'John Newman'
+p729
+(lp730
+I21612
+asS'3OH!3'
+p731
+(lp732
+I147
+aI148
+aI149
+aI150
+aI151
+aI152
+aI146
+aI145
+asS'The Fray'
+p733
+(lp734
+I14811
+aI14810
+asS'Christina Aguilera'
+p735
+(lp736
+I8002
+aI8003
+aI8004
+aI8005
+aI8001
+aI7998
+aI7999
+aI8000
+asS'Icona Pop'
+p737
+(lp738
+I18667
+asS'T.I.'
+p739
+(lp740
+I36053
+aI36054
+aI36055
+aI36056
+aI36057
+aI36051
+aI36052
+aI36048
+aI36049
+aI36050
+aI36047
+aI36045
+aI36046
+asS'Gloriana'
+p741
+(lp742
+I16614
+aI16613
+asS'O.T. Genasis'
+p743
+(lp744
+I28662
+asS'Lauren Alaina'
+p745
+(lp746
+I23829
+asS'R. Kelly'
+p747
+(lp748
+I31254
+aI31253
+asS'Jaheim'
+p749
+(lp750
+I19531
+aI19532
+asS'Ne-Yo'
+p751
+(lp752
+I28041
+aI28042
+aI28043
+aI28040
+aI28054
+asS'Sara Ramirez'
+p753
+(lp754
+I33912
+asS'Martin Solveig'
+p755
+(lp756
+I26190
+asS'Sage The Gemini'
+p757
+(lp758
+I33511
+aI33512
+asS'LoveRance'
+p759
+(lp760
+I25308
+aI25309
+asS'Steven Tyler'
+p761
+(lp762
+I35538
+asS'Wiz Khalifa'
+p763
+(lp764
+I39582
+aI39583
+aI39584
+aI39585
+aI39586
+aI39587
+aI39578
+aI39579
+aI39580
+aI39581
+aI39576
+aI39577
+aI39588
+aI39589
+asS'Kacey Musgraves'
+p765
+(lp766
+I22598
+aI22597
+asS'PSY'
+p767
+(lp768
+I31118
+aI31117
+aI31116
+asS'The Chainsmokers'
+p769
+(lp770
+I7353
+asS'The Neighbourhood'
+p771
+(lp772
+I28062
+asS'Ace Hood'
+p773
+(lp774
+I408
+aI409
+aI407
+asS'Olly Murs'
+p775
+(lp776
+I28826
+aI28825
+asS'Zendaya'
+p777
+(lp778
+I39903
+asS'Steel Magnolia'
+p779
+(lp780
+I35352
+asS'Natasha Bedingfield'
+p781
+(lp782
+I28002
+asS'Fifth Harmony'
+p783
+(lp784
+I13702
+aI13701
+aI13703
+aI13704
+asS'Cassadee Pope'
+p785
+(lp786
+I7236
+aI7237
+aI7238
+aI7234
+aI7235
+asS'Billy Currington'
+p787
+(lp788
+I4120
+aI4118
+aI4119
+aI4117
+aI4116
+aI4129
+asS'Kendrick Lamar'
+p789
+(lp790
+I23049
+aI23050
+aI23046
+aI23047
+aI23048
+aI23044
+aI23045
+asS'Snootie Wild'
+p791
+(lp792
+I34841
+asS'Bella Thorne'
+p793
+(lp794
+I3247
+aI3246
+asS'Kid Rock'
+p795
+(lp796
+I23255
+asS'Skrillex'
+p797
+(lp798
+I34658
+aI34659
+aI34660
+aI34661
+aI34662
+asS'B.o.B '
+p799
+(lp800
+I2606
+aI2607
+aI2608
+aI2609
+aI2610
+aI2605
+aI2604
+aI2603
+asS'Scotty McCreery'
+p801
+(lp802
+I34025
+aI34024
+aI34022
+aI34023
+asS'Silento'
+p803
+(lp804
+I34529
+asS'Bonnie McKee'
+p805
+(lp806
+I5812
+asS'The Dirty Heads'
+p807
+(lp808
+I10664
+asS'My Darkest Days'
+p809
+(lp810
+I27713
+asS'Katy Tiz'
+p811
+(lp812
+I22763
+asS'V V Brown'
+p813
+(lp814
+I38307
+asS'Major Lazer'
+p815
+(lp816
+I25713
+asS'Alison Gold'
+p817
+(lp818
+I1106
+asS'Dave Matthews Band'
+p819
+(lp820
+I9495
+aI9494
+asS'Cashmere Cat'
+p821
+(lp822
+I7228
+asS'Frank Ocean'
+p823
+(lp824
+I14382
+aI14381
+asS'Dierks Bentley'
+p825
+(lp826
+I10409
+aI10408
+aI10406
+aI10407
+aI10405
+aI10403
+aI10404
+aI10422
+asS'Keri Hilson'
+p827
+(lp828
+I23197
+asS'Danny Gokey'
+p829
+(lp830
+I9325
+asS'Mariah Carey'
+p831
+(lp832
+I25922
+aI25921
+aI25918
+aI25919
+aI25920
+aI25917
+aI25960
+asS'Cash Cash'
+p833
+(lp834
+I7224
+asS'New Boyz'
+p835
+(lp836
+I28242
+aI28239
+aI28240
+asS'will.i.am'
+p837
+(lp838
+I39430
+aI39429
+aI39426
+aI39427
+aI39428
+aI39425
+asS'Yo Gotti'
+p839
+(lp840
+I39779
+aI39778
+aI39777
+asS'Thomas Rhett'
+p841
+(lp842
+I36833
+aI36832
+aI36831
+aI36834
+asS'James Wolpert'
+p843
+(lp844
+I19730
+asS'The-Dream'
+p845
+(lp846
+I36789
+asS'Van Halen'
+p847
+(lp848
+I38344
+asS'Edward Maya & Vika Jigulina'
+p849
+(lp850
+I12184
+asS'Chase Bryant'
+p851
+(lp852
+I7637
+asS'The Barden Bellas'
+p853
+(lp854
+I2898
+aI2899
+asS'Soko'
+p855
+(lp856
+I34853
+asS'Childish Gambino'
+p857
+(lp858
+I7853
+aI7854
+aI7852
+asS"K'Naan"
+p859
+(lp860
+I22590
+aI22589
+asS'La Roux'
+p861
+(lp862
+I23641
+asS'Dr. Dre'
+p863
+(lp864
+I11282
+aI11281
+asS'Charli XCX'
+p865
+(lp866
+I7528
+aI7529
+asS'Brenda Lee'
+p867
+(lp868
+I6116
+asS'Demi Lovato'
+p869
+(lp870
+I10012
+aI10013
+aI10014
+aI10011
+aI10008
+aI10009
+aI10010
+aI10005
+aI10006
+aI10007
+asS'John Mayer'
+p871
+(lp872
+I21505
+aI21503
+aI21501
+aI21502
+aI21499
+aI21500
+asS'Miley Cyrus'
+p873
+(lp874
+I27111
+aI27112
+aI27113
+aI27107
+aI27108
+aI27109
+aI27110
+aI27106
+asS'Reeve Carney'
+p875
+(lp876
+I31992
+asS'Empire Cast'
+p877
+(lp878
+I12765
+aI12766
+aI12767
+asS'Kirk Franklin'
+p879
+(lp880
+I23437
+asS'Jennifer Lopez'
+p881
+(lp882
+I20242
+aI20243
+aI20244
+aI20241
+aI20240
+aI20236
+aI20237
+aI20238
+aI20239
+asS'Josh Turner'
+p883
+(lp884
+I22280
+aI22278
+aI22277
+asS'Linkin Park'
+p885
+(lp886
+I24659
+aI24657
+aI24658
+aI24655
+aI24656
+aI24654
+asS'Antoine Dodson'
+p887
+(lp888
+I1789
+asS'Arianna'
+p889
+(lp890
+I1950
+asS'Young Thug'
+p891
+(lp892
+I39833
+asS'MKTO'
+p893
+(lp894
+I27396
+asS'Martin Garrix'
+p895
+(lp896
+I26186
+asS'Kaskade'
+p897
+(lp898
+I22684
+asS'Kirko Bangz'
+p899
+(lp900
+I23440
+asS'Edens Edge'
+p901
+(lp902
+I12146
+asS'Juliet Simms'
+p903
+(lp904
+I22441
+aI22442
+asS'Victorious Cast'
+p905
+(lp906
+I38782
+aI38783
+aI38784
+asS'Jacquie Lee'
+p907
+(lp908
+I19506
+asS'Michael Buble'
+p909
+(lp910
+I26856
+aI26853
+aI26854
+aI26852
+asS'Jason Aldean'
+p911
+(lp912
+I19970
+aI19972
+aI19967
+aI19968
+aI19969
+aI19964
+aI19965
+aI19966
+aI19961
+aI19962
+aI19963
+aI19954
+aI19955
+aI19956
+aI19957
+aI19958
+aI19959
+aI19960
+aI19980
+asS'The Lonely Island'
+p913
+(lp914
+I25012
+aI25013
+aI25014
+aI25011
+asS'Jamie N Commons'
+p915
+(lp916
+I19742
+asS'Matt Nathanson'
+p917
+(lp918
+I26472
+aI26473
+asS'Bruno Mars'
+p919
+(lp920
+I6466
+aI6467
+aI6462
+aI6463
+aI6464
+aI6465
+aI6460
+aI6461
+aI6457
+aI6458
+aI6459
+aI6456
+asS'Twista'
+p921
+(lp922
+I38087
+asS'Jordin Sparks'
+p923
+(lp924
+I22213
+asS'Toby Keith'
+p925
+(lp926
+I37119
+aI37115
+aI37116
+aI37117
+aI37113
+aI37114
+asS'Sophia Grace'
+p927
+(lp928
+I34952
+asS'Mary J. Blige'
+p929
+(lp930
+I26345
+aI26343
+asS'The Swon Brothers'
+p931
+(lp932
+I35953
+aI35954
+aI35955
+aI35952
+asS'Pink'
+p933
+(lp934
+I30672
+aI30673
+aI30671
+aI30670
+aI30667
+aI30668
+aI30669
+asS'Foster The People'
+p935
+(lp936
+I14083
+aI14082
+asS'Michel Telo'
+p937
+(lp938
+I26970
+asS'Bow Wow'
+p939
+(lp940
+I5902
+asS'Wisin'
+p941
+(lp942
+I39571
+asS'Jack Johnson'
+p943
+(lp944
+I19269
+aI19268
+asS'Driicky Graham'
+p945
+(lp946
+I11426
+asS'Alicia Keys'
+p947
+(lp948
+I1086
+aI1088
+aI1085
+asS'Christopher Wilde'
+p949
+(lp950
+I8053
+aI8054
+aI8055
+asS'Tiesto'
+p951
+(lp952
+I36930
+aI36931
+asS'Tony Bennett'
+p953
+(lp954
+I37610
+asS'k.d. lang'
+p955
+(lp956
+I22582
+asS'Mario'
+p957
+(lp958
+I25986
+asS'Bridgit Mendler'
+p959
+(lp960
+I6223
+aI6224
+aI6225
+aI6222
+asS'WE the Kings'
+p961
+(lp962
+I39133
+aI39132
+asS'Randy Houser'
+p963
+(lp964
+I31442
+aI31443
+aI31441
+aI31446
+asS'Brandy'
+p965
+(lp966
+I6034
+asS'Ray J'
+p967
+(lp968
+I31671
+asS'Rej3ctz'
+p969
+(lp970
+I32036
+asS'Lady Antebellum'
+p971
+(lp972
+I23659
+aI23660
+aI23661
+aI23662
+aI23653
+aI23654
+aI23655
+aI23656
+aI23657
+aI23651
+aI23652
+aI23649
+aI23650
+aI23647
+aI23648
+asS'Taylor John Williams'
+p973
+(lp974
+I36219
+asS'Prince Royce'
+p975
+(lp976
+I31012
+aI31013
+asS'Hoodie Allen'
+p977
+(lp978
+I18383
+asS'Maddie & Tae'
+p979
+(lp980
+I25604
+asS'Nico & Vinz'
+p981
+(lp982
+I28439
+aI28440
+asS'Chris Young'
+p983
+(lp984
+I7987
+aI7985
+aI7986
+aI7983
+aI7984
+aI7981
+aI7982
+aI7980
+aI7989
+asS'Drake'
+p985
+(lp986
+I11345
+aI11346
+aI11347
+aI11348
+aI11349
+aI11350
+aI11351
+aI11338
+aI11339
+aI11340
+aI11341
+aI11342
+aI11343
+aI11344
+aI11334
+aI11335
+aI11336
+aI11337
+aI11321
+aI11322
+aI11323
+aI11324
+aI11325
+aI11326
+aI11327
+aI11328
+aI11329
+aI11330
+aI11331
+aI11332
+aI11333
+aI11320
+aI11356
+aI11357
+aI11358
+aI11359
+aI11360
+aI11361
+aI11362
+aI11363
+aI11364
+aI11365
+asS'Mana'
+p987
+(lp988
+I25754
+asS'Crystal Bowersox'
+p989
+(lp990
+I9030
+asS'Will Champlin'
+p991
+(lp992
+I39376
+asS'Mann'
+p993
+(lp994
+I25800
+asS'Terry McDermott'
+p995
+(lp996
+I36724
+aI36725
+asS'RaeLynn'
+p997
+(lp998
+I31340
+asS'Lillywood'
+p999
+(lp1000
+I24567
+asS'Grace Potter'
+p1001
+(lp1002
+I16764
+asS'Macklemore'
+p1003
+(lp1004
+I25593
+aI25594
+aI25595
+aI25596
+asS'The Game'
+p1005
+(lp1006
+I15232
+aI15233
+aI15231
+asS'Jake Worthington'
+p1007
+(lp1008
+I19551
+asS'Lorde'
+p1009
+(lp1010
+I25057
+aI25058
+aI25053
+aI25054
+aI25055
+aI25056
+asS'Lil Wayne'
+p1011
+(lp1012
+I24520
+aI24521
+aI24522
+aI24523
+aI24524
+aI24525
+aI24526
+aI24527
+aI24528
+aI24529
+aI24508
+aI24509
+aI24510
+aI24511
+aI24512
+aI24513
+aI24514
+aI24515
+aI24516
+aI24517
+aI24518
+aI24519
+aI24507
+aI24504
+aI24505
+aI24506
+aI24503
+asS'David Guetta'
+p1013
+(lp1014
+I9606
+aI9607
+aI9599
+aI9600
+aI9601
+aI9602
+aI9603
+aI9604
+aI9596
+aI9597
+aI9598
+aI9595
+aI9609
+asS'Trey Songz'
+p1015
+(lp1016
+I37959
+aI37962
+aI37963
+aI37957
+aI37958
+aI37953
+aI37954
+aI37955
+aI37956
+aI37950
+aI37951
+aI37952
+aI37970
+asS'The JaneDear Girls'
+p1017
+(lp1018
+I19890
+asS'Hunter Hayes'
+p1019
+(lp1020
+I18624
+aI18625
+aI18621
+aI18622
+aI18623
+aI18620
+asS'2 Chainz'
+p1021
+(lp1022
+I84
+aI85
+aI86
+aI80
+aI81
+aI82
+aI83
+asS'Zedd'
+p1023
+(lp1024
+I39901
+aI39900
+aI39902
+asS'Shinedown'
+p1025
+(lp1026
+I34436
+aI34435
+asS'Joe Nichols'
+p1027
+(lp1028
+I21232
+aI21231
+aI21230
+aI21229
+asS'Taio Cruz'
+p1029
+(lp1030
+I36104
+aI36105
+aI36106
+aI36102
+aI36103
+asS'Bobby Shmurda'
+p1031
+(lp1032
+I5647
+aI5648
+asS'Tyga'
+p1033
+(lp1034
+I38120
+aI38121
+aI38116
+aI38117
+aI38118
+aI38119
+aI38113
+aI38114
+aI38115
+aI38112
+asS'KONGOS'
+p1035
+(lp1036
+I23521
+asS'M83.'
+p1037
+(lp1038
+I25558
+asS'Chris Jamison'
+p1039
+(lp1040
+I7958
+aI7959
+aI7960
+asS'Mika'
+p1041
+(lp1042
+I27041
+asS'Candice Glover'
+p1043
+(lp1044
+I6930
+asS'Alpha Rev'
+p1045
+(lp1046
+I1179
+asS'Rascal Flatts'
+p1047
+(lp1048
+I31485
+aI31486
+aI31483
+aI31484
+aI31480
+aI31481
+aI31482
+aI31479
+aI31478
+asS'No Doubt'
+p1049
+(lp1050
+I28529
+asS'OneRepublic'
+p1051
+(lp1052
+I28876
+aI28874
+aI28873
+aI28872
+aI28870
+aI28871
+aI28880
+asS'Robin Thicke'
+p1053
+(lp1054
+I32608
+aI32606
+aI32607
+aI32605
+asS'Future'
+p1055
+(lp1056
+I15189
+aI15190
+aI15191
+aI15186
+aI15187
+aI15188
+aI15184
+aI15185
+asS'Jana Kramer'
+p1057
+(lp1058
+I19862
+aI19863
+aI19861
+aI19860
+asS'Imagine Dragons'
+p1059
+(lp1060
+I18721
+aI18722
+aI18723
+aI18724
+aI18720
+aI18725
+aI18726
+asS'Hadouken!'
+p1061
+(lp1062
+I17257
+asS'Ed Sheeran'
+p1063
+(lp1064
+I11776
+aI11777
+aI11771
+aI11772
+aI11773
+aI11774
+aI11775
+aI11778
+aI11779
+asS'Greg Bates'
+p1065
+(lp1066
+I16873
+asS'Cher Lloyd'
+p1067
+(lp1068
+I7713
+aI7712
+asS'Matisyahu'
+p1069
+(lp1070
+I26460
+asS'Migos'
+p1071
+(lp1072
+I27034
+aI27032
+aI27033
+asS'Tori Kelly'
+p1073
+(lp1074
+I37785
+asS'Sam Smith'
+p1075
+(lp1076
+I33650
+aI33651
+aI33652
+aI33653
+aI33654
+asS'Diddy'
+p1077
+(lp1078
+I10396
+aI10397
+aI10395
+asS'Shakira'
+p1079
+(lp1080
+I34209
+aI34210
+aI34211
+aI34206
+aI34207
+aI34208
+asS'Trace Adkins'
+p1081
+(lp1082
+I37838
+aI37837
+asS'Daft Punk'
+p1083
+(lp1084
+I9188
+asS'Juicy J'
+p1085
+(lp1086
+I22412
+aI22410
+aI22411
+aI22409
+asS'Hugh Laurie'
+p1087
+(lp1088
+I18566
+asS'Buck 22'
+p1089
+(lp1090
+I6508
+asS'Mark Ronson'
+p1091
+(lp1092
+I26072
+asS'Zach Sobiech'
+p1093
+(lp1094
+I39894
+asS'K. Michelle'
+p1095
+(lp1096
+I22568
+aI22567
+asS'MAGIC!'
+p1097
+(lp1098
+I25677
+asS'Lee DeWyze'
+p1099
+(lp1100
+I23963
+aI23964
+aI23965
+aI23966
+asS'A$AP Ferg'
+p1101
+(lp1102
+I291
+asS'Chiddy Bang'
+p1103
+(lp1104
+I7839
+asS'Milky Chance'
+p1105
+(lp1106
+I27125
+aI27126
+asS'DeJ Loaf'
+p1107
+(lp1108
+I9897
+asS'Samantha Barks'
+p1109
+(lp1110
+I33664
+asS'Train'
+p1111
+(lp1112
+I37906
+aI37902
+aI37903
+aI37904
+aI37900
+aI37901
+aI37899
+aI37898
+asS'Lil Jon'
+p1113
+(lp1114
+I24485
+aI24486
+aI24484
+asS'Jimmy Fallon'
+p1115
+(lp1116
+I20863
+asS'alt-J'
+p1117
+(lp1118
+I1184
+asS'3 Doors Down'
+p1119
+(lp1120
+I124
+asS'Marc Anthony'
+p1121
+(lp1122
+I25832
+asS'Hustle Gang'
+p1123
+(lp1124
+I18631
+asS'The FiNATTiCZ'
+p1125
+(lp1126
+I13709
+asS'Steve Aoki'
+p1127
+(lp1128
+I35440
+asS'Dev'
+p1129
+(lp1130
+I10127
+aI10128
+aI10126
+asS'Sheppard'
+p1131
+(lp1132
+I34408
+asS'Labrinth'
+p1133
+(lp1134
+I23646
+asS'Rocko'
+p1135
+(lp1136
+I32636
+asS'Kid Cudi'
+p1137
+(lp1138
+I23235
+aI23236
+aI23237
+aI23238
+aI23234
+aI23233
+aI23232
+asS'Jermaine Paul'
+p1139
+(lp1140
+I20307
+asS'Fantasia'
+p1141
+(lp1142
+I13458
+aI13457
+asS'Wale'
+p1143
+(lp1144
+I38923
+aI38924
+aI38925
+aI38926
+aI38922
+aI38920
+aI38921
+aI38928
+asS'Martina McBride'
+p1145
+(lp1146
+I26193
+aI26191
+aI26192
+asS'Matt McAndrew'
+p1147
+(lp1148
+I26464
+aI26465
+aI26466
+aI26467
+aI26468
+asS'Ashton Shepherd'
+p1149
+(lp1150
+I2376
+asS'Damien'
+p1151
+(lp1152
+I9208
+asS'Jamie Foxx'
+p1153
+(lp1154
+I19734
+aI19733
+asS'LunchMoney Lewis'
+p1155
+(lp1156
+I25451
+asS'Soundgarden'
+p1157
+(lp1158
+I35013
+asS'AWOLNATION'
+p1159
+(lp1160
+I2511
+aI2510
+asS'Evanescence'
+p1161
+(lp1162
+I13201
+aI13202
+asS'Nick Jonas'
+p1163
+(lp1164
+I28353
+aI28352
+aI28355
+aI28356
+asS'Sia'
+p1165
+(lp1166
+I34515
+aI34516
+asS'A$AP Rocky'
+p1167
+(lp1168
+I292
+aI293
+aI294
+asS'Jay-Z'
+p1169
+(lp1170
+I20057
+aI20058
+aI20059
+aI20055
+aI20056
+aI20052
+aI20053
+aI20054
+aI20045
+aI20046
+aI20047
+aI20048
+aI20049
+aI20050
+aI20051
+aI20044
+asS'Owl City'
+p1171
+(lp1172
+I29066
+asS'Clay Walker'
+p1173
+(lp1174
+I8281
+asS'Monica'
+p1175
+(lp1176
+I27457
+aI27458
+asS'Roscoe Dash'
+p1177
+(lp1178
+I32956
+aI32955
+asS'WALK THE MOON'
+p1179
+(lp1180
+I38929
+asS'Casey Weston'
+p1181
+(lp1182
+I7223
+asS'Casey James'
+p1183
+(lp1184
+I7221
+asS'Blake Shelton'
+p1185
+(lp1186
+I5037
+aI5038
+aI5032
+aI5033
+aI5034
+aI5035
+aI5036
+aI5030
+aI5031
+aI5027
+aI5028
+aI5029
+aI5024
+aI5025
+aI5026
+aI5048
+asS'Calvin Harris'
+p1187
+(lp1188
+I6900
+aI6901
+aI6898
+aI6899
+aI6895
+aI6896
+aI6897
+aI6902
+asS'Justin Bieber'
+p1189
+(lp1190
+I22509
+aI22510
+aI22512
+aI22513
+aI22514
+aI22515
+aI22503
+aI22504
+aI22505
+aI22506
+aI22507
+aI22508
+aI22496
+aI22497
+aI22498
+aI22499
+aI22500
+aI22501
+aI22502
+aI22482
+aI22483
+aI22484
+aI22485
+aI22486
+aI22487
+aI22488
+aI22489
+aI22490
+aI22491
+aI22492
+aI22493
+aI22494
+aI22495
+asS'Sean Paul'
+p1191
+(lp1192
+I34069
+aI34068
+asS'Armin van Buuren'
+p1193
+(lp1194
+I1957
+asS'U2'
+p1195
+(lp1196
+I38178
+asS'Gorilla Zoe'
+p1197
+(lp1198
+I16735
+asS'Havana Brown'
+p1199
+(lp1200
+I17712
+asS'Rich Gang'
+p1201
+(lp1202
+I32125
+aI32124
+asS'Rebecca Black'
+p1203
+(lp1204
+I31876
+aI31875
+asS'Sean Kingston'
+p1205
+(lp1206
+I34059
+aI34060
+aI34061
+aI34058
+asS'Pharrell'
+p1207
+(lp1208
+I30542
+aI30538
+asS'Yellowcard'
+p1209
+(lp1210
+I39745
+asS'DJ Khaled'
+p1211
+(lp1212
+I10730
+aI10728
+aI10729
+aI10726
+aI10727
+aI10725
+aI10724
+asS'Parmalee'
+p1213
+(lp1214
+I29193
+aI29192
+asS'Baauer'
+p1215
+(lp1216
+I2629
+asS'Lady Gaga'
+p1217
+(lp1218
+I23679
+aI23672
+aI23673
+aI23674
+aI23675
+aI23676
+aI23677
+aI23668
+aI23669
+aI23670
+aI23671
+aI23667
+asS'Matchbox 20'
+p1219
+(lp1220
+I26452
+asS'Meek Mill'
+p1221
+(lp1222
+I26634
+aI26635
+aI26633
+aI26636
+asS'Charice'
+p1223
+(lp1224
+I7424
+asS'Jeremih'
+p1225
+(lp1226
+I20279
+aI20278
+asS'China Anne McClain'
+p1227
+(lp1228
+I7865
+asS'TeeFLii'
+p1229
+(lp1230
+I36563
+asS'Joe Budden'
+p1231
+(lp1232
+I21149
+asS'Carrie Underwood'
+p1233
+(lp1234
+I7153
+aI7155
+aI7151
+aI7152
+aI7149
+aI7150
+aI7148
+aI7173
+asS'Shiny Toy Guns'
+p1235
+(lp1236
+I34443
+asS'Ingrid Michaelson'
+p1237
+(lp1238
+I18812
+asS"Plain White T's"
+p1239
+(lp1240
+I30732
+asS'Iggy Azalea'
+p1241
+(lp1242
+I18681
+aI18682
+aI18683
+aI18684
+asS'Lindsey Pavao'
+p1243
+(lp1244
+I24645
+asS'Tony Lucca'
+p1245
+(lp1246
+I37678
+asS'Mumford & Sons'
+p1247
+(lp1248
+I27670
+aI27671
+aI27664
+aI27665
+aI27666
+aI27667
+aI27668
+aI27669
+aI27662
+aI27663
+aI27672
+asS'Pistol Annies'
+p1249
+(lp1250
+I30701
+asS'Miranda Cosgrove'
+p1251
+(lp1252
+I27281
+aI27280
+as.
